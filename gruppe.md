@@ -13,9 +13,9 @@
 ----------------------------------
 **Nikolai Rojahn**
 
-**email:** _default_
+**email:** _niko.rojahn@gmail.com_
 
-**mobil:**  _default_
+**mobil:**  _51880097_
 
 ----------------------------------
 **Rasmus Porse**
