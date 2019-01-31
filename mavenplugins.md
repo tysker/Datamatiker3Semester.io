@@ -1,5 +1,5 @@
 
-## Maven Plugins
+## Get Started
 
 
 * <a href="https://maven.apache.org/download.cgi" target="_blank">**Maven download**</a>
@@ -19,7 +19,7 @@ _java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
 
 ___
 
-## Pom files Maven
+## Plugins Maven
 
 **Creating Documentation for the Project:**
 
