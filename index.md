@@ -4,7 +4,7 @@
 
 **Group List**
 
-[**Info om Gruppen**](gruppe.md)
+[**Info om Gruppen**](gruppe.md)                                                 <img src="program.jpg" width="200"/> 
 
 * Jörg Oertel
 * Nikolai Rojahn
