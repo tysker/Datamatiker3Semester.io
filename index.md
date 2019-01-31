@@ -9,6 +9,12 @@
 
 [**Info om Gruppen**](gruppe.md)
 
+Week | Dato | Link
+-----|------|-----
+Week 1 | 28/01 -> 01/02 | [Teknologi](tek.md), Link
+Week 2 | Link
+Week 3 | Link
+
 **Skole Links**
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
@@ -30,9 +36,5 @@
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
 
 
-Week | Dato | Link
------|------|-----
-Week 1 | 28/01 -> 01/02 | [Teknologi](tek.md), Link
-Week 2 | Link
-Week 3 | Link
+
 
