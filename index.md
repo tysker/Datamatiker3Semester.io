@@ -1,10 +1,12 @@
 [**HOME**](index.md) | [**INFO**](gruppe.md) | [**PLUGINS**](mavenplugins.md) 
 
-## Welcome Gruppe 3
+## Welcome Geeks
+
+<img src="program.jpg"/> 
 
 **Group List**
 
-[**Info om Gruppen**](gruppe.md)                                                 <img src="program.jpg" width="200"/> 
+[**Info om Gruppen**](gruppe.md)                                                
 
 * Jörg Oertel
 * Nikolai Rojahn
