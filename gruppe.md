@@ -2,7 +2,8 @@
 #### Gruppe 3 Gul
 
 
-<img src="joerg.jpg" width="100"/>  
+<img src="joerg.jpg" width="100"/> 
+
 **Jörg Oertel**
 
 **email:** _oerteljoerg@gmail.com_
@@ -22,6 +23,7 @@
 **mobil:**  _default_
 
 <img src="morten.jpg" width="100"/>
+
 **Morten Feldt**
 
 **email:** _mortenguy@hotmail.com_
