@@ -7,23 +7,23 @@
 
 **email:** _oerteljoerg@gmail.com_
 
-**tlf:**  _28123663_
+**mobil:**  _28123663_
 
 **Nikolai Rojahn**
 
 **email:** _default_
 
-**tlf:**  _default_
+**mobil:**  _default_
 
 **Rasmus Porse**
 
 **email:** _default_
 
-**tlf:**  _default_
+**mobil:**  _default_
 
 **Morten Feldt**
 
-**email:** _default_
+**email:** _mortenguy@hotmail.com_
 
-**tlf:**  _default_
+**mobil:**  _41602150_
 
