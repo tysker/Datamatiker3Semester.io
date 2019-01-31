@@ -25,8 +25,7 @@ ___
 
 a) Add this section to your pom-file, just above the properties section.
 
- https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit
-
+* <a href="https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit" target="_blank">**Plugin**</a>
 
 b) Generate the site info using Maven like this: mvn site
 c) Navigate into target→ site→ and double-click the project-info.html file to see the generated information. Make sure that you can find the Javadoc API documentation.
@@ -37,26 +36,27 @@ ___
 
 **Running integration tests with Maven**
 
-https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit
+* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit" target="_blank">**Plugin**</a>
 
 ___
 
 * maven-failsafe-plugin
 
-https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit
+* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit" target="_blank">**Plugin**</a>
 
 ___
 
 
 * Embeded Maven test Plugin
 
-https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit
+* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit" target="_blank">**Plugin**</a>
 
 ___
 
 * Plugin for Netbeans or Remote Tomcat Server
 
-https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit
+* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit" target="_blank">**Plugin**</a>
+
 
 
 
