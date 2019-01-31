@@ -1,3 +1,5 @@
+[**HOME**](index.md) | [**INFO**](gruppe.md) | [**PLUGINS**](mavenplugins.md)  
+
 
 #### Teknologi
 
