@@ -21,6 +21,7 @@
 
 **mobil:**  _default_
 
+<img src="morten.jpg" width="100"/>
 **Morten Feldt**
 
 **email:** _mortenguy@hotmail.com_
