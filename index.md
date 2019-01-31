@@ -6,7 +6,8 @@
 * Nikolai Rojahn
 * Rasmus Porse
 * Morten Feldt
-[Om Gruppen](week1.md)
+
+[Om Gruppen](gruppe.md)
 
 **Skole Links**
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
