@@ -1,4 +1,4 @@
-[**HOME**](index.md) | [**INFO**](gruppe.md) | [**PLUGINS**](mavenplugins.md) 
+[**HOME**](index.md)  [**INFO**](gruppe.md)  [**PLUGINS**](mavenplugins.md) 
 
 
 ## Gruppe 3 Gul
