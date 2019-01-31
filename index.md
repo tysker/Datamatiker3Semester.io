@@ -1,8 +1,6 @@
-[**HOME**](index.md) | [**INFO**](gruppe.md) | [**PLUGINS**](mavenplugins.md) 
+[**HOME**](index.md)  [**INFO**](gruppe.md)  [**PLUGINS**](mavenplugins.md) 
 
 ## Welcome Geeks
-
-<img src="program.jpg" height="200"/> 
 
 **Group List**
 
