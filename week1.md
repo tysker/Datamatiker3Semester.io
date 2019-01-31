@@ -2,7 +2,7 @@
 ## Week 1
 
 
-<img src="joerg.png" width="100"/>  
+<img src="joerg.jpg" width="100"/>  
 **Jörg Oertel**
 **email:** _oerteljoerg@gmail.com_
 **tlf:**  _28123663_
