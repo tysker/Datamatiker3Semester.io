@@ -21,9 +21,13 @@
 
 **Tomcat**
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
+* <a href="http://tomcat.apache.org/" target="_blank">**Tomcat Homepage**</a>
+
 
 
 **Maven**
+* <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
+
 
 Week | Dato | Link
 -----|------|-----
