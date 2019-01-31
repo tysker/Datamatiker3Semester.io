@@ -1,5 +1,5 @@
 
-## Week 1 :blush:
+## Week 1
 
 
 
