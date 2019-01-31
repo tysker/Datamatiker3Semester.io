@@ -2,12 +2,13 @@
 
 **Group List**
 
+[**Info om Gruppen**](gruppe.md)
+
 * Jörg Oertel
 * Nikolai Rojahn
 * Rasmus Porse
 * Morten Feldt
 
-[**Info om Gruppen**](gruppe.md)
 
 Week | Dato | Link
 -----|------|-----
