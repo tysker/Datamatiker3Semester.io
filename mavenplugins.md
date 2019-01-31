@@ -25,7 +25,7 @@ __
 
 a) Add this section to your pom-file, just above the properties section.
 
-</reporting/>
+ <reporting>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -44,13 +44,13 @@ c) Navigate into target→ site→ and double-click the project-info.html file t
 
 d) Use this <a href="https://maven.apache.org/ref/3.6.0/maven-model/maven.html" target="_blank">**link**</a> and add the necessary  fields to your pom-file to include, as a minimum, the following in the report: name, description, list of developers (name+email), the ciManagement system used (Travis)
 
-__
+___
 
 **Running integration tests with Maven**
 
 * maven-surefire-plugin
 
-<plugin>
+\*<plugin>\*
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
     <version>2.12.1</version>
@@ -61,7 +61,7 @@ __
     </configuration>
 </plugin>
 
-__
+___
 
 * maven-failsafe-plugin
 
@@ -84,7 +84,7 @@ __
    </executions>
 </plugin>
 
-__
+___
 
 
 * Embeded Maven test Plugin
@@ -118,7 +118,7 @@ __
    </executions>
 </plugin>
 
-__
+___
 
 * Plugin for Netbeans or Remote Tomcat Server
 
