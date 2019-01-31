@@ -1,5 +1,5 @@
 
-## Week 1
+#### Gruppe 3 Gul
 
 
 <img src="joerg.jpg" width="100"/>  
