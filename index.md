@@ -6,7 +6,7 @@
 * Nikolai Rojahn
 * Rasmus Porse
 * Morten Feldt
-
+[Om Gruppen](week1.md)
 
 **Skole Links**
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
@@ -31,7 +31,7 @@
 
 Week | Dato | Link
 -----|------|-----
-Week 1 | 28/01 -> 01/02 | [Om Gruppen](week1.md)
+Week 1 | 28/01 -> 01/02 | [Teknologi](tek.md), Link
 Week 2 | Link
 Week 3 | Link
 
