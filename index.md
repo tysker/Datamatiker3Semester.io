@@ -19,6 +19,7 @@ Week 3 | Link
 **Skole Links**
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
+* <a href="https://github.com/securitydatspring2019/week-02-A2_A5_A7" target="_blank">**Week 01**</a>
 
 
 **Cheatsheats**
