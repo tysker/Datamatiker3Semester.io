@@ -2,7 +2,7 @@
 
 ## Welcome Geeks
 
-<img src="program.jpg"/> 
+<img src="program.jpg" height="200"/> 
 
 **Group List**
 
