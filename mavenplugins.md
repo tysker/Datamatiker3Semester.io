@@ -17,7 +17,7 @@ _mvn package_
 
 _java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
 
-__
+___
 
 ## Pom files Maven
 
