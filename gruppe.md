@@ -11,7 +11,7 @@
 **mobil:**  _28123663_
 
 ----------------------------------
-
+<img src="nikolai.jpg" width="100"/>
 
 **Nikolai Rojahn**
 
