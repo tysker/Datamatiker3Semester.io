@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome Gruppe 3
 
-You can use the [editor on GitHub](https://github.com/tysker/Datamatiker3Semester.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Group List**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Jörg Oertel
+* Nikolai Rojahn
+* Rasmus Porse
+* Morten Feldt
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Skole Links**
+* <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
+* <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Cheatsheats**
+* <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
+* <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
+* <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Tomcat**
+* <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Maven**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tysker/Datamatiker3Semester.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Week | Link
+-----|-----
+Week 1 | Link
+Week 2 | Link
+Week 3 | Link
