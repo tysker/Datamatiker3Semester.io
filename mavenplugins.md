@@ -37,41 +37,13 @@ ___
 
 **Running integration tests with Maven**
 
-* maven-surefire-plugin
-
-<plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-surefire-plugin</artifactId>
-    <version>2.12.1</version>
-    <configuration>
-       <excludes>
-          <exclude>**/integrationtests/*</exclude>
-       </excludes>
-    </configuration>
-</plugin>
+https://docs.google.com/document/d/e/2PACX-1vR9Atj8XFvnjXUpxntfNLXhRVPx-Tf5tLuv_0Xs7UyAiNYByJBJZ65s2UQpQW0ryMSEh44N7ori4390/pub
 
 ___
 
 * maven-failsafe-plugin
 
-<plugin>
-   <groupId>org.apache.maven.plugins</groupId>
-   <artifactId>maven-failsafe-plugin</artifactId>
-   <version>2.12.4</version>
-   <configuration>
-     <includes>
-       <include>**/integrationtests/*</include>
-     </includes>
-   </configuration>
-   <executions>
-     <execution>
-       <goals>
-         <goal>integration-test</goal>
-         <goal>verify</goal>
-       </goals>
-     </execution>
-   </executions>
-</plugin>
+https://docs.google.com/document/d/e/2PACX-1vR9Atj8XFvnjXUpxntfNLXhRVPx-Tf5tLuv_0Xs7UyAiNYByJBJZ65s2UQpQW0ryMSEh44N7ori4390/pub
 
 ___
 
