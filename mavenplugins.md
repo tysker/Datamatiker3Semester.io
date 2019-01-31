@@ -25,18 +25,7 @@ ___
 
 a) Add this section to your pom-file, just above the properties section.
 
- <reporting>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-javadoc-plugin</artifactId>
-        <version>3.0.1</version>
-        <configuration>
-          <show>public</show>
-        </configuration>
-      </plugin>
-    </plugins>
-</reporting>
+ https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit
 
 
 b) Generate the site info using Maven like this: mvn site
