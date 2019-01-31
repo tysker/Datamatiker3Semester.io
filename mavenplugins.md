@@ -37,73 +37,26 @@ ___
 
 **Running integration tests with Maven**
 
-https://docs.google.com/document/d/e/2PACX-1vR9Atj8XFvnjXUpxntfNLXhRVPx-Tf5tLuv_0Xs7UyAiNYByJBJZ65s2UQpQW0ryMSEh44N7ori4390/pub
+https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit
 
 ___
 
 * maven-failsafe-plugin
 
-https://docs.google.com/document/d/e/2PACX-1vR9Atj8XFvnjXUpxntfNLXhRVPx-Tf5tLuv_0Xs7UyAiNYByJBJZ65s2UQpQW0ryMSEh44N7ori4390/pub
+https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit
 
 ___
 
 
 * Embeded Maven test Plugin
 
-<plugin>  
-   <groupId>org.apache.tomcat.maven</groupId>  
-   <artifactId>tomcat7-maven-plugin</artifactId>  
-   <version>2.2</version>  
-   <configuration>  
-     <path>/</path>
-     <port>7777</port>
-   </configuration>
-   <executions>
-     <execution>
-       <id>start-tomcat</id>
-       <phase>pre-integration-test</phase>
-       <goals>
-         <goal>run</goal>
-       </goals>
-       <configuration>
-         <fork>true</fork>
-       </configuration>
-     </execution>
-     <execution>
-       <id>stop-tomcat</id>
-       <phase>post-integration-test</phase>
-       <goals>
-         <goal>shutdown</goal>
-       </goals>
-     </execution>
-   </executions>
-</plugin>
+https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit
 
 ___
 
 * Plugin for Netbeans or Remote Tomcat Server
 
-<profile>
-  <id>deploylocal</id>
-  <build>
-    <plugins>
-      <plugin>  
-        <groupId>org.apache.tomcat.maven</groupId>  
-        <artifactId>tomcat7-maven-plugin</artifactId>  
-        <version>2.2</version>  
-        <configuration>
-         <url>http://localhost:8084/manager/text</url>  
-         <server>TomcatServer</server>
-         <path>/NameToDeployUnder</path>
-         <username>XXX_USER</username>
-         <password>XXX_PASSWORD</password>
-         <update>true</update>
-        </configuration>  
-      </plugin>
-    </plugins>
-  </build>
-</profile>
-
+https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit
 
 
 
