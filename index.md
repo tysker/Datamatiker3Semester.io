@@ -35,6 +35,7 @@ Week 3 | Link
 
 **Maven**
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
+* [Maven Plugins](mavenplugins.md)
 
 
 
