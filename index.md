@@ -2,10 +2,10 @@
 
 ## Welcome Geeks
 
-**Group List**
-
 [**Info om Gruppen**](gruppe.md)  
 [**Teknologi valg**](tek.md)
+
+**Group List**
 
 * Jörg Oertel
 * Nikolai Rojahn
