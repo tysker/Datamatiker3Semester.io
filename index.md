@@ -2,8 +2,8 @@
 
 ## Welcome Geeks
 
-[**Group Information**](gruppe.md)
-[**Choice of technology**](tek.md)
+[**Group Information**](gruppe.md) -
+[**Choice of technology**](tek.md) -
 [**Test guidelines**](testguidelines.md)
 
 **Group List**
