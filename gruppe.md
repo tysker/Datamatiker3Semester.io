@@ -1,7 +1,7 @@
-[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEK**](tek.md)
+[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEC**](tek.md)
 
 
-## Gruppe 3 Gul
+## Group 3 Yellow
 
 
 <img src="joerg.jpg" width="100"/> 
@@ -54,6 +54,7 @@
 * Nikolai is working outside of the schedule tuesday, wednesday, thursday.
 * All group members try to help eachother to complete given task.
 * Try you socialize once every periode
+* Everything has to be writen in english
 
 ***
 
