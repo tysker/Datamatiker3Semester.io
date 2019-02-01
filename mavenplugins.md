@@ -4,7 +4,7 @@
 
 * **documentation-plugin**
 
-* <a href="https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit" target="_blank">**Plugin**</a>
+* <a href="https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit?usp=sharing" target="_blank">**Plugin**</a>
 
 * **maven-surefire-plugin**
 
