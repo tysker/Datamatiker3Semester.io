@@ -15,7 +15,7 @@
 
 Week | Dato | Link
 -----|------|-----
-Week 1 | 28/01 -> 01/02 | Link
+Week 1 | 28/01 -> 01/02 | [**Review**](https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit)
 Week 2 | Link
 Week 3 | Link
 
