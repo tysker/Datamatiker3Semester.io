@@ -7,7 +7,8 @@
 * NetBeans 8.2
 
 **Backend**
-* Java Version 1.8.0
+* JDK (Java SE Development Kit 8) 1.8.0_201
+* JRE (Java Runtime Environment)  1.8.0_201
 * MySQL WorkBench 8.0
 * Mysql Droplet 5.7.25
 * Java Droplet 1.8.0_191
