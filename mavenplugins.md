@@ -21,7 +21,7 @@ ___
 
 * **Embeded Maven test Plugin**
 
-* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit" target="_blank">**Plugin**</a>
+* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit?usp=sharing" target="_blank">**Plugin**</a>
 
 ___
 
