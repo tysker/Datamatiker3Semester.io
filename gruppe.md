@@ -37,3 +37,29 @@
 
 **mobil:**  _41602150_
 
+***
+
+
+## Team Code of Conduct
+
+* Communicate openly and frequently. The group will communicate through Slack.
+* Share issues with the team
+* Use consensus for team decisions 
+* Actively participate in meetings
+* Be present and engaged
+* Inform the group if you sic, can't attend lectures or group meeting, in good time.
+* If given a task, you are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
