@@ -6,8 +6,9 @@
 
 **Creating a project:**
 
-_mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_
+You will need somewhere for your project to reside, create a directory somewhere and start a shell in that directory. On your command line, execute the following Maven goal:
 
+_mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_
 
 **Build project:**
 
@@ -15,7 +16,20 @@ _mvn package_
 
 **Test project**
 
+You may test the newly compiled and packaged JAR with the following command:
+
 _java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
+
+**Maven Phases**
+* **validate:** validate the project is correct and all necessary information is available
+* **compile:** compile the source code of the project
+* **test:** test the compiled source code using a suitable unit testing framework. These tests should not require the code be packaged or deployed
+* **package:** take the compiled code and package it in its distributable format, such as a JAR.
+* **integration-test:** process and deploy the package if necessary into an environment where integration tests can be run
+* **verify:** run any checks to verify the package is valid and meets quality criteria
+* **install:** install the package into the local repository, for use as a dependency in other projects locally
+* **deploy:** done in an integration or release environment, copies the final package to the remote repository for sharing with other   developers and projects.
+
 
 ___
 
