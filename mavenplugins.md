@@ -27,7 +27,7 @@ ___
 
 * **Plugin for Netbeans or Remote Tomcat Server**
 
-* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit" target="_blank">**Plugin**</a>
+* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit?usp=sharing" target="_blank">**Plugin**</a>
 
 
 
