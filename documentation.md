@@ -2,7 +2,7 @@
 
 **Creating Documentation for the Project:**
 
-The Site Plugin is used to generate a site for the project. The generated site also includes the project's reports that were configured in the POM. Don’t spend to much time on this part, but your CA’s and the semester project should include a documentation site
+The Site Plugin is used to generate a site for the project. The generated site also includes the project's reports that were configured in the POM. 
 
 
 a) Add this section to your pom-file, just above the properties section.
