@@ -1,4 +1,4 @@
-[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEC**](tek.md)
+[**HOME**](index.md)
 
 
 ## Group 3 Yellow
