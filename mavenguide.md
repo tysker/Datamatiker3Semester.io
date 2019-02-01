@@ -20,6 +20,18 @@ You may test the newly compiled and packaged JAR with the following command:
 
 _java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
 
+**Clean Project**
+
+This command will clean the project, copy dependencies, and package the project (executing all phases up to package, of course).
+
+_mvn clean dependency:copy-dependencies package_
+
+**Generating Site**
+
+This phase generates a site based upon information on the project's pom. You can look at the documentation generated under target/site.
+
+_mvn site_
+
 **Maven Phases**
 * **validate:** validate the project is correct and all necessary information is available
 * **compile:** compile the source code of the project
@@ -30,7 +42,14 @@ _java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
 * **install:** install the package into the local repository, for use as a dependency in other projects locally
 * **deploy:** done in an integration or release environment, copies the final package to the remote repository for sharing with other   developers and projects.
 
+There are two other Maven lifecycles of note beyond the default list above. They are
 
+* **clean:** cleans up artifacts created by prior builds
+* **site:** generates site documentation for this project
+
+Phases are actually mapped to underlying goals. The specific goals executed per phase is dependant upon the packaging type of the project. For example, package executes jar:jar if the project type is a JAR, and war:war if the project type is - you guessed it - a WAR.
+
+An interesting thing to note is that phases and goals may be executed in sequence.
 ___
 
 ## Plugins Maven
