@@ -3,10 +3,6 @@
 
 [**Group Information**](gruppe.md) -
 [**Choice of technology**](tek.md) -
-[**Test guidelines**](testguidelines.md) -
-[**Maven Plugins**](mavenplugins.md) -
-
-[**Create Maven Project**](mavenguide.md) -
 [**Dictionary**](dictionary.md)
 
 
@@ -22,6 +18,8 @@ Week 3 | Link
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
 * <a href="https://github.com/securitydatspring2019/week-02-A2_A5_A7" target="_blank">**Week 02**</a>
 
+**Guidelines**
+ * [**Test guidelines**](testguidelines.md) -
 
 **Cheat sheet**
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
@@ -40,6 +38,7 @@ Week 3 | Link
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
 * [**Maven Plugins**](mavenplugins.md)
+* [**Create Maven Project**](mavenguide.md)
 
 
 
