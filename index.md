@@ -34,6 +34,7 @@ Week 3 | Link
 
 **Maven**
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
+* <a href="https://maven.apache.org/guides/getting-started/index.html">**Maven Getting Started Guide**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
 * [**Maven Plugins**](mavenplugins.md)
