@@ -20,6 +20,7 @@ Week 2 | Link
 Week 3 | Link
 
 **Skole Links**
+* <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Læringsmål**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
 * <a href="https://github.com/securitydatspring2019/week-02-A2_A5_A7" target="_blank">**Week 02**</a>
