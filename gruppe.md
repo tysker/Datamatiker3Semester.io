@@ -22,11 +22,12 @@
 **mobil:**  _51880097_
 
 ***
+<img src="rasmus.jpg" width="100"/>
 **Rasmus Porse**
 
-**email:** _default_
+**email:** _porseg69@gmail.com_
 
-**mobil:**  _default_
+**mobil:**  _20913475_
 
 ***
 <img src="morten.jpg" width="100"/>
