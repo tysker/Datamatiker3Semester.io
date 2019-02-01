@@ -8,7 +8,7 @@
 
 Week | Dato | Link
 -----|------|-----
-Week 1 | 28/01 -> 01/02 | [**Review**](https://docs.google.com/document/d/e/2PACX-1vS22UeF-lV8ST-gDm3fg6ZxiZA_47VJFS8ZJLtyP6VHl8BkqATIdVj8mB0QF6qhup4SCgsYSuYEvjn3/pub)
+Week 1 | 28/01 -> 01/02 | [**Review**](https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing)
 Week 2 | Link
 Week 3 | Link
 
