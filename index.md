@@ -1,10 +1,11 @@
-[**HOME**](index.md)    [**INFO**](gruppe.md)   [**PLUGINS**](mavenplugins.md)    [**TEK**](tek.md)
+[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEK**](tek.md)
 
 ## Welcome Geeks
 
 **Group List**
 
-[**Info om Gruppen**](gruppe.md)                                                
+[**Info om Gruppen**](gruppe.md)  
+[**Teknologi valg**](tek.md)
 
 * Jörg Oertel
 * Nikolai Rojahn
@@ -14,7 +15,7 @@
 
 Week | Dato | Link
 -----|------|-----
-Week 1 | 28/01 -> 01/02 | [Teknologi](tek.md), Link
+Week 1 | 28/01 -> 01/02 | Link
 Week 2 | Link
 Week 3 | Link
 
