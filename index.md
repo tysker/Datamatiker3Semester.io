@@ -5,7 +5,8 @@
 [**Choice of technology**](tek.md) -
 [**Test guidelines**](testguidelines.md) -
 [**Maven Plugins**](mavenplugins.md) -
-[**Create Maven Project**](mavenguide.md.md) -
+
+[**Create Maven Project**](mavenguide.md) -
 [**Dictionary**](dictionary.md)
 
 
