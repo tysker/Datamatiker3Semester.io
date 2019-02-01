@@ -55,6 +55,8 @@
 * All group members try to help eachother to complete given task.
 * Try you socialize once every periode
 
+***
+
 ## How to write code
 
 * Packages lower case
@@ -67,6 +69,12 @@
 * Avoid Duplicate Of Coding
 * Write Javadoc to methods instantly
 * Self-explanatory method and class names
+
+***
+
+
+
+
 
 
 
