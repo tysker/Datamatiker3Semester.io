@@ -55,7 +55,18 @@
 * All group members try to help eachother to complete given task.
 * Try you socialize once every periode
 
+## How to write code
 
+* Packages lower case
+* Class names - each word starts with upper case
+* Variables lower case
+* FINAL variables (FINAL with upper case)
+* Methods start with lower case and each word after that with upper case
+* Test classes: ClassNameTest
+* Testing methods : methodNameTest
+* Avoid Duplicate Of Coding
+* Write Javadoc to methods instantly
+* Self-explanatory method and class names
 
 
 
