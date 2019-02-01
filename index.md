@@ -3,7 +3,7 @@
 
 [**Group Information**](gruppe.md) -
 [**Choice of technology**](tek.md) -
-[**Test guidelines**](testguidelines.md)
+[**Test guidelines**](testguidelines.md) -
 [**Maven Plugins**](mavenplugins.md)
 
 **Group List**
