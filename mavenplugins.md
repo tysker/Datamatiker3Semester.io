@@ -14,7 +14,7 @@ ___
 
 * **maven-failsafe-plugin**
 
-* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit" target="_blank">**Plugin**</a>
+* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit?usp=sharing" target="_blank">**Plugin**</a>
 
 ___
 
