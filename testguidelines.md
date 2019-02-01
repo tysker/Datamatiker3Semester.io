@@ -8,7 +8,7 @@ For specific plug-in information, please go to this page: [Plugins](tek.md)
 
 1. Create a test package (packagename)
 2. Write the tests for each relevant method associated with the Class.
-3. For **Maven** to regocnize the tests add **@Test** above the test-method.
+3. For **Maven** to recognize the tests add **@Test** above the test-method.
 
 
 * **Exclude integration tests from your unit test, and why this is necessary**
@@ -24,7 +24,7 @@ This is neccessarry in order to run the JUnit tests seperate.
 
 *  **How and what to do, to test a Tomcat based WEB-API, via maven’s verify phase**
 
-1. Stay in the project folder and run the command "**mvn verify -Ptest**"
+1. Stay in the project folder and run the command "**mvn verify "(-Ptest**)""
 
 
 * **How and what to do, to deploy your code via maven**
