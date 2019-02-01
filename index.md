@@ -1,9 +1,9 @@
-[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEK**](tek.md)
+[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEC**](tek.md)
 
 ## Welcome Geeks
 
-[**Info om Gruppen**](gruppe.md)  
-[**Teknologi valg**](tek.md)
+[**Group Information**](gruppe.md)  
+[**Choice of technology**](tek.md)
 
 **Group List**
 
@@ -19,7 +19,7 @@ Week 1 | 28/01 -> 01/02 | [**Review**](https://docs.google.com/document/d/1rLwf_
 Week 2 | Link
 Week 3 | Link
 
-**Skole Links**
+**SChool Links**
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Læringsmål**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
