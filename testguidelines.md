@@ -24,12 +24,12 @@ This is neccessarry in order to run the JUnit tests seperate.
 
 *  **How and what to do, to test a Tomcat based WEB-API, via maven’s verify phase**
 
-1. Stay in the project folder and run the command "**mvn verify "(-P <Profilename>**)"" P = 
+1. Stay in the project folder and run the command "**mvn verify** "(-P <Profilename>)"
 
 
 * **How and what to do, to deploy your code via maven**
 
-1. Stay in the project folder and run the command "**mvn tomcat7:deploy "(-P <Profilename>)"**"
+1. Stay in the project folder and run the command "**mvn tomcat7:deploy** "(-P <Profilename>)"
 
 
 * **How and what to do, to integrate your project with Travis**
