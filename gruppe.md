@@ -49,8 +49,11 @@
 * Use consensus for team decisions 
 * Actively participate in meetings
 * Be present and engaged
-* Inform the group if you sic, can't attend lectures or group meeting, in good time.
-* If given a task, you are
+* Inform the group if you sick, can't attend lectures or group meeting, in good time.
+* If deadline is given each member is responsible to follow it.
+* Nikolai is working outside of the schedule tuesday, wednesday, thursday.
+* All group members try to help eachother to complete given task.
+* Try you socialize once every periode
 
 
 
