@@ -4,7 +4,8 @@
 [**Group Information**](gruppe.md) -
 [**Choice of technology**](tek.md) -
 [**Test guidelines**](testguidelines.md) -
-[**Maven Plugins**](mavenplugins.md)
+[**Maven Plugins**](mavenplugins.md) -
+[**Dictionary**](dictionary.md)
 
 
 Week | Dato | Link
