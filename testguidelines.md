@@ -29,7 +29,7 @@ This is neccessarry in order to run the JUnit tests seperate.
 
 * **How and what to do, to deploy your code via maven**
 
-1. Stay in the project folder and run the command "**mvn tomcat7:deploy -Premote**"
+1. Stay in the project folder and run the command "**mvn tomcat7:deploy "(-Premote)"**"
 
 
 * **How and what to do, to integrate your project with Travis**
