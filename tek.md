@@ -1,7 +1,7 @@
-[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEK**](tek.md)
+[**HOME**](index.md)  -  [**INFO**](gruppe.md)  -  [**PLUGINS**](mavenplugins.md)  -  [**TEC**](tek.md)
 
 
-#### Teknologi
+#### Technology
 
 **IDE**
 * NetBeans 8.2
@@ -16,7 +16,7 @@
 * Ubuntu 16.04.1-b12
 * Maven 3.6.0
 
-**Andet**
+**Miscellaneous**
 * GitHub
 * Travis
 * GitBash
