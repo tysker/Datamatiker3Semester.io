@@ -5,9 +5,9 @@ For specific plug-in information, please go to this page: [Plugins](tek.md)
 
 * **Unit Test all “relevant” public methods via Maven**
 
-  1. Create a test package (packagename)
-  2. Write the tests for each relevant method associated with the Class.
-  3. For **Maven** to regocnize the tests add **@Test** above the test-method.
+ 1. Create a test package (packagename)
+ 2. Write the tests for each relevant method associated with the Class.
+ 3. For **Maven** to regocnize the tests add **@Test** above the test-method.
 
 * **Exclude integration tests from your unit test, and why this is necessary**
 
