@@ -3,7 +3,9 @@
 ## Welcome Geeks
 
 [**Group Information**](gruppe.md)  
+
 [**Choice of technology**](tek.md)
+
 [**Maven guidelines**](mavenguidelines.md)
 
 **Group List**
