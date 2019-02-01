@@ -19,14 +19,14 @@ Week 1 | 28/01 -> 01/02 | [**Review**](https://docs.google.com/document/d/1rLwf_
 Week 2 | Link
 Week 3 | Link
 
-**SChool Links**
+**School Links**
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Learning Objectives**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3_Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
 * <a href="https://github.com/securitydatspring2019/week-02-A2_A5_A7" target="_blank">**Week 02**</a>
 
 
-**Cheatsheats**
+**Cheat sheet**
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
