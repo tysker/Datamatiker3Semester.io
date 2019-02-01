@@ -6,13 +6,6 @@
 [**Test guidelines**](testguidelines.md) -
 [**Maven Plugins**](mavenplugins.md)
 
-**Group List**
-
-* Jörg Oertel
-* Nikolai Rojahn
-* Rasmus Porse
-* Morten Feldt
-
 
 Week | Dato | Link
 -----|------|-----
