@@ -5,7 +5,7 @@
 ## Deployment with Maven on a remote Tomcat Server
 
 
-1. Create an admin user for Tomcat, and assign the necessary roles
+**1. Create an admin user for Tomcat, and assign the necessary roles**
 
 * Open /etc/tomcat8/tomcat-users.xml with nano as given below:
 
@@ -25,7 +25,7 @@ _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 
 _service tomcat8 restart_
 
-2. Setting up profiles
+**2. Setting up profiles**
 
 First, you should add a new section to your pom-file, just below your build-section as sketched below:
 
