@@ -3,7 +3,7 @@
 
 
 ## Deployment with Maven on a remote Tomcat Server
-hallo
+
 
 1. Create an admin user for Tomcat, and assign the necessary roles
 
@@ -11,7 +11,8 @@ hallo
 
 _sudo nano /etc/tomcat8/tomcat-users.xml_
 
-Insert the following after line 21 in the file – please use your own password!
+* Insert the following after line 21 in the file – please use your own password!
+  * The manager-gui role will allow you to add war-files using Tomcat’s  “Web Application Manager”. The manager-script role will allow you to upload war-files using Maven
 
 _\<role rolename="manager-gui"/\>_
 
@@ -23,3 +24,5 @@ _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 * Restart the Tomcat Server:   
 
 _service tomcat8 restart_
+
+2. 
