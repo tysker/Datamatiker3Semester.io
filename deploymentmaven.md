@@ -31,7 +31,9 @@ Insert the profile given below to your pom file and give it the id (can also be 
 
 * <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit?usp=sharing" target="_blank">**Plugin**</a>
 
-* Verify that you can deploy like this: _mvn tomcat7:deploy -Pdeployremote_
+* Verify that you can deploy like this: 
+
+_mvn tomcat7:deploy -Pdeployremote_
 
 * This does unfortunately not execute our integration test since they are “controlled” by the test-profile. Run both like this: 
 
