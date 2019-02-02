@@ -15,7 +15,9 @@ _sudo nano /etc/tomcat8/tomcat-users.xml_
   * The manager-gui role will allow you to add war-files using Tomcat’s  “Web Application Manager”. The manager-script role will allow you to upload war-files using Maven
 
 _\<role rolename="manager-gui"/\>_
+
 _\<role rolename="manager-script"/\>_
+
 _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 
 * Save the file
@@ -23,18 +25,14 @@ _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 
 _service tomcat8 restart_
 
-**2. Setting up profiles**
+**2. Deploy to a remote Tomcat Server**
 
-First, you should add a new section to your pom-file, just below your build-section as sketched below:
+Insert the profile given below to your pom file and give it the id (can also be different)deployremote, and fill in the details for your remote server.
 
-\<profiles\>
-  ...
-\</profiles\>
+* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit?usp=sharing" target="_blank">**Plugin**</a>
 
-* A profile for integration-tests (emeded server)
+* Verify that you can deploy like this: _mvn tomcat7:deploy -Pdeployremote_
 
-Add a new profile to your pom file:
+* This does unfortunately not execute our integration test since they are “controlled” by the test-profile. Run both like this: 
 
-* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit?usp=sharing" target="_blank">**Plugin**</a>
-
-
+_mvn verify -Ptest tomcat7:deploy -Pdeployremote_
