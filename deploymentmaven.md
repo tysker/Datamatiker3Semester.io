@@ -15,9 +15,7 @@ _sudo nano /etc/tomcat8/tomcat-users.xml_
   * The manager-gui role will allow you to add war-files using Tomcat’s  “Web Application Manager”. The manager-script role will allow you to upload war-files using Maven
 
 _\<role rolename="manager-gui"/\>_
-
 _\<role rolename="manager-script"/\>_
-
 _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 
 * Save the file
