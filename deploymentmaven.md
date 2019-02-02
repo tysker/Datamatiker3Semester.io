@@ -25,4 +25,18 @@ _\<user name="admin" password="XXX" roles="manager-gui,manager-script"/\>_
 
 _service tomcat8 restart_
 
-2. 
+2. Setting up profiles
+
+First, you should add a new section to your pom-file, just below your build-section as sketched below:
+
+\<profiles\>
+  ...
+\</profiles\>
+
+* A profile for integration-tests (emeded server)
+
+Add a new profile to your pom file:
+
+* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit?usp=sharing" target="_blank">**Plugin**</a>
+
+
