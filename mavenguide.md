@@ -10,29 +10,29 @@
 
 You will need somewhere for your project to reside, create a directory somewhere and start a shell in that directory. On your command line, execute the following Maven goal:
 
-**_mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_**
+_mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_
 
 **Build project:**
 
-**_mvn package_**
+_mvn package_
 
 **Test project**
 
 You may test the newly compiled and packaged JAR with the following command:
 
-**_java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_**
+_java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App_
 
 **Clean Project**
 
 This command will clean the project, copy dependencies, and package the project (executing all phases up to package, of course).
 
-**_mvn clean dependency:copy-dependencies package_**
+_mvn clean dependency:copy-dependencies package_
 
 **Generating Site**
 
 This phase generates a site based upon information on the project's pom. You can look at the documentation generated under target/site.
 
-**_mvn site_**
+_mvn site_
 
 **Maven Phases**
 * **validate:** validate the project is correct and all necessary information is available
