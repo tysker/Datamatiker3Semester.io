@@ -6,7 +6,7 @@
 
 **HINT!**
 
-_To get goal and information about a plugin, write in GitBash follwing command:
+* To get goal and information about a plugin, write in GitBash follwing command:
 
 _ mvn help:describe -Dplugin=pluginName
 
