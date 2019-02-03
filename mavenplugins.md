@@ -4,7 +4,8 @@
 
 * A plugin is a collection of one or more goals.
 * A goal is a "unit of work" in Maven
-![alt text](goals.jpg "Logo Title Text 1")
+
+![alt text](goal.jpg "Plugins Goals")
 
 * **documentation-plugin**
 
