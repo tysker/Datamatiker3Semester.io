@@ -1,6 +1,6 @@
 [**HOME**](index.md)
 
-* <a https://maven.apache.org/plugins/index.html" target="_blank">**Available Plugins on Apache Maven Site**</a>
+* <a href="https://maven.apache.org/plugins/index.html" target="_blank">**Available Plugins on Apache Maven Site**</a>
 
 * **documentation-plugin**
 
