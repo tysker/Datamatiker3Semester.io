@@ -8,9 +8,9 @@
 
 * To get goal and information about a plugin, write in GitBash follwing command:
 
-_ mvn help:describe -Dplugin=pluginName
+_ mvn help:describe -Dplugin=pluginName_
 
-_example: mvn help:describe -Dplugin=archetype_
+_**example:** mvn help:describe -Dplugin=archetype_
 
 
 ![alt text](goal.jpg "Plugins Goals")
