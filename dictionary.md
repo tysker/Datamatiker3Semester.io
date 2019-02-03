@@ -15,3 +15,6 @@ _Web Application Resource or Web application ARchive_
 
 **RAR**
 _RAR stands for Resource Adapter Archive_
+
+**IDE**
+_Integrated Development Environment_
