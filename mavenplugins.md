@@ -6,7 +6,7 @@
 
 ![alt text](goal.jpg "Plugins Goals")
 
-## Maven consist of seberal core plugins:
+## Maven consist of several core plugins:
 * JAR plugin (which creates the JAR, or Java Archive files.)
 * Compiler Plugin (which contains goals for compiling source code and unit tests.)
 * Surefire plugin ( which is used for executing unit tests and generating reports.)
