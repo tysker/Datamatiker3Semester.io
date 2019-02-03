@@ -7,6 +7,10 @@
 
 * The file is stored with an XML extension.
 
+* The POM file in our project is extendet by something called **Super POM**. To see the entire pom file, we can run a command from the command prompt:
+
+_mvn help:effective-pom_
+
 **Minimum requirements:**
 
 \<project\>
