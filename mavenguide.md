@@ -12,7 +12,7 @@ You will need somewhere for your project to reside, create a directory somewhere
 
 _mvn archetype:generate -DgroupId=**com.default** -DartifactId=**NameOfProject** -DarchetypeArtifactId=**maven-archetype-quickstart** -DarchetypeVersion=**1.4** -DinteractiveMode=**false**_
 
-<a href="https://maven.apache.org/archetypes/index.html" target="_blank">**Maven Archtypes**</a>
+* <a href="https://maven.apache.org/archetypes/index.html" target="_blank">**Maven Archtypes**</a>
 
 **HINT!** : If you leave out -DarchetypeVersion=1.4, Maven automatically creates the newest version in the POM file.
 
