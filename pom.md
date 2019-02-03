@@ -10,12 +10,8 @@
 **Minimum requirements:**
 
 \<project\>
-
-\<groupID\>com.lynda\</project\>
-
-\<artifactId\>calculator\</\artifactId>
-
-\<version\>1.0\</version\>
-
+   \<groupID\>com.lynda\</project\>
+   \<artifactId\>calculator\</\artifactId>
+   \<version\>1.0\</version\>
 \</project\>
 
