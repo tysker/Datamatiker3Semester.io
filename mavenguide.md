@@ -10,7 +10,9 @@
 
 You will need somewhere for your project to reside, create a directory somewhere and start a shell in that directory. On your command line, execute the following Maven goal:
 
-_mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_
+_mvn archetype:generate -DgroupId=**com.default** -DartifactId=**NameOfProject** -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false_
+
+**HINT!** : If you leave out -DarchetypeVersion=1.4, Maven atomaticly creates the newest version.
 
 **Build project:**
 
