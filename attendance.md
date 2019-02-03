@@ -1,4 +1,4 @@
-[GROUP INFO](gruppe.md)
+[**Group Information**(gruppe.md)
 
 
 ## Leave Days
