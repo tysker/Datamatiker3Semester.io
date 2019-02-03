@@ -1,6 +1,6 @@
 
 
-## Attendance schedule
+## Leave Days
 
 
 |   **Name**    |   **Date**  |
