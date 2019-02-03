@@ -5,10 +5,9 @@
 * A goal is a "unit of work" in Maven (You find the goals for each plugin in the link "Complete List of Plugins on Apache Maven Site")
 
 **HINT!**
+_To get goal and information about a plugin, write in GitBash follwing command:_ mvn help:describe -Dplugin=pluginName
 
-_to get goal and information about a plugin, write in GitBash folling command:_ mvn help:describe -Dplugin=pluginName
-
-_e.ks mvn help:describe -Dplugin=archetype_
+_example: mvn help:describe -Dplugin=archetype_
 
 
 ![alt text](goal.jpg "Plugins Goals")
