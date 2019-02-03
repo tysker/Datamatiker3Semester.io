@@ -12,3 +12,6 @@ _Java ARchive_
 
 **WAR**
 _Web Application Resource or Web application ARchive_
+
+**RAR**
+_RAR stands for Resource Adapter Archive_
