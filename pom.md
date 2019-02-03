@@ -15,3 +15,18 @@
    \<version\>**1.0**\</version\>
 \</project\>
 
+
+## POM Categories
+
+* Project coordinates
+* Project license
+* List of developers and contributors to the project
+* List of project dependencies
+* The name of this project
+* The URL associated with this project
+* Packaging type
+* Scope of the element listed
+* Even information about inheritance
+
+
+
