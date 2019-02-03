@@ -4,6 +4,13 @@
 * A plugin is a collection of one or more goals.
 * A goal is a "unit of work" in Maven (You find the goals for each plugin in the link "Complete List of Plugins on Apache Maven Site")
 
+**HINT!**
+
+_to get goal and information about a plugin, write in GitBash folling command:_ mvn help:describe -Dplugin=pluginName
+
+_e.ks mvn help:describe -Dplugin=archetype_
+
+
 ![alt text](goal.jpg "Plugins Goals")
 
 ## Maven consist of several core plugins:
