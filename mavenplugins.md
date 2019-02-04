@@ -59,7 +59,7 @@ As we can see, the Failsafe plugin has two main goals configured here:
   
 **To run a specific goal, without executing its entire phase (and the preceding phases)**
 
-_mvn <PLUGIN>:<GOAL>_
+_mvn \<PLUGIN\>:\<GOAL\>_
 
 **HINT!**
 
