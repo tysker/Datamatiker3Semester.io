@@ -15,8 +15,8 @@ Each life cycle consists of a sequence of phases. The default build life cycle c
 
 On the other hand, clean life cycle consists of 3 phases, while the site lifecycle is made up of 4 phases.
 
+____
 
-___
 
 For the full list of each lifecycle’s phases, check out the  <a href="http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference" target="_blank">**Maven Reference.**</a>
 
@@ -42,7 +42,7 @@ An interesting thing to note is that phases and goals may be executed in sequenc
 
 mvn \<PHASE\>
   
-___
+____
 
 
 **Maven Goal**
