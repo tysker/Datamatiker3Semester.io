@@ -9,6 +9,19 @@
 * Create custom plugins (A custom plugin can be written in Java, or a plugin can be written in any number of languages, including Ant, Groovy, Bean, Ciao or Ruby.)
 * <a href="https://maven.apache.org/plugins/index.html" target="_blank">**Complete List of Plugins on Apache Maven Site**</a>
 
+**HINT!**
+
+* To get goal and information about a plugin, write in GitBash follwing command:
+
+_mvn help:describe -Dplugin=pluginName_
+
+_**example:** mvn help:describe -Dplugin=archetype_
+
+
+![alt text](goal.jpg "Plugins Goals")
+
+___
+
 
 * **documentation-plugin**
 
@@ -61,16 +74,7 @@ As we can see, the Failsafe plugin has two main goals configured here:
 
 _mvn \<PLUGIN\>:\<GOAL\>_
 
-**HINT!**
 
-* To get goal and information about a plugin, write in GitBash follwing command:
-
-_mvn help:describe -Dplugin=pluginName_
-
-_**example:** mvn help:describe -Dplugin=archetype_
-
-
-![alt text](goal.jpg "Plugins Goals")
 
 
 
