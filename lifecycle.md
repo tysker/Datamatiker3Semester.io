@@ -18,7 +18,7 @@ On the other hand, clean life cycle consists of 3 phases, while the site lifecyc
 
 ___
 
-For the full list of each lifecycle’s phases, check out the Maven Reference.
+For the full list of each lifecycle’s phases, check out the  <a href="http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference" target="_blank">**Maven Reference.**</a>
 
 **Maven Phases**
 
