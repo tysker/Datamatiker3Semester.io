@@ -1,7 +1,14 @@
 [**HOME**](index.md)
 
-
 **Maven Plugins**
+
+## Maven consist of several core plugins:
+* JAR plugin (which creates the JAR, or Java Archive files.)
+* Compiler Plugin (which contains goals for compiling source code and unit tests.)
+* Surefire plugin ( which is used for executing unit tests and generating reports.)
+* Create custom plugins (A custom plugin can be written in Java, or a plugin can be written in any number of languages, including Ant, Groovy, Bean, Ciao or Ruby.)
+* <a href="https://maven.apache.org/plugins/index.html" target="_blank">**Complete List of Plugins on Apache Maven Site**</a>
+
 
 * **documentation-plugin**
 
@@ -65,12 +72,6 @@ _**example:** mvn help:describe -Dplugin=archetype_
 
 ![alt text](goal.jpg "Plugins Goals")
 
-## Maven consist of several core plugins:
-* JAR plugin (which creates the JAR, or Java Archive files.)
-* Compiler Plugin (which contains goals for compiling source code and unit tests.)
-* Surefire plugin ( which is used for executing unit tests and generating reports.)
-* Create custom plugins (A custom plugin can be written in Java, or a plugin can be written in any number of languages, including Ant, Groovy, Bean, Ciao or Ruby.)
-* <a href="https://maven.apache.org/plugins/index.html" target="_blank">**Complete List of Plugins on Apache Maven Site**</a>
 
 
 
