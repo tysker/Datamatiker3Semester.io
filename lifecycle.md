@@ -40,5 +40,30 @@ Phases are actually mapped to underlying goals. The specific goals executed per 
 
 An interesting thing to note is that phases and goals may be executed in sequence.
 
+mvn <PHASE>
+___
+
+
+**Maven Goal**
+
+Each phase is a sequence of goals, and each goal is responsible for a specific task.
+When we run a phase – all goals bound to this phase are executed in order.
+
+Here are some of the phases and default goals bound to them:
+
+* compiler:compile – the compile goal from the compiler plugin is bound to the compile phase
+* compiler:testCompile is bound to the test-compile phase
+* surefire:test is bound to test phase
+* install:install is bound to install phase
+* jar:jar and war:war is bound to package phase
+
+**Maven Plugins**
+
+A Maven plugin is a group of goals. However, these goals aren’t necessarily all bound to the same phase.
+
+For example, here’s a simple configuration of the Maven Failsafe plugin which is responsible for running integration tests:
+
+
+
 
 
