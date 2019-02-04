@@ -63,6 +63,8 @@ A Maven plugin is a group of goals. However, these goals aren’t necessarily al
 
 For example, here’s a simple configuration of the Maven Failsafe plugin which is responsible for running integration tests:
 
+![alt text](plugins.jpg "Plugins")
+
 
 
 
