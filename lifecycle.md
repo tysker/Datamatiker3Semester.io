@@ -40,7 +40,7 @@ Phases are actually mapped to underlying goals. The specific goals executed per 
 
 An interesting thing to note is that phases and goals may be executed in sequence.
 
-mvn <PHASE>
+mvn \<PHASE\>
   
 ___
 
@@ -59,16 +59,9 @@ Here are some of the phases and default goals bound to them:
 * jar:jar and war:war is bound to package phase
 
 
-___
 
 
-**Maven Plugins**
 
-A Maven plugin is a group of goals. However, these goals aren’t necessarily all bound to the same phase.
-
-For example, here’s a simple configuration of the Maven Failsafe plugin which is responsible for running integration tests:
-
-![alt text](plugins.jpg "Plugins")
 
 
 
