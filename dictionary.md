@@ -14,10 +14,10 @@
 <a href="https://en.wikipedia.org/wiki/WAR_(file_format)" target="_blank">_Web Application Resource or Web application ARchive_</a>
 
 **RAR**
-_RAR stands for Resource Adapter Archive_
+<a href="https://docs.oracle.com/javaee/5/tutorial/doc/bncjy.html" target="_blank">_RAR stands for Resource Adapter Archive_</a>
 
 **IDE**
-_Integrated Development Environment_
+<a href="https://searchsoftwarequality.techtarget.com/definition/integrated-development-environment" target="_blank">_Integrated Development Environment_</a>
 
 **TDD**
 <a href="https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm" target="_blank">_Test Driven Development_</a>
