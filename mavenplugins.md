@@ -17,9 +17,6 @@ _mvn help:describe -Dplugin=pluginName_
 
 _**example:** mvn help:describe -Dplugin=archetype_
 
-
-![alt text](goal.jpg "Plugins Goals")
-
 ___
 
 
