@@ -21,7 +21,7 @@ Week 3 | Link
 
 
 **Guidelines**
- * [**Test guidelines**](testguidelines.md) -
+ * [**Test guidelines**](testguidelines.md)
 
 **Cheat sheet**
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
