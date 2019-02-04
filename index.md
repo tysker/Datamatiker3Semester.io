@@ -46,6 +46,7 @@ Week 3 | Link
 * <a href="https://maven.apache.org/guides/getting-started/index.html" target="_blank">**Maven Getting Started Guide**</a>
 * [**Maven Plugins**](mavenplugins.md)
 * [**Maven Phase or life cycle**](lifecycle.md)
+* <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
 * [**Create Maven Project**](mavenguide.md)
 * [**Creating Documentation for the Project**](documentation.md)
 * [**Deployment with Maven on a remote Tomcat Server**](deploymentmaven.md)
