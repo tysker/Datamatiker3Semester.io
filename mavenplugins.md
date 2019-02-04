@@ -1,8 +1,26 @@
 [**HOME**](index.md)
 
 
-* A plugin is a collection of one or more goals.
+**Maven Plugins**
+
+* A Maven plugin is a group of goals. However, these goals aren’t necessarily all bound to the same phase.
 * A goal is a "unit of work" in Maven (You find the goals for each plugin in the link "Complete List of Plugins on Apache Maven Site")
+
+For example, here’s a simple configuration of the Maven Failsafe plugin which is responsible for running integration tests:
+![alt text](plugins.jpg "Plugins")
+
+As we can see, the Failsafe plugin has two main goals configured here:
+
+* integration-test: run integration tests
+* verify: verify all integration tests passed
+
+ **To list all goals in a specific plugin:**
+ 
+ _mvn <PLUGIN>:help_
+  
+**To run a specific goal, without executing its entire phase (and the preceding phases)**
+
+_mvn <PLUGIN>:<GOAL>_
 
 **HINT!**
 
