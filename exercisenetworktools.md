@@ -8,7 +8,7 @@
     
 * **Use Google and/or the help to investigate _ipconfig_. What kind of information do we get from this program.**
     * Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
-    * <a href=" https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig" target="_blank">**Link**</a>
+    * <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig" target="_blank">**Link**</a>
     
 * **Use Google and/or the help to investigate ping. What kind of information do we get from this program.**
     * Ping is a basic Internet program that allows a user to verify that a particular IP address exists and can accept requests.
