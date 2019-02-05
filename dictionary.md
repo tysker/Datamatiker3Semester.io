@@ -40,6 +40,6 @@
 <a href="https://computer.howstuffworks.com/dns.htm" target="_blank">_Domain Name Server_</a>
 
 **DHCP**
- _Dynamic Host Configuration Protocol _
+ _Dynamic Host Configuration Protocol_
   * The job of a DHCP server is to make sure your computer has the IP address and other network configuration it needs whenever you're online.
 
