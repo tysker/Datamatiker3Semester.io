@@ -18,7 +18,7 @@ Week 3 | Link
 * <a href="https://studypoints.info/#/view1" target="_blank">**StudyPoints**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3 Semester**</a>
 * <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
-* <a href="https://github.com/securitydatspring2019/week-02-A2_A5_A7" target="_blank">**Week 02**</a>
+* <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**Week 02**</a>
 
 
 **Courses**
