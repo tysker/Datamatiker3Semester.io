@@ -28,3 +28,10 @@
 **OSI**
 <a href="https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">_Open Systems Interconnection Model_</a> ---
 <a href="https://www.youtube.com/watch?v=LANW3m7UgWs" target="_blank">_Video_</a>
+
+**UDP**
+<a href="https://www.lifewire.com/user-datagram-protocol-817976" target="_blank">_User Datagram Protocol_</a>
+
+**TCP**
+
+
