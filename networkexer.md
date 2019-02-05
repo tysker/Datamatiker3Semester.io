@@ -1,7 +1,6 @@
 
-**Understanding Basic Network Terms like: IP, TCP/IP, DNS, DHCP and more.**
+## Understanding Basic Network Terms like: IP, TCP/IP, DNS, DHCP and more.
 
-**Most of these exercises are meant to be answered in text, so write down your replies so you will remember.**
 
 **1.What is your public IP address right now, and how did you find it?**
  * google "what is my ip"
