@@ -24,3 +24,7 @@
 
 **EAR files**
 <a href="https://en.wikipedia.org/wiki/EAR_(file_format)" target="_blank">_Enterprise Application Archive_</a>
+
+**OSI**
+<a href="https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">_Open Systems Interconnection Model_</a>
+<a href="https://www.youtube.com/watch?v=LANW3m7UgWs" target="_blank">_Video_</a>
