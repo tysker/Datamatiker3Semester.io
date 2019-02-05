@@ -19,7 +19,7 @@
   * 192.168.0.0 – 192.168.255.255
 
       * All 3 IP ranges are reserved for private communication only. 
-      * <a href="https://en.wikipedia.org/wiki/Reserved_IP_addresses" target="_blank"></a>
+      * <a href="https://en.wikipedia.org/wiki/Reserved_IP_addresses" target="_blank">**Link**</a>
 
 **4.What’s special about this ip-address: 127.0.0.1?**
   * Det er en localHostIp.
@@ -55,7 +55,7 @@
   * Comandprompt command ipconfig /all = 10.255.1.9
 
 **13.Explain (conceptually) about the TCP/IP-protocol stack**
-  * http://www.technologyuk.net/telecommunications/internet/tcp-ip-stack.shtml
+  * <a href="http://www.technologyuk.net/telecommunications/internet/tcp-ip-stack.shtml" target="_blank">**Link**</a>
 
 **14.Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)**
   * HTTP er en protokol der beder en server på TCP-port 80 (med mindre andet er angivet) om specifikke ressourcer. Serveren svarer med HTTP-protokolkode for at angive det overordnede resultat af anmodningen, og derefter typisk selve ressourcen (fx et HTML-dokument eller et billede) eller en fejlbesked.. 
