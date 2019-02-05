@@ -51,7 +51,7 @@ Most of these exercises are meant to be answered in text, so write down your rep
   * Comandprompt command ipconfig /all = 10.255.1.9
 
 13.Explain (conceptually) about the TCP/IP-protocol stack
-  * 
+  * http://www.technologyuk.net/telecommunications/internet/tcp-ip-stack.shtml
 
 14.Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)
   * HTTP er en protokol der beder en server på TCP-port 80 (med mindre andet er angivet) om specifikke ressourcer. Serveren svarer med HTTP-protokolkode for at angive det overordnede resultat af anmodningen, og derefter typisk selve ressourcen (fx et HTML-dokument eller et billede) eller en fejlbesked.. 
