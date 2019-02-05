@@ -12,9 +12,11 @@
   * LAN (LocalArealNetwork) Ip = 10.50.130.166 = commandPrompt --> ipconfig /all
 
 **3.What’s special about these address ranges?**
-10.0.0.0 – 10.255.255.255
-172.16.0.0 – 172.31.255.255
-92.168.0.0 – 192.168.255.255
+  10.0.0.0 – 10.255.255.255
+  172.16.0.0 – 172.31.255.255
+  192.168.0.0 – 192.168.255.255
+
+ * All 3 IP ranges are reserved for private communication only. 
 
 **4.What’s special about this ip-address: 127.0.0.1?**
   * Det er en localHostIp.
