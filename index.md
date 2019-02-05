@@ -28,7 +28,7 @@ Week 3 | Link
 
 **Excercises**
  * [**Test guidelines**](testguidelines.md)
- * [**Exercises - Network stack**](networkexercise.md.md)
+ * [**Network Exercises**](networkexercise.md)
 
 
 **Cheat sheet**
