@@ -17,6 +17,7 @@
   * 192.168.0.0 – 192.168.255.255
 
       * All 3 IP ranges are reserved for private communication only. 
+      * https://en.wikipedia.org/wiki/Reserved_IP_addresses
 
 **4.What’s special about this ip-address: 127.0.0.1?**
   * Det er en localHostIp.
