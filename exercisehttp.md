@@ -20,6 +20,8 @@ Press F5 and observe the values again.
 
 Explain what you see. 2) Monitoring HTTP Headers 2
 
+<img src="viewsource1.png" alt="index.html"/>          <img src="viewsource2.png" alt="index1.html "/>
+
 * Add an image to the page
 * Add an external style sheet to the page: (<link rel="stylesheet" type="text/css" href="myStyle.css">)
 Reload the page again, observe the request(s) being made, and explain the purpose of the Connection: header.
