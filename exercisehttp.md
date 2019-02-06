@@ -1,6 +1,6 @@
 [HOME](index.md)
 
-##Exercises - HTTP
+## Exercises - HTTP
 
 
 **1) Monitoring HTTP Headers 1**
@@ -94,7 +94,7 @@ Change the forms method-attribute to the value “POST” and test the form. Obs
 
 Write down your observations
 
-##Session and Cookies
+## Session and Cookies
 
 For the next two exercises/demos you should create a new web-project. Both the demos uses a Servlet.
 
