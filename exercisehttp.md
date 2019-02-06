@@ -20,7 +20,7 @@ Press F5 and observe the values again.
 
 Explain what you see. 2) Monitoring HTTP Headers 2
 
-<img src="viewsource1.png" alt="index.html" width="200"/>          <img src="viewsource2.png" alt="index1.html" width="200"/>
+<img src="viewsource1.png" alt="index.html" width="400"/>          <img src="viewsource2.png" alt="index1.html" width="400"/>
 
 * Add an image to the page
 * Add an external style sheet to the page: (<link rel="stylesheet" type="text/css" href="myStyle.css">)
