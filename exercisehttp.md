@@ -143,6 +143,9 @@ Change the forms method-attribute to the value “POST” and test the form. Obs
 
 Write down your observations
 
+_method="POST" = The URL looks like that = http://localhost:8084/HttpExercise/input.html_
+_method="GET" = The URL looks like that = http://localhost:8084/HttpExercise/input.html?hidden=12345678_
+
 ## Session and Cookies
 
 For the next two exercises/demos you should create a new web-project. Both the demos uses a Servlet.
