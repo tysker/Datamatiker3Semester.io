@@ -91,6 +91,19 @@ This information is available to a servlet (is available to any web-server techn
 
 Hints: Use the request objects getHeaderXXX methods.
 
+ @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        processRequest(request, response);
+        
+        Enumeration\<String\> header = request.getHeaderNames();
+        
+        while(header.hasMoreElements()){
+            String h = header.nextElement();
+            System.out.println(h + " ---- " + request.getHeader(h));
+        }
+    }
+
 **6) Get/Post-parameters**
 
 Create a new html-file in the web-project made in exercise 1.
