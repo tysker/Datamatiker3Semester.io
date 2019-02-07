@@ -48,11 +48,12 @@ Enter the address for the servlet (http:localhost:8084/HttpExcercise/redirect) i
  
 * How the browser knew where to go in the second request
 
- @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.sendRedirect("r.html");
     }
+
+ 
  
 ____
 
@@ -115,7 +116,7 @@ This information is available to a servlet (is available to any web-server techn
 
 Hints: Use the request objects getHeaderXXX methods.
 
- @Override
+ 
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         processRequest(request, response);
