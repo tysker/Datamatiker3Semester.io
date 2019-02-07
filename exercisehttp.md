@@ -18,7 +18,8 @@ Observe the values
 
 Press F5 and observe the values again.
 
-_ 
+___
+
 
 **2) Monitoring HTTP Headers**
 
@@ -27,6 +28,7 @@ _
 Reload the page again, observe the request(s) being made, and explain the purpose of the Connection: header.
 
 ____
+
 
 **3) Monitoring HTTP Headers 3 (Response-codes 3xx)**
 
@@ -47,14 +49,13 @@ Enter the address for the servlet (http:localhost:8084/HttpExcercise/redirect) i
  _2. r.html: Status Code: 200 OK (from disk cache)
  
 * How the browser knew where to go in the second request
-
-protected void doGet(HttpServletRequest request, HttpServletResponse response)
+       
+       @Override
+       protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.sendRedirect("r.html");
     }
 
- 
- 
 ____
 
 
@@ -70,6 +71,7 @@ Important: Later this week, you will learn how to setup your own server to use h
 
 ____
 
+
 **4a) Status Codes (5xx)**
 
 Use the Wizard to create a servlet called ups In the processRequest(..) method, just before the try-statement add this code: int result = 100/0;
@@ -83,6 +85,7 @@ _The server failed to fulfil the request._
 
 ____
 
+
 **4b) Status Codes (4xx)**
 
 While your server is running, open open Chrome developer tools and the network tab, and call this address: http://localhost:8080/i_dont_exist
@@ -93,6 +96,7 @@ _HTTP Status 404 Not Found_
 _The HTTP 404, 404 Not Found, and 404 error message is a Hypertext Transfer Protocol (HTTP) standard response code, in computer network communications, to indicate that the client was able to communicate with a given server, but the server could not find what was requested._
 
 ___
+
 
 **4c) Status Codes - Ranges**
 
@@ -108,6 +112,7 @@ Explain (write down your answer so you won’t forget) the meaning of the first 
 * https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
 ___
+
 
 **5) Get HTTP Request Headers on the Server**
 
@@ -140,6 +145,7 @@ Hints: Use the request objects getHeaderXXX methods.
 
 ___
 
+
 **6) Get/Post-parameters**
 
 Create a new html-file in the web-project made in exercise 1.
@@ -158,6 +164,8 @@ Write down your observations
 
 _method="POST" = The URL looks like that = http://localhost:8084/HttpExercise/input.html_
 _method="GET" = The URL looks like that = http://localhost:8084/HttpExercise/input.html?hidden=12345678_
+
+___
 
 ## Session and Cookies
 
