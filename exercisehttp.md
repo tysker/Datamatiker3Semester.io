@@ -18,7 +18,9 @@ Observe the values
 
 Press F5 and observe the values again.
 
-Explain what you see. 2) Monitoring HTTP Headers 2
+_ 
+
+**2) Monitoring HTTP Headers**
 
 * Add an image to the page
 * Add an external style sheet to the page: (<link rel="stylesheet" type="text/css" href="myStyle.css">)
@@ -38,12 +40,22 @@ In the doGet(..) method replace the call to processRequest() with this line: res
 
 While your server is running, open a (Chrome) browser, and in this, open Chrome Developer Tools and the network tab.
 
-Enter the address for the servlet (http:localhost:8080/redirect) into the browser and explain:
+Enter the address for the servlet (http:localhost:8084/HttpExcercise/redirect) into the browser and explain:
 
 * The two http-request you see
+ _1. redirect: Status Code: 302 Found = The HTTP response status code 302 Found is a common way of performing URL redirection._
+ _2. r.html: Status Code: 200 OK (from disk cache)
+ 
 * How the browser knew where to go in the second request
 
+ @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        response.sendRedirect("r.html");
+    }
+ 
 ____
+
 
 **3a) Redirecting to https instead of http**
 
