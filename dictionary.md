@@ -3,6 +3,7 @@
 ## D
 **DNS** 
 <a href="https://computer.howstuffworks.com/dns.htm" target="_blank">_Domain Name Server_</a>
+
 **DHCP**
  <a href="https://kb.iu.edu/d/adov" target="_blank">_Dynamic Host Configuration Protocol_</a>
  
@@ -14,7 +15,9 @@
 
 **IDE**
 <a href="https://searchsoftwarequality.techtarget.com/definition/integrated-development-environment" target="_blank">_Integrated Development Environment_</a>
+
 **ISP** _Internet Service Provider_
+
 **ISO**
 <a href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization" target="_blank">_International Organization for Standardization_</a>
 
@@ -35,12 +38,14 @@
 ## R
 **Rest API**
 <a href="https://searchmicroservices.techtarget.com/definition/RESTful-API" target="_blank">_Representational State Transfer_</a>
+
 **RAR**
 <a href="https://docs.oracle.com/javaee/5/tutorial/doc/bncjy.html" target="_blank">_RAR stands for Resource Adapter Archive_</a>
 
 ## T
 **TDD**
 <a href="https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm" target="_blank">_Test Driven Development_</a>
+
 **TCP/IP**
 <a href="https://www.lifewire.com/user-datagram-protocol-817976" target="_blank">_Transmission Control Protocol / Internet Protocol_</a>
 
