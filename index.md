@@ -6,10 +6,10 @@
 [**Dictionary**](dictionary.md)
 
 
-Week | Dato | Link
------|------|-----
-Week 1 | 28/01 => 01/02 | <a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Review**</a>
-Week 2 | Link
+Week | Dato | Link | Review |
+-----|------|------|--------|
+Week 1 | 28/01 - 01/02 |  <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a> | <a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Review**</a>
+Week 2 | 04/02 - 08/02  | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**Week 02**</a>
 Week 3 | Link
 
 
@@ -17,8 +17,6 @@ Week 3 | Link
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Learning Objectives**</a>
 * <a href="https://studypoints.info/#/view1" target="_blank">**StudyPoints**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3 Semester**</a>
-* <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>
-* <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**Week 02**</a>
 
 
 **Courses**
