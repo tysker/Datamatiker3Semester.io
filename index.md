@@ -17,6 +17,8 @@ Week 3 | 11/02 - 15/02  |
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Learning Objectives**</a>
 * <a href="https://studypoints.info/#/view1" target="_blank">**StudyPoints**</a>
 * <a href="https://github.com/cphdat3sem2019spring/main" target="_blank">**3 Semester**</a>
+* <a href="https://cloud.timeedit.net/cphbusiness/web" target="_blank">**Time Edit**</a>
+* <a href="https://cphbusiness.mrooms.net/" target="_blank">**Moodle**</a>
 
 
 **Courses**
