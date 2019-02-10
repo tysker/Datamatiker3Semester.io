@@ -4,7 +4,7 @@
 ## Nginx excercise
 
 
-* **What is the purpose on Nginx (a reverse proxy) as used in this week*?*
+* **What is the purpose on Nginx (a reverse proxy) as used in this week?**
 
 _The purpose of an reversed proxy is that all requests coming in on port 80 will face requirements for communication through https before being forwarded to the tomcat server on port 8080._
 
