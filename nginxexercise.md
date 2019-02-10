@@ -13,18 +13,18 @@ _The purpose of an reversed proxy is that all requests coming in on port 80 will
 
 _The primary reason why we use an ssl-certificate is to keep sensitive information sent across the network encrypted, so only the intended receiver can access and read the information._
 
-  * Who is your certificate issued to?
+  * **Who is your certificate issued to?**
   
   _The ssl-certificate is issued to my domain  joergoertel.com www.joergoertel.com_
   
-  * What is the expiry date for your certificate?
+  * **What is the expiry date for your certificate?**
   
   _Expiry Date: 2019-05-08 17:13:17+00:00 (VALID: 89 days)_
   
-  * Who/what guarantees that your certificate is valid and not a certificate from a “man in the middle”?
+  * **Who/what guarantees that your certificate is valid and not a certificate from a “man in the middle”?**
   
   _**????????????????????????**_
   
-  * What is the value of the public key, contained in your certificate?
+  * **What is the value of the public key, contained in your certificate?**
   
   _It is to be found in the folder: Certificate Path: /etc/letsencrypt/live/joergoertel.com/fullchain.pem_
