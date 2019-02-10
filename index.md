@@ -30,7 +30,7 @@ Week 3 | 11/02 - 15/02  |
  * [**Test guidelines**](testguidelines.md)
  * [**Network Exercises**](networkexercise.md)
  * [**Exercise Network Tools**](exercisenetworktools.md)
- * [**HTTP Exercise **](exercisehttp.md)
+ * [**HTTP Exercise**](exercisehttp.md)
  * [**Nginx Excercise**](ngnixexercise.md)
  
 
