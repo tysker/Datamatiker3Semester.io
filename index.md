@@ -30,7 +30,9 @@ Week 3 | 11/02 - 15/02  |
  * [**Test guidelines**](testguidelines.md)
  * [**Network Exercises**](networkexercise.md)
  * [**Exercise Network Tools**](exercisenetworktools.md)
- * [**Exercise HTTP**](exercisehttp.md)
+ * [**HTTP Exercise **](exercisehttp.md)
+ * [**Nginx Excercise**](ngnixexercise.md)
+ 
 
 **Cheat sheet**
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
