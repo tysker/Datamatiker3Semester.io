@@ -123,6 +123,20 @@ Your document, containing the Status Codes for all the exercises done so far, sh
 
 Explain (write down your answer so you won’t forget) the meaning of the first digit in the 3-digit Status Codes you have seen so far.
 
+**Answer**
+
+_Status code 3xx stands for redirection_
+
+1. 300 - multiple choices
+2. 301 - resource moved permanently
+3. 302 - resource moved temporarily
+4. 303 - see another resource
+5. 304 - resource not modified
+6. 305 - Use proxy
+7. 307 - temporary edirection
+8. 306 & 308 codes
+* https://www.webnots.com/3xx-http-status-codes/
+
 * 1xx Informational response
 * 2xx Success
 * 3xx Redirection
@@ -181,8 +195,11 @@ Change the forms method-attribute to the value “POST” and test the form. Obs
 
 Write down your observations
 
-_method="POST" = The URL looks like that = http://localhost:8084/HttpExercise/input.html_
-_method="GET" = The URL looks like that = http://localhost:8084/HttpExercise/input.html?hidden=12345678_
+**Answer**
+
+_method="POST" = The URL looks like that = http://localhost:8084/HttpExercise/input.html. In the POST method we are not able to see the values in the URL, what makes that method a lot more secure._
+
+_method="GET" = The URL looks like that = http://localhost:8084/HttpExercise/input.html?hidden=12345678. The GET method shows the value in the URL._
 
 ___
 
