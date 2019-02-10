@@ -31,7 +31,7 @@ Week 3 | 11/02 - 15/02  |
  * [**Network Exercises**](networkexercise.md)
  * [**Exercise Network Tools**](exercisenetworktools.md)
  * [**HTTP Exercise**](exercisehttp.md)
- * [**Nginx Excercise**](ngnixexercise.md)
+ * [**Nginx Excercise**](nginxexercise.md)
  
 
 **Cheat sheet**
