@@ -41,7 +41,7 @@
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 
 **JavaScript**
-* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
 * <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
 * <a href="https://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/" target="_blank">**DOM manipulation**</a>
 
