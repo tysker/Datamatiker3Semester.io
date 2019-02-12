@@ -23,9 +23,9 @@
 
 
 **Courses**
-
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
+* <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**Javascrip Video**</a>
 
 **Excercises**
  * [**Test guidelines**](testguidelines.md)
