@@ -4,6 +4,9 @@
 **DNS** 
 <a href="https://computer.howstuffworks.com/dns.htm" target="_blank">_Domain Name Server_</a>
 
+**DOM**
+<a href="https://www.w3schools.com/js/js_htmldom.asp" target="_blank">_Document Object Model_</a>
+
 **DHCP**
  <a href="https://kb.iu.edu/d/adov" target="_blank">_Dynamic Host Configuration Protocol_</a>
  
