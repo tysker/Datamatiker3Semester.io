@@ -40,6 +40,9 @@
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 
+**JSON**
+* <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank">**w3schools**</a>
+
 **JavaScript**
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
 * <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
