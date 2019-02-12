@@ -40,6 +40,10 @@
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 
+**JavaScript**
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide</a>
+* <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
+* <a href="https://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/" target="_blank">**DOM manipulation**</a>
 
 **Tomcat**
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
