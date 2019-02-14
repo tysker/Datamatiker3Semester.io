@@ -7,16 +7,19 @@
 
 
 | Week | Dato | Link | GroupReview | Jörg | Morten | Nikolai | Rasmus |
-|------|:----:|:----:|:-----------:|:----:|:------:|:-------:|:------:|
+|:----:|:----:|:----:|:-----------:|:----:|:------:|:-------:|:------:|
 |  1   | 28/01 - 01/02 |  <a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a> | <a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Review**</a> |
 |  2   | 04/02 - 08/02  | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**Week 02**</a> |  |<a href="https://www.joergoertel.com/week2/" target="_blank">**Review**</a>| <a href="https://www.mortenfeldtstudent.dk/SP2/index.html" target="_blank">**Review**</a> | <a href="http://techjahn.dk/NetworkWeek" target="_blank">**Review**</a> | Review |
 |  3   | 11/02 - 15/02  | <a href="https://github.com/cphdat3sem2019spring/Week-03-JavaScript-1-and-CA1" target="_blank">**Week 03**</a> | <a href="https://docs.google.com/document/d/19mr3QYYsAnwBhN7Jw_ZPNsivSKGpskR-GGs9_ESM2D8/edit?usp=sharing" target="_blank">**Review**</a> | 
 |  4   |
 
 
-| GroupReview | Jörg | Morten | Nikolai | Rasmus |
-|:-----------:|:----:|:------:|:-------:|:------:|
-
+| Week | GroupReview | Jörg | Morten | Nikolai | Rasmus |
+|:----:|:-----------:|:----:|:------:|:-------:|:------:|
+|   1   |             |      |        |         |        |  
+|   2   |             |      |        |         |        | 
+|   3   |             |      |        |         |        | 
+|   4   |             |      |        |         |        | 
 
 
 
