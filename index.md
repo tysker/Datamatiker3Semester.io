@@ -14,10 +14,10 @@
 |  4   |
 
 
-| Week | GroupReview | Jörg | Morten | Nikolai | Rasmus |
-|:----:|:-----------:|:----:|:------:|:-------:|:------:|
+| Week  | GroupReview | Jörg | Morten | Nikolai | Rasmus |
+|:----: |:-----------:|:----:|:------:|:-------:|:------:|
 |   1   |             |      |        |         |        |  
-|   2   |             |      |        |         |        | 
+|   2   |             |      |        |<a href="http://techjahn.dk/NetworkWeek" target="_blank">**Review**</a>|        | 
 |   3   |             |      |        |         |        | 
 |   4   |             |      |        |         |        | 
 
