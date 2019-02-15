@@ -6,11 +6,11 @@
 [**Dictionary**](dictionary.md)
 
 
-| Week | Dato | Link |SP Exercises|
-|:----:|:----:|:----:|:----------:|
+| Week | Dato | Link |SP Exercises|Questions|
+|:----:|:----:|:----:|:----------:|:-------:|
 |  1   | 28/01 - 01/02 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>|<a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Excercise 1**</a>|
 |  2   | 04/02 - 08/02 | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**Week 02**</a> |
-|  3   | 11/02 - 15/02 | <a href="https://github.com/cphdat3sem2019spring/Week-03-JavaScript-1-and-CA1" target="_blank">**Week 03**</a>|<a href="https://techjahn.dk/CA1/" target="_blank">**CA1**</a>| 
+|  3   | 11/02 - 15/02 | <a href="https://github.com/cphdat3sem2019spring/Week-03-JavaScript-1-and-CA1" target="_blank">**Week 03**</a>|<a href="https://techjahn.dk/CA1/" target="_blank">**CA1**</a>|<a href="https://docs.google.com/document/d/19mr3QYYsAnwBhN7Jw_ZPNsivSKGpskR-GGs9_ESM2D8/edit?usp=sharing" target="_blank">**Questions**</a>
 |  4   |
 
 
@@ -22,7 +22,6 @@
 |   4   |     |        |         |        |        
 
 
-<a href="https://docs.google.com/document/d/19mr3QYYsAnwBhN7Jw_ZPNsivSKGpskR-GGs9_ESM2D8/edit?usp=sharing" target="_blank">**Questions**</a>
 
 **School Links**
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Learning Objectives**</a>
