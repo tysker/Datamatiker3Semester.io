@@ -55,6 +55,7 @@
 **Object Relational Mapping (ORM)with JPA (Java Persistence API)**
 * <a href="https://en.wikibooks.org/wiki/Java_Persistence" target="_blank"><font color="red">Java Persistence</font></a>
 * <a href="https://en.wikipedia.org/wiki/Relational_database" target="_blank"><font color="red">Relational database</font></a>
+* <a href="https://www.tutorialspoint.com/jpa/" target="_blank"><font color="red">JPA Tutorial</font></a>
 
 **JavaScript**
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
