@@ -53,7 +53,7 @@
 * <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank">**w3schools**</a>
 
 **Object Relational Mapping (ORM)with JPA (Java Persistence API)**
-* <a href="https://en.wikibooks.org/wiki/Java_Persistence" target="_blank"><font color="red">**Java Persistence**</font></a>
+* <a href="https://en.wikibooks.org/wiki/Java_Persistence" target="_blank"><font color="red">Java Persistence</font></a>
 
 **JavaScript**
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
