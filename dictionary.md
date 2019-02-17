@@ -28,6 +28,9 @@
 **JAR files**
 <a href="https://en.wikipedia.org/wiki/JAR_(file_format)" target="_blank">_Java ARchive_</a>
 
+**JPA**
+<a href="https://en.wikibooks.org/wiki/Java_Persistence/What_is_JPA%3F" target="_blank">_Java Persistence_</a>
+
 ## O
 
 **OSI**
