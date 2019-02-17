@@ -34,7 +34,7 @@
 **Courses**
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
-* <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**Javascrip Video**</a>
+* <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**JavaScript Video**</a>
 
 **Excercises**
  * [**Test guidelines**](testguidelines.md)
@@ -51,6 +51,9 @@
 
 **JSON**
 * <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank">**w3schools**</a>
+
+**Object Relational Mapping (ORM)with JPA (Java Persistence API)**
+* <a href="https://en.wikibooks.org/wiki/Java_Persistence" target="_blank"><font color="red">**Java Persistence**</font></a>
 
 **JavaScript**
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
