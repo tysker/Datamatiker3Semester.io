@@ -37,7 +37,7 @@
 <a href="https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">_Open Systems Interconnection Model_</a> ---
 <a href="https://www.youtube.com/watch?v=LANW3m7UgWs" target="_blank">_Video_</a>
 
-**ORP**
+**ORM**
 <a href="https://en.wikipedia.org/wiki/Object-relational_mapping" target="_blank">_Object Relational Mapping_</a>
 
 ## P
