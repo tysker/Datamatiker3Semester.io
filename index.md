@@ -14,8 +14,6 @@
 |  4   |18/02 - 22/02 |<a href="https://github.com/cphdat3sem2019spring/Week-04-ObjectRelationMapping" target="_blank">**Week 04**</a> 
 
 
-https://rasmusporse.dk/NetworkAssignment/
-
 | Week  | Jörg | Morten | Nikolai | Rasmus |
 |:----: |:----:|:------:|:-------:|:------:|
 |   1   |      |        |         |        |  
