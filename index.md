@@ -19,7 +19,7 @@ https://rasmusporse.dk/NetworkAssignment/
 | Week  | Jörg | Morten | Nikolai | Rasmus |
 |:----: |:----:|:------:|:-------:|:------:|
 |   1   |      |        |         |        |  
-|   2   |<a href="https://www.joergoertel.com/week2/" target="_blank">**Review**</a>|<a href="https://www.mortenfeldtstudent.dk/SP2/index.html" target="_blank">**Review**</a>|<a href="http://techjahn.dk/NetworkWeek" target="_blank">**Review**</a>|<a href="https://rasmusporse.dk/NetworkAssignment/" target="_blank">**Review**</a| 
+|   2   |<a href="https://www.joergoertel.com/week2/" target="_blank">**Review**</a>|<a href="https://www.mortenfeldtstudent.dk/SP2/index.html" target="_blank">**Review**</a>|<a href="http://techjahn.dk/NetworkWeek" target="_blank">**Review**</a>|<a href="https://rasmusporse.dk/NetworkAssignment/" target="_blank">**Review**</a>| 
 |   3   |     |        |         |        | 
 |   4   |     |        |         |        |        
 
