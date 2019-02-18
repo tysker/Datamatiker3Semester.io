@@ -58,7 +58,7 @@
 * <a href="https://www.tutorialspoint.com/jpa/" target="_blank"><font color="red">JPA Tutorial</font></a>
 
 **JavaScript**
-* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide**</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide MDN**</a>
 * <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
 * <a href="https://www.w3schools.com/js/default.asp" target="_blank">**w3schools**</a>
 
