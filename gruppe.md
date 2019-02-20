@@ -55,7 +55,7 @@
 * All group members try to help eachother to complete given task.
 * Try you socialize once every periode
 * Everything has to be writen in english
-* JvaScript and Html needs to be separated. Try not to use onclick in Html tags.
+* JavaScript and Html needs to be separated. Try not to use onclick in Html tags.
 
 ***
 
