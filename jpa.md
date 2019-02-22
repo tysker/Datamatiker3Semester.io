@@ -30,6 +30,8 @@
 * The Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database.
 * You must put the annotation on the get method, not the set method. 
 * The **EntityManager.remove()** operation is used to delete an object from the database. remove does not directly delete the object from the database, it marks the object to be deleted in the persistence context (transaction). When the transaction is committed, or if the persistence context is flushed, then the object will be deleted from the database.
+* **NEVER** commit your persistence.xml file. Add persistence.xml to your .gitignore file
+
 
 **Mapping**
 
