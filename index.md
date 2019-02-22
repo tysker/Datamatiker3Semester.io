@@ -50,7 +50,7 @@
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 
 **JPA**
-* <a href="https://www.objectdb.com/api/java/jpa/annotations" target="_blank">**List of ALL JPA-annotations**</a>
+ * [**JPA Page**](jpa.md)
 
 **JSON**
 * <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank">**w3schools**</a>
