@@ -12,6 +12,16 @@
 * <a href="https://www.objectdb.com/api/java/jpa/annotations" target="_blank">**List of ALL JPA-annotations**</a>
 * <a href="https://docs.oracle.com/javaee/5/api/javax/persistence/EntityManager.html" target="_blank">**EntityManager - Method Summary**</a>
  * <a href="https://docs.oracle.com/javaee/5/api/javax/persistence/EntityManager.html#persist(java.lang.Object)" target="_blank">**Persist-Merge-Remove-Find**</a>
+ 
+ 
+ **Requirements for Entity Classes**
+* The class must be annotated with the @Entity annotation.
+* The class must have (at least) a public or protected, no-argument constructor. 
+* The class must not be declared final. No methods or persistent instance variables must be declared final.
+* If an entity instance is passed by value as a detached object, the class must implement the Serializable interface.
+* Entities may extend both entity and non-entity classes, and non-entity classes may extend entity classes.
+* Persistent instance variables must be declared private, protected, or package-private and can be accessed directly only by the entity class's methods. Clients must access the entity's state through accessor or business methods.
+
 
 
 **Notes**
