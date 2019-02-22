@@ -4,7 +4,7 @@
 
 **Slides**
 
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+* <embed src="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" type="application/pdf" />
 
 
 
