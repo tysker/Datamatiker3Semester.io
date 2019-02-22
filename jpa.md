@@ -4,7 +4,7 @@
 
 **Slides**
 
-* <embed src="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" type="application/pdf" />
+* <a><embed src="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" type="application/pdf" />Slide</a>
 
 
 
