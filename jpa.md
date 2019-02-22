@@ -5,7 +5,7 @@
 **Slides**
 
 * <a><embed src="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" type="application/pdf" />Slide</a>
-
+* [get the PDF]({{ https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf }}/assets/mydoc.pdf)
 
 
 **Importen Links**
