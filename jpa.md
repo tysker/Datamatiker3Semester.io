@@ -4,7 +4,8 @@
 
 **Slides**
 
-
+**gitignore**
+* /src/main/resources/META-INF/persistence.xml
 
 
 **Importen Links**
