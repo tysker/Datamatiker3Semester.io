@@ -2,6 +2,10 @@
 
 # Java Persistance Aplication
 
+**Slides**
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+
 
 
 **Importen Links**
