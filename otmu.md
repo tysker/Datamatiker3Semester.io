@@ -10,3 +10,6 @@ By default, the IDE (NetBeans) will create a join table to hold this relation, b
 
 In example, I wrote the @JoinColumn at customer class, with the mappedBy called “customer_id”, this means that the address table will now have a column called customer_id to link a address to a customer.
 Unidirectional means that the direction of the relationship goes one way, and in my exercise I chose customer to take ownership of the relationship. Which means that my customer entity holds a list of addresses.
+
+
+https://en.wikibooks.org/wiki/Java_Persistence/OneToMany
