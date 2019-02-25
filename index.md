@@ -61,6 +61,17 @@
 * <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
 * <a href="https://www.w3schools.com/js/default.asp" target="_blank">**w3schools**</a>
 
+**Travis**
+language: java
+jdk: oraclejdk8
+
+cache:
+  directories:
+    - $HOME/.m2
+
+script:
+  XXX
+
 **Tomcat**
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
 * <a href="http://tomcat.apache.org/" target="_blank">**Tomcat Homepage**</a>
