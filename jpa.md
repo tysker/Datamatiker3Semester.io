@@ -4,7 +4,7 @@
 
 **Slides**
  * <a href="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" target="_blank">Object Relationel Mapping</a>
- * [get the PDF](Datamatiker3Semester.io/ORM-intro.pdf)
+ * [get the PDF]({{https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf }}/assets/mydoc.pdf)
       
 **gitignore**
 * /src/main/resources/META-INF/persistence.xml
