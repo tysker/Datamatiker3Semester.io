@@ -25,6 +25,7 @@
  * [**One to One – Bidirectional**](otob.md)
  * [**OneToMany – Unidirectional**](otmu.md)
  * [**OneToMany – Bidirectional**](otmb.md)
+ * [**ManyToMany**](mtmb.md)
  
 
  **Requirements for Entity Classes**
