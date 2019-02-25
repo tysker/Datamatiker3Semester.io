@@ -62,12 +62,7 @@
 * <a href="https://www.w3schools.com/js/default.asp" target="_blank">**w3schools**</a>
 
 **Travis**
-<p>language: java</p>
-<p>jdk: oraclejdk8</p>
-
-<p><p>cache:</p>
-  <p><p>directories:</p>
-<p> - $HOME XXX</p>
+* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
 
 **Tomcat**
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
