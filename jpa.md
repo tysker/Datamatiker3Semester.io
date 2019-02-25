@@ -3,7 +3,7 @@
 # Java Persistance Aplication
 
 **Slides**
- * <a href="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" target="_blank">PDF</a>
+ * <a href="https://github.com/tysker/Datamatiker3Semester.io/blob/master/ORM-intro.pdf" target="_blank">Object Relationel Mapping</a>
      
       
 **gitignore**
