@@ -38,7 +38,7 @@
 * <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**JavaScript Video**</a>
 
 **Excercises**
- * [**Test guidelines**](testguidelines.md)
+ * [**Test, Maven and Travis Guidelines**](testguidelines.md)
  * [**Network Exercises**](networkexercise.md)
  * [**Exercise Network Tools**](exercisenetworktools.md)
  * [**HTTP Exercise**](exercisehttp.md)
