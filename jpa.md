@@ -3,6 +3,7 @@
 # Java Persistance Aplication
 
 **Slides**
+<a href="Datamatiker3Semester.io/ORM-intro.pdf" target="_blank">PDF.</a>
 <embed src="Datamatiker3Semester.io/ORM-intro.pdf" type="application/pdf" />
 
      
