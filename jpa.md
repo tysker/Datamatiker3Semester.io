@@ -3,7 +3,10 @@
 # Java Persistance Aplication
 
 **Slides**
+<embed src="Datamatiker3Semester.io/ORM-intro.pdf" type="application/pdf" />
 
+     
+      
 **gitignore**
 * /src/main/resources/META-INF/persistence.xml
 
