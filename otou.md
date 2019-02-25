@@ -9,4 +9,6 @@ Creating a unidirectional one to one relationship between two tables (in this ex
 Unidirectional also means that the relationship is one-sided, and the direction of the relationship between the entities is A(FK) -> B
 Where class A is the class holding an object of B.
 
+https://en.wikibooks.org/wiki/Java_Persistence/OneToOne
+
 
