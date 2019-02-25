@@ -13,13 +13,15 @@
 * <a href="https://www.objectdb.com/api/java/jpa/annotations" target="_blank">**List of ALL JPA-annotations**</a>
 * <a href="https://docs.oracle.com/javaee/5/api/javax/persistence/EntityManager.html" target="_blank">**EntityManager - Method Summary**</a>
  * <a href="https://docs.oracle.com/javaee/5/api/javax/persistence/EntityManager.html#persist(java.lang.Object)" target="_blank">**Persist-Merge-Remove-Find**</a>
+ * <a href=" https://www.javatpoint.com/jpa-tutorial" target="_blank">**JPA Tutorial**</a>
  * <a href="https://www.javatpoint.com/jpa-cascading-operations" target="_blank">**JPA Cascading Operations**</a>
+  * <a href=" https://www.javatpoint.com/jpa-tutorial" target="_blank">**JPA Tutorial**</a>
  * [**One to One – Unidirectional**](otou.md)
  * [**One to One – Bidirectional**](otob.md)
  * [**OneToMany – Unidirectional**](otmu.md)
  * [**OneToMany – Bidirectional**](otmb.md)
  
- 
+
  **Requirements for Entity Classes**
 * The class must be annotated with the @Entity annotation.
 * The class must have (at least) a public or protected, no-argument constructor. 
