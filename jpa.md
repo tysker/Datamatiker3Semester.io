@@ -8,7 +8,7 @@
 **gitignore**
 * /src/main/resources/META-INF/persistence.xml
 
-**Cheat sheest**
+**Cheat sheet**
 * <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Cheatsheet**</a>
 
 
