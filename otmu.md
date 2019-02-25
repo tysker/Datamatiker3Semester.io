@@ -12,4 +12,4 @@ In example, I wrote the @JoinColumn at customer class, with the mappedBy called 
 Unidirectional means that the direction of the relationship goes one way, and in my exercise I chose customer to take ownership of the relationship. Which means that my customer entity holds a list of addresses.
 
 
-https://en.wikibooks.org/wiki/Java_Persistence/OneToMany
+
