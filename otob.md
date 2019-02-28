@@ -1,4 +1,4 @@
-[**Home**](index.md)
+[**HOME**](index.md) | [**JPA**](jpa.md)
 
 
 # One to One – Bidirectional
