@@ -1,7 +1,7 @@
 [**HOME**](index.md)
 
 ## D
-**DTO**_Data Transfer Object_
+**DTO** _Data Transfer Object_
 
 
 **DNS** 
