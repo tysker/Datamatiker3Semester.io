@@ -14,3 +14,4 @@ This relation is in both directions, which means that data can be gathered no ma
 
 When using this modelling and relation, you need to remember to set the link in the code in both ways. Which means that a customer object must have a list of addresses, while the addresses itself also need to have a customer associated with it. 
 
+https://en.wikibooks.org/wiki/Java_Persistence/OneToMany
