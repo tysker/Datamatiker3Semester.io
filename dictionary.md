@@ -1,6 +1,9 @@
 [**HOME**](index.md)
 
 ## D
+**DTO**_Data Transfer Object_
+
+
 **DNS** 
 <a href="https://computer.howstuffworks.com/dns.htm" target="_blank">_Domain Name Server_</a>
 
