@@ -23,10 +23,15 @@
  * <a href="https://www.javatpoint.com/jpa-cascading-operations" target="_blank">**JPA Cascading Operations**</a>
  * <a href="https://www.javatpoint.com/jpa-tutorial" target="_blank">**JPA Tutorial**</a>
  * <a href="https://www.tutorialspoint.com/jpa/" target="_blank"><font color="red">JPA Tutorial Points</font></a>
+ 
+ ____
+ 
+ 
  * [**One to One – Unidirectional**](otou.md)
  * [**One to One – Bidirectional**](otob.md)
  * [**OneToMany – Unidirectional**](otmu.md)
  * [**OneToMany – Bidirectional**](otmb.md)
+ * [**Many To One – Bidirectional**](mto.md)
  * [**ManyToMany**](mtmb.md)
  
 
