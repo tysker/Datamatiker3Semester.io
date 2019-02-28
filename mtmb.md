@@ -1,4 +1,4 @@
 [**HOME**](index.md)
 
 
-https://www.baeldung.com/jpa-many-to-many
+https://en.wikibooks.org/wiki/Java_Persistence/ManyToMany
