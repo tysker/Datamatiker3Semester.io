@@ -14,7 +14,7 @@
 |  4   |18/02 - 22/02 |<a href="https://github.com/cphdat3sem2019spring/Week-04-ObjectRelationMapping" target="_blank">**Week 04**</a>| |  <a href="https://docs.google.com/document/d/1CYBQrVXos_lIDm5SqRbaNEyB8i6tF5NS4y2oCS3agjQ/edit?usp=sharing" target="_blank">**Questions**</a>
  |5| 25/02 - 01/03|<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week2/" target="_blank">**Week 05**</a> | |<a href="https://docs.google.com/document/d/19MTHVnkNHL5uvuQWl4oYu30XwZ02tivrV7CTDMAa4Wk/edit?usp=sharing" target="_blank">**Questions**</a> |
  
- ____
+ ***
 
 
 | Week  | Jörg | Morten | Nikolai | Rasmus |
