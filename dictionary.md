@@ -2,7 +2,7 @@
 
 ## C
 **CROS**
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">_Cross-Origin Resource Sharing _</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">_Cross Origin Resource Sharing _</a>
 
 ## D
 **DTO** _Data Transfer Object_
