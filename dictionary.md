@@ -54,6 +54,11 @@
 **RAR**
 <a href="https://docs.oracle.com/javaee/5/tutorial/doc/bncjy.html" target="_blank">_RAR stands for Resource Adapter Archive_</a>
 
+## S
+**Same-Origin-Policy**
+<a href="https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy" target="_blank">_Same-Origin-Policyt_</a>
+
+
 ## T
 **TDD**
 <a href="https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm" target="_blank">_Test Driven Development_</a>
