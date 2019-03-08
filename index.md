@@ -8,14 +8,14 @@
 
 | Week | Dato | Link |SP Exercises|Questions|
 |:----:|:----:|:----:|:----------:|:-------:|
-|  1   | 28/01 - 01/02 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 01**</a>|<a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Excercise 1**</a>|
-|  2   | 04/02 - 08/02 | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul1/Week2/" target="_blank">**Week 02**</a> |
-|  3   | 11/02 - 15/02 | <a href="https://github.com/cphdat3sem2019spring/Week-03-JavaScript-1-and-CA1" target="_blank">**Week 03**</a>|<a href="https://techjahn.dk/CA1/" target="_blank">**CA1**</a>|<a href="https://docs.google.com/document/d/19mr3QYYsAnwBhN7Jw_ZPNsivSKGpskR-GGs9_ESM2D8/edit?usp=sharing" target="_blank">**Questions**</a>
-|  4   |18/02 - 22/02 |<a href="https://github.com/cphdat3sem2019spring/Week-04-ObjectRelationMapping" target="_blank">**Week 04**</a>| |  <a href="https://docs.google.com/document/d/1CYBQrVXos_lIDm5SqRbaNEyB8i6tF5NS4y2oCS3agjQ/edit?usp=sharing" target="_blank">**Questions**</a>
- |5| 25/02 - 01/03|<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week2/" target="_blank">**Week 05**</a> | |<a href="https://docs.google.com/document/d/19MTHVnkNHL5uvuQWl4oYu30XwZ02tivrV7CTDMAa4Wk/edit?usp=sharing" target="_blank">**Questions**</a> |
- | 6 |04/03 - 08/03| <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week3/" target="_blank">**Week 06**</a> | |<a href="https://docs.google.com/document/d/1zh1YNufKbFVrHuAb4A9NA3YA54zkPm_Wu0ee-4AKfrU/edit?usp=sharing" target="_blank">**Questions**</a> |
- | 7 | 11/03 - 15/03 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week4/" target="_blank">**Week 07**</a> | |<a href="https://docs.google.com/document/d/1YLptt6UcxZ1cmOH3-ypqr3-TOZfaTVLmPb_GB8csgSs/edit?usp=sharing" target="_blank">**Questions**</a> |
- | 8 | 25/03 - 29/03 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Week 08**</a> | |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul4/Week1_Sys1/" target="_blank">**Questions**</a> |
+|  1   | 28/01 - 01/02 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Maven**</a>|<a href="https://docs.google.com/document/d/1rLwf_K6mjhG_w0M2ShIjpAX_oaexI8qpa7Aco9l9KDw/edit?usp=sharing" target="_blank">**Excercise 1**</a>|
+|  2   | 04/02 - 08/02 | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul1/Week2/" target="_blank">**Network and Http**</a> |
+|  3   | 11/02 - 15/02 | <a href="https://github.com/cphdat3sem2019spring/Week-03-JavaScript-1-and-CA1" target="_blank">**JS and CA1**</a>|<a href="https://techjahn.dk/CA1/" target="_blank">**CA1**</a>|<a href="https://docs.google.com/document/d/19mr3QYYsAnwBhN7Jw_ZPNsivSKGpskR-GGs9_ESM2D8/edit?usp=sharing" target="_blank">**Questions**</a>
+|  4   |18/02 - 22/02 |<a href="https://github.com/cphdat3sem2019spring/Week-04-ObjectRelationMapping" target="_blank">**ORM with JPA**</a>| |  <a href="https://docs.google.com/document/d/1CYBQrVXos_lIDm5SqRbaNEyB8i6tF5NS4y2oCS3agjQ/edit?usp=sharing" target="_blank">**Questions**</a>
+ |5| 25/02 - 01/03|<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week2/" target="_blank">**Rest webservices with JAX-RS**</a> | |<a href="https://docs.google.com/document/d/19MTHVnkNHL5uvuQWl4oYu30XwZ02tivrV7CTDMAa4Wk/edit?usp=sharing" target="_blank">**Questions**</a> |
+ | 6 |04/03 - 08/03| <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week3/" target="_blank">**JavaScript**</a> | |<a href="https://docs.google.com/document/d/1zh1YNufKbFVrHuAb4A9NA3YA54zkPm_Wu0ee-4AKfrU/edit?usp=sharing" target="_blank">**Questions**</a> |
+ | 7 | 11/03 - 15/03 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week4/" target="_blank">**CA2**</a> | |<a href="https://docs.google.com/document/d/1YLptt6UcxZ1cmOH3-ypqr3-TOZfaTVLmPb_GB8csgSs/edit?usp=sharing" target="_blank">**Questions**</a> |
+ | 8 | 25/03 - 29/03 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**SYS 1**</a> | |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul4/Week1_Sys1/" target="_blank">**Questions**</a> |
 
 
 | Week  | Jörg | Morten | Nikolai | Rasmus |
