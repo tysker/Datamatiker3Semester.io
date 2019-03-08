@@ -5,7 +5,7 @@
 [**Choice of technology**](tek.md) -
 [**Dictionary**](dictionary.md)
 
-[**Group Review**](groupreview.md) -
+[**Group Review**](groupreview.md)
 
 
 | Week | Dato | Link |SP Exercises|Questions|
@@ -19,17 +19,6 @@
  | 7 | 11/03 - 15/03 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week4/" target="_blank">**CA2**</a> | |<a href="https://docs.google.com/document/d/1YLptt6UcxZ1cmOH3-ypqr3-TOZfaTVLmPb_GB8csgSs/edit?usp=sharing" target="_blank">**Questions**</a> |
  | 8 | 25/03 - 29/03 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**SYS 1**</a> | |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul4/Week1_Sys1/" target="_blank">**Questions**</a> |
 
-
-| Week  | Jörg | Morten | Nikolai | Rasmus |
-|:----: |:----:|:------:|:-------:|:------:|
-|   1   |      |        |         |        |  
-|   2   |<a href="https://www.joergoertel.com/week2/" target="_blank">**Review**</a>|<a href="https://www.mortenfeldtstudent.dk/SP2/index.html" target="_blank">**Review**</a>|<a href="http://techjahn.dk/NetworkWeek" target="_blank">**Review**</a>|<a href="https://rasmusporse.dk/NetworkAssignment/" target="_blank">**Review**</a>| 
-|   3   |     |        |         |        | 
-|   4   |<a href="https://www.joergoertel.com/ca2/" target="_blank">**Review**</a>|<a href="https://www.mortenfeldtstudent.dk/SP3/" target="_blank">**Review**</a>|<a href="https://techjahn.dk/SP3/" target="_blank">**Review**</a>|<a href="https://github.com/RPorse/TrialExamJPA" target="_blank">**Review**</a>|
-|5| | | | |
-|6|||||
-|7|||||
-|8|||||
 
 _____
 
