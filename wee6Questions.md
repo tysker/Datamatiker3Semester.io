@@ -27,6 +27,9 @@
   In const and let you have to declare them outside of the block
   const you have to define outside of the block.
   
+ ______
+ 
+  
 ### 'this' ind javaScript
 
 **_How this in JavaScript differ from this in Java_**
