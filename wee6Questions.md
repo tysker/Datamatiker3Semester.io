@@ -4,7 +4,7 @@
 # Week 6 Group 3 Questions and Answers
 
 
-## JavaScript Exercises - Day-1
+## JavaScript Exercises - Tuesday
 
 
 ### Hoisting
@@ -26,6 +26,67 @@
   const and let is block based. You can't use them outside of the block.
   In const and let you have to declare them outside of the block
   const you have to define outside of the block.
+  
+### 'this' ind javaScript
+
+**_How this in JavaScript differ from this in Java_**
+
+**JavaScript:**
+ Regular function call:
+ * The this keyword points at the global object, (the window object in the browser)
+  
+ Method call :
+ * The this variable points to the object that is calling the method.
+ * The this keyword is not assigned a value until the function where it is defined is actually called.
+ 
+ // That is the window(browser) object. The window object is the default object in JavaScript
+console.log(this)
+
+
+//this is a regular function call, so the this keyword still points to the window object
+calculateAge(1977); //output: 42 and window object
+
+function calculateAge(year) {
+    console.log(2019 - year)
+    console.log(this)
+}
+
+// The this variable points to the object that is calling the method. The "john" object
+
+var john = {
+    name: 'John',
+    yearOfBirth: 1977,
+    calculateAge: function () {
+        console.log(this);
+        console.log(2019 - this.yearOfBirth);
+    }
+}
+
+john.calculateAge(); //output: john object and 42
+
+// object with a regular function call. And again the this keyword in the innerFunction
+// points to the global window object
+var hans = {
+    name: 'Hans',
+    yearOfBirth: 1977,
+    calculateAge: function () {
+        console.log(this);
+        console.log(2019 - this.yearOfBirth);
+
+        function innerFunction() {
+            console.log(this + "hallo");
+
+        }
+        innerFunction();
+    }
+
+}
+
+**Java**
+  
+
+
+##  AJAX with fetch and DOM manipulation Wednesday
 
 
 
