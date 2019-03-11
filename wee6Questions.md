@@ -32,6 +32,8 @@
   
 ### "this" keyword in JavaScript
 
+
+
 **_How "this" keyword in JavaScript differ from "this" in Java_**
 
 **JavaScript:**
@@ -88,7 +90,8 @@ points to the global window object._
       }
 
 
-**Java**
+
+**Java:**
 
 * Keyword 'THIS' in Java is a reference variable that refers to the current object.
 * It can be used to refer current class instance variable
@@ -103,7 +106,13 @@ points to the global window object._
 
 ##  AJAX with fetch and DOM manipulation Wednesday
 
+**_Same Origin Policy governs when and where Ajax request is allowed through. Can y_** 
 
+Open developer tools in browser. The Response header shows what kind of access is allowed outside:
 
+Access-Control-Allow-Headers:
+Content-Type _Which type of content that can be extracted/manipulated_
+Access-Control-Allow-Methods: GET _Which CRUD methods are allowed_
+Access-Control-Allow-Origin: * //Who can access it. (All)
 
 
