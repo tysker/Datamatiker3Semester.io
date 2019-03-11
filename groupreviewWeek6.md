@@ -19,11 +19,8 @@ ___
 
 ## Nikolai
 
-* <a href="" target="_blank">**JavaScript2 Exercises Day 1**</a>
-* <a href="" target="_blank">**Ajax, fetch and DOM**</a>
-* <a href="" target="_blank">**CORS and Hosting**</a>
-* <a href="" target="_blank">**Exam 1**</a>
-* <a href="" target="_blank">**Exam 2**</a>
+* <a href="https://github.com/RPorse/ExamPrepJSSVG" target="_blank">**Exam 1**</a>
+* <a href="https://github.com/RPorse/ExamPrepJS2" target="_blank">**Exam 2**</a>
 
 ___
 
