@@ -11,7 +11,7 @@
 * <a href="https://github.com/tysker/week-6-Day2-Sem3-Ajax-Fetch-DOM-Netbeans">**Ajax, fetch and DOM - NetBeans**</a>
 * <a href="https://github.com/tysker/week-6-Day3-Sem3-CORS-and-Hosting-Netbeans" target="_blank">**CORS and Hosting - Netbeans**</a>
 * <a href="https://github.com/tysker/week-6-Day3-Sem3-CORS-and-Hosting-JavaScript" target="_blank">**CORS and Hosting - JavaScript**</a>
-* <a href="" target="_blank">**Exam 1**</a>
+* <a href="https://github.com/tysker/week-6-Friday-Sem3-Exam1" target="_blank">**Exam 1**</a>
 * <a href="" target="_blank">**Exam 2**</a>
 
 ___
