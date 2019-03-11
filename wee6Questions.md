@@ -30,11 +30,12 @@
  ______
  
   
-### 'this' ind javaScript
+### "this" keyword in JavaScript
 
-**_How this in JavaScript differ from this in Java_**
+**_How "this" keyword in JavaScript differ from "this" in Java_**
 
 **JavaScript:**
+
  Regular function call:
  * The this keyword points at the global object, (the window object in the browser)
   
