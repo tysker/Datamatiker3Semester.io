@@ -123,4 +123,34 @@ Access-Control-Allow-Origin: * //Who can access it. (All)
 
 The same-origin policy is an important concept in the web application security model. Under the policy, a browser permits scripts from the first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number. This policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page's Document Object Model.
 
+____
+
+
+## JavaScript, DOM, AJAX, CORS and SVG Exam Preperation 1
+
+
+* Explain about the Object Model, and why it’s (very) relevant for modern Web-development
+* Explain (using an example of your own choice) about JavaScript events, and Event Bubbling
+* Elaborate on how JSON or XML supports communication between subsystems, even when the subsystems are implemented on diﬀerent platforms.
+* Explain the topic AJAX and how it has changed the way modern web-applications are created
+* Explain the Same Origin Policy (for AJAX), and different ways to work around it
+
+
+
+____
+
+
+## JavaScript, DOM, JSON, AJAX and JPA Exam Preperation 2
+
+
+* Explain about the Document Object Model, and why it’s extremely relevant for modern Web-development
+* Explain how JavaScript fit’s into modern Web Development
+* Explain (using an example of your own choice) about JavaScript events, and Event Bubbling
+* Explain (in words) the purpose of the JavaScript-arrays filter and map methods (also, provide a few  examples)
+* Explain the topics AJAX and how it has changed the way modern web-applications are created
+* Elaborate on how JSON or XML supports communication between subsystems, even when the subsystems are implemented on diﬀerent platforms.
+
+
+
+
 
