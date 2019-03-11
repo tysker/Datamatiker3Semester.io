@@ -4,23 +4,19 @@
 # Group Review Group3 Week 6
 
 
+## Jörg
 
 ___
 
 
-# Jörg
+## Nikolai
 
 ___
 
 
-# Nikolai
+## Morten
 
 ___
 
 
-# Morten
-
-___
-
-
-# Rasmus
+## Rasmus
