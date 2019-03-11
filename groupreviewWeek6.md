@@ -7,7 +7,7 @@
 ## Jörg
 
 * <a href="https://github.com/tysker/week6-Day1-Sem3-JavaScript2-ExercisesDay1" target="_blank">**JavaScript2 Exercises Day 1**</a>
-* <a href="" target="_blank">**Ajax, fetch and DOM**</a>
+* <a href="https://github.com/tysker/week-6-Day2-Sem3-Ajax-Fetch-Quotes" target="_blank">**Ajax, fetch and DOM - JavaScript**</a>
 * <a href="" target="_blank">**CORS and Hosting**</a>
 * <a href="" target="_blank">**Exam 1**</a>
 * <a href="" target="_blank">**Exam 2**</a>
