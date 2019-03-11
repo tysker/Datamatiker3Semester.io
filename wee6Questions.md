@@ -103,10 +103,13 @@ points to the global window object._
 * You can use "this" keyword to avoid naming conflicts in the method/constructor of your instance/object.
   
 
+______
+
+
 
 ##  AJAX with fetch and DOM manipulation Wednesday
 
-**_Same Origin Policy governs when and where Ajax request is allowed through. Can y_** 
+**_Same Origin Policy governs when and where Ajax request is allowed through. Where in the browser can you get see if the request is allowd or not.** 
 
 Open developer tools in browser. The Response header shows what kind of access is allowed outside:
 
@@ -114,5 +117,10 @@ Access-Control-Allow-Headers:
 Content-Type _Which type of content that can be extracted/manipulated_
 Access-Control-Allow-Methods: GET _Which CRUD methods are allowed_
 Access-Control-Allow-Origin: * //Who can access it. (All)
+
+
+**_Explain Same Origin Policy_**
+
+The same-origin policy is an important concept in the web application security model. Under the policy, a browser permits scripts from the first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number. This policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page's Document Object Model.
 
 
