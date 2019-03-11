@@ -19,12 +19,8 @@ ___
 
 ## Nikolai
 
-* <a href="" target="_blank">**JavaScript2 Exercises Day 1**</a>
-* <a href="" target="_blank">**Ajax, fetch and DOM**</a>
-* <a href="" target="_blank">**CORS and Hosting**</a>
-* <a href="" target="_blank">**Exam 1**</a>
-* <a href="" target="_blank">**Exam 2**</a>
-
+* <a href="https://github.com/NikolaiRojahn/SP5ExamPrep1" target="_blank">**Exam 2**</a>
+* <a href="https://github.com/NikolaiRojahn/SP5ExamPrep2" target="_blank">**Exam 1**</a>
 
 ___
 
