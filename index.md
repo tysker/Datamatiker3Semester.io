@@ -55,6 +55,7 @@ ___
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
+* <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" target="_blank">**Visual Studio**</a>
 
 ___
 
