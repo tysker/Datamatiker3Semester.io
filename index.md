@@ -57,6 +57,7 @@ ___
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 * <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" target="_blank">**Visual Studio**</a>
 * <a href="https://docs.emmet.io/cheatsheet-a5.pdf" target="_blank">**Html-CSS-XSL-Html DocTypes**</a>
+* <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Cheatsheet**</a>
 
 ___
 
