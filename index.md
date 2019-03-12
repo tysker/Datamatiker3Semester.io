@@ -56,7 +56,7 @@ ___
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
 * <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" target="_blank">**Visual Studio**</a>
-* <a href="https://docs.emmet.io/cheatsheet-a5.pdf" target="_blank">**Html-CSS-XSL-**</a>
+* <a href="https://docs.emmet.io/cheatsheet-a5.pdf" target="_blank">**Html-CSS-XSL-Html DocTypes**</a>
 
 ___
 
