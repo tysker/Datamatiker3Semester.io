@@ -13,8 +13,7 @@
 
 * When Javascript compiles all of the code, all variable declarations using var, are hoisted/lifted to the top of their                      functional/local scope (if declared inside a function) or to the top of their global scope (if declared outside of a function)          regardless of where the actual declaration has been made. This is what we mean by “hoisting”.
 * You can declare a variable after it has been used;
-* All declarations (var, let, const, function, class) are "hoisted" in JavaScript. But only function declaration are hoisted and not
-  function expressions.
+* All declarations (var, let, const, function, class) are "hoisted" in JavaScript. **But only function declaration are hoisted and not function expressions.**
   The difference between var, let and const declarations is its initialisation. instances of var are initialised with undefined while let   and const will throw a Reference error if you try to call one before it has been assigned a value.
 
 **_A design rule we could follow, now we know about hoisting_**
