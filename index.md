@@ -5,7 +5,7 @@
 [**Choice of technology**](tek.md) -
 [**Dictionary**](dictionary.md)
 
-[**Group Review**](groupreview.md)
+## [**Group Review**](groupreview.md)
 
 
 | Week | Dato | Link |SP Exercises|Questions|
