@@ -8,7 +8,7 @@
 ## [**Group Review**](groupreview.md)
 
 
-| Week | Dato | Link |SP Exercises|Questions|
+| Week | Dato | Link |SP Exercises|Weekly Questions|
 |:----:|:----:|------|:----------:|:-------:|
 |  1   | 28/01 - 01/02 |<a href="https://github.com/cphdat3sem2019spring/Week-01" target="_blank">**Maven**</a>||
 |  2   | 04/02 - 08/02 | <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul1/Week2/" target="_blank">**Network and Http**</a> |
