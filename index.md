@@ -1,11 +1,15 @@
 
 ## Welcome Geeks
 
+## [**Group Review**](groupreview.md)
+
+___
+
 [**Group Information**](gruppe.md) -
 [**Choice of technology**](tek.md) -
 [**Dictionary**](dictionary.md)
 
-## [**Group Review**](groupreview.md)
+___
 
 
 | Week | Dato | Link |SP Exercises|Weekly Questions|
