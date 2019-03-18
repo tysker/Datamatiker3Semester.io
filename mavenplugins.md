@@ -22,30 +22,120 @@ ___
 
 * **documentation-plugin**
 
-* <a href="https://docs.google.com/document/d/1C7_n6UIj_yp6HwWsPGRsn08sP0-iuXQR8fbazT2DZ68/edit?usp=sharing" target="_blank">**Plugin**</a>
+      <reporting>
+          <plugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-javadoc-plugin</artifactId>
+              <version>3.0.1</version>
+              <configuration>
+                <show>public</show>
+              </configuration>
+            </plugin>
+          </plugins>
+      </reporting>
+
 
 * **maven-surefire-plugin**
+ 
+       <plugin>
+           <groupId>org.apache.maven.plugins</groupId>
+           <artifactId>maven-surefire-plugin</artifactId>
+           <version>2.12.1</version>
+           <configuration>
+              <excludes>
+                 <exclude>**/integrationtests/*</exclude>
+              </excludes>
+           </configuration>
+       </plugin>
 
-* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit?usp=sharing" target="_blank">**Plugin**</a>
 
 ___
 
 * **maven-failsafe-plugin**
 
-* <a href="https://docs.google.com/document/d/13o2L2d8pNr58tfD1meQYaGVHxD8ESdjsQUrud-hEQiI/edit?usp=sharing" target="_blank">**Plugin**</a>
+       <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-failsafe-plugin</artifactId>
+          <version>2.12.4</version>
+          <configuration>
+            <includes>
+              <include>**/integrationtests/*</include>
+            </includes>
+          </configuration>
+          <executions>
+            <execution>
+              <goals>
+                <goal>integration-test</goal>
+                <goal>verify</goal>
+              </goals>
+            </execution>
+          </executions>
+       </plugin>
+
 
 ___
 
 
 * **Embeded Maven test Plugin**
 
-* <a href="https://docs.google.com/document/d/12D4fs3q6UOfZK1G4ytP6xeKelMpN_pl5STLsOdUYfHg/edit?usp=sharing" target="_blank">**Plugin**</a>
+      <plugin>  
+         <groupId>org.apache.tomcat.maven</groupId>
+
+         <artifactId>tomcat7-maven-plugin</artifactId>
+
+         <version>2.2</version>
+
+         <configuration>  
+           <path>/</path>
+           <port>7777</port>
+         </configuration>
+         <executions>
+           <execution>
+             <id>start-tomcat</id>
+             <phase>pre-integration-test</phase>
+             <goals>
+               <goal>run</goal>
+             </goals>
+             <configuration>
+               <fork>true</fork>
+             </configuration>
+           </execution>
+           <execution>
+             <id>stop-tomcat</id>
+             <phase>post-integration-test</phase>
+             <goals>
+               <goal>shutdown</goal>
+             </goals>
+           </execution>
+         </executions>
+      </plugin>
+
 
 ___
 
 * **Plugin for Netbeans or Remote Tomcat Server**
 
-* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit?usp=sharing" target="_blank">**Plugin**</a>
+      <profile>
+        <id>deploylocal</id>
+        <build>
+          <plugins>
+            <plugin>  
+              <groupId>org.apache.tomcat.maven</groupId>
+              <artifactId>tomcat7-maven-plugin</artifactId>
+              <version>2.2</version>
+               <configuration>
+               <url>http://localhost:8084/manager/text</url>
+               <server>TomcatServer</server>
+               <path>/NameToDeployUnder</path>
+               <username>XXX_USER</username>
+               <password>XXX_PASSWORD</password>
+               <update>true</update>
+              </configuration>
+            </plugin>
+          </plugins>
+        </build>
+      </profile>
 
 ____
 
