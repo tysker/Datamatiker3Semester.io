@@ -4,14 +4,14 @@
 ## Nginx
 
 
-## /etc/nginx/sites-enabled/default
+### /etc/nginx/sites-enabled/default
 
-# You should look at the following URL's in order to grasp a solid understanding
-# of Nginx configuration files in order to fully unleash the power of Nginx.
-# http://wiki.nginx.org/Pitfalls
-# http://wiki.nginx.org/QuickStart
-# http://wiki.nginx.org/Configuration
-#
+* You should look at the following URL's in order to grasp a solid understanding
+* of Nginx configuration files in order to fully unleash the power of Nginx.
+* http://wiki.nginx.org/Pitfalls
+* http://wiki.nginx.org/QuickStart
+* http://wiki.nginx.org/Configuration
+
 
 upstream tomcat {
     server 127.0.0.1:8080 fail_timeout=0;
