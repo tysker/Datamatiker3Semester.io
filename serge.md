@@ -11,4 +11,4 @@
 5. choose a different domain name if needed
 
 
-<a href="https://surge.sh/" "target=_blank">**serge.sh**</a>
+<a href="https://surge.sh/" target="_blank">**serge.sh**</a>
