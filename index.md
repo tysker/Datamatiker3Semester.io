@@ -42,16 +42,7 @@ ___
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
 * <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**JavaScript Eventloop**</a>
 
-___
 
-
-**Excercises**
- * [**Test, Maven and Travis Guidelines**](testguidelines.md)
- * [**Network Exercises**](networkexercise.md)
- * [**Exercise Network Tools**](exercisenetworktools.md)
- * [**HTTP Exercise**](exercisehttp.md)
- * [**Nginx Excercise**](nginxexercise.md)
- 
  ____
  
 
