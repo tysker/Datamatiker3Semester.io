@@ -105,7 +105,7 @@ ___
 * [**Maven Plugins**](mavenplugins.md)
 * [**Maven Phase or life cycle**](lifecycle.md)
 * <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
-* [**Create Maven Project**](mavenguide.md)
+* [**Create Maven Project From Commandline**](mavenguide.md)
 * [**Creating Documentation for the Project**](documentation.md)
 * [**Deployment with Maven on a remote Tomcat Server**](deploymentmaven.md)
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
