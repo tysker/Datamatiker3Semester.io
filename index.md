@@ -37,6 +37,12 @@ _____
 ___
 
 
+**Importent Links**
+* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
+* [**serge.sh**](serge.md)
+
+____
+
 **Courses**
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
@@ -75,13 +81,6 @@ ___
 * <a href="https://www.w3schools.com/js/default.asp" target="_blank">**w3schools**</a>
 
 ___
-
-
-**Travis**
-* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
-
-____
-
 
 **Tomcat**
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
