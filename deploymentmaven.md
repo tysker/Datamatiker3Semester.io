@@ -53,8 +53,8 @@ Insert the profile given below to your pom file and give it the id (can also be 
 
 * Verify that you can deploy like this: 
 
-_mvn tomcat7:deploy -Pdeployremote_
+**mvn tomcat7:deploy -Pdeployremote**
 
 * This does unfortunately not execute our integration test since they are “controlled” by the test-profile. Run both like this: 
 
-_mvn verify -Ptest tomcat7:deploy -Pdeployremote_
+**mvn verify -Ptest tomcat7:deploy -Pdeployremote**
