@@ -29,7 +29,27 @@ _service tomcat8 restart_
 
 Insert the profile given below to your pom file and give it the id (can also be different)deployremote, and fill in the details for your remote server.
 
-* <a href="https://docs.google.com/document/d/1T4P2xCNQD544kS2F_o5zuxr2s9UlJa2r3T4RjIjTxWE/edit?usp=sharing" target="_blank">**Plugin**</a>
+     <profile>
+       <id>deploylocal</id>
+       <build>
+         <plugins>
+           <plugin>  
+             <groupId>org.apache.tomcat.maven</groupId>
+             <artifactId>tomcat7-maven-plugin</artifactId>
+             <version>2.2</version>
+              <configuration>
+              <url>http://localhost:8084/manager/text</url>
+              <server>TomcatServer</server>
+              <path>/NameToDeployUnder</path>
+              <username>XXX_USER</username>
+              <password>XXX_PASSWORD</password>
+              <update>true</update>
+             </configuration>
+           </plugin>
+         </plugins>
+       </build>
+     </profile>
+
 
 * Verify that you can deploy like this: 
 
