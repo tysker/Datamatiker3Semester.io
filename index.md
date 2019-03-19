@@ -22,11 +22,11 @@ ___
  | 6 |04/03 - 08/03| <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul2/Week3/" target="_blank">**JavaScript**</a> |<a href="https://docs.google.com/document/d/1zh1YNufKbFVrHuAb4A9NA3YA54zkPm_Wu0ee-4AKfrU/edit?usp=sharing" target="_blank">**Questions**</a> |
  | 7 | 11/03 - 15/03 |<a href="https://docs.google.com/document/d/1LC5qSkwf2jB1ea7KHYBBD1OC_gXjwJzMQlnEGp0Ze2s/edit" target="_blank">**CA2**</a> |<a href="https://docs.google.com/document/d/1YLptt6UcxZ1cmOH3-ypqr3-TOZfaTVLmPb_GB8csgSs/edit?usp=sharing" target="_blank">**Questions**</a> |
  | 8 | 25/03 - 29/03 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul4/Week1_Sys1/" target="_blank">**SYS 1**</a> |<a href="https://docs.google.com/document/d/1Wn0Lk_qns7Bcvgh2eRs2rPrrUmumoqaKokTLuu7EOLk/edit?usp=sharing" target="_blank">**Questions**</a> |
-| 9 | 25/03 - 29/03  |<a href="" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
-| 10 | 01/04 - 05/04 |<a href="" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
-| 11 | 08/04 - 12/04 |<a href="" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
+| 9 | 25/03 - 29/03  |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul4/Week2_Sys2/" target="_blank">**SYS 2**</a>|<a href="" target="_blank">**Questions**</a>|
+| 10 | 01/04 - 05/04 |<a href="SPA with React (TBD)" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
+| 11 | 08/04 - 12/04 |<a href="" target="_blank">**React routing, Security and React Native (TBD)**</a>|<a href="" target="_blank">**Questions**</a>|
 | 12 | 15/04 - 19/04 |<a href="" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
-| 13 | 22/04 - 26/04 |<a href="" target="_blank">****</a>|<a href="" target="_blank">**Questions**</a>|
+| 13 | 22/04 - 26/04 |<a href="" target="_blank">**CA3 (TBD)**</a>|<a href="" target="_blank">**Questions**</a>|
 | 14 | 29/04 - 26/05 |<a href="" target="_blank">**Semester Project**</a>|<a href="" target="_blank">**Questions**</a>|
 
 
