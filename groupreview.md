@@ -20,4 +20,5 @@
 |11||||| |||
 |12|-/-|-/-|-/-|-/-|-/-|-/-|-/-|
 |13||||| |||
-|14|||||[**Project Mappe**](semesterproject.md) | <a href="https://docs.google.com/document/d/1OWr0Qp2W5ujUXIz09-2Kr8jgBYqDO3w5HSBoD7KBJeI/edit?usp=sharing" target="_blank">**Project Documentation**</a> ||
+|14|||||[**Project Mappe**](semesterproject.md) | <a href="https://docs.google.com/document/d/1OWr0Qp2W5ujUXIz09-2Kr8jgBYqDO3w5HSBoD7KBJeI/edit?usp=sharing" target="_blank">**Project Documentation**</a> | <a href="https://docs.google.com/document/d/1OWr0Qp2W5ujUXIz09-2Kr8jgBYqDO3w5HSBoD7KBJeI/edit?usp=sharing" target="_blank">**Project Documentation**</a>|
+https://docs.google.com/document/d/1GZwu3HUmYim9pYvub7T50yYtceEEtW9Gc3pffFzJu0Q/edit?usp=sharing
