@@ -65,6 +65,7 @@ ____
 * <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" target="_blank">**Visual Studio**</a>
 * <a href="https://docs.emmet.io/cheatsheet-a5.pdf" target="_blank">**Html-CSS-XSL-Html DocTypes**</a>
 * <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Mapping**</a>
+* <a href="https://hackerthemes.com/bootstrap-cheatsheet/" target="_blank">**Bootstrap 4**</a>
 
 ___
 
