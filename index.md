@@ -1,10 +1,7 @@
 
 # Welcome Geeks
 
-* ### [**Group Assignments And Review**](groupreview.md)
-
-____
-
+### [**Group Assignments And Review**](groupreview.md)
 
 [**Group Information**](gruppe.md) -
 [**Choice of technology**](tek.md) -
@@ -12,6 +9,7 @@ ____
 
 ____
 
+**Semester Schedule**
 
 | Week | Dato | Link |Weekly Questions|
 |:----:|:----:|------|:--------------:|
