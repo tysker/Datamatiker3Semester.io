@@ -1,7 +1,7 @@
 
 # Welcome Geeks
 
-### * [**Group Assignments And Review**](groupreview.md)
+* ### [**Group Assignments And Review**](groupreview.md)
 
 ____
 
