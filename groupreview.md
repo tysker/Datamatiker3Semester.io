@@ -20,4 +20,4 @@
 |11||||| |||
 |12|-/-|-/-|-/-|-/-|-/-|-/-|-/-|
 |13||||| |||
-|14||||| | [semesterproject.md](Project Mappe) ||
+|14||||| | [**Project Mappe**](semesterproject.md) |<a href="" target="_blank">**QA for Semester Project**</a>|
