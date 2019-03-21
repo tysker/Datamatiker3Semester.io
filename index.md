@@ -72,7 +72,7 @@ ___
 
 
 **JPA**
- * [**JPA Page - ORM**](jpa.md)
+ * [**JPA Page - ORM**](jpa/jpa.md)
 
 ___
 
