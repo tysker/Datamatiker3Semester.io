@@ -1,4 +1,4 @@
-[**HOME**]() - [**Group Review**](groupreview.md)
+[**HOME**](index.md) - [**Group Review**](groupreview.md)
 
 
 
@@ -7,9 +7,9 @@
 
 ___
 
+## XP
 
-
-## Know:
+**Know:**
 * The basics of XP as a development method
 * The 12 practices of XP
 
@@ -21,8 +21,8 @@ ___
 * Explain how specific XP practices support the values in the agile manifesto
 * Explain how the individual XP practices can support each other
 
-
 ___
+
 
 ## 5 impotent Values
 
@@ -40,9 +40,11 @@ The values must secure that the individual is oriented towards the interests of 
 5. **Respect**
   * Everyone gives and feels the respect they deserve as a valued team member
   
+  
   ___
   
-  ## .XP Practices
+  
+  ## XP Practices
   
   1. **The Planning Game**
   * The scope of the next release
