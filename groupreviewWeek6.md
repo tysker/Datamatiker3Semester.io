@@ -1,7 +1,7 @@
 [**HOME**](index.md) - [**Group Review**](groupreview.md)
 
 
-# Group Review Group3 Week 6
+# Group Review Week 6
 
 
 ## Jörg
