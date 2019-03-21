@@ -43,7 +43,7 @@ The values must secure that the individual is oriented towards the interests of 
   
   ___
   
-  ### Practise in XP
+  ###   Practise in XP
   
   1. **The Planning Game**
   * The scope of the next release
