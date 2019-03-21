@@ -100,12 +100,12 @@ ___
 **Maven**
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
 * <a href="https://maven.apache.org/guides/getting-started/index.html" target="_blank">**Maven Getting Started Guide**</a>
-* [**Maven Plugins**](mavenplugins.md)
-* [**Maven Phase or life cycle**](lifecycle.md)
+* [**Maven Plugins**](maven/mavenplugins.md)
+* [**Maven Phase or life cycle**](maven/lifecycle.md)
 * <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
-* [**Create Maven Project From Commandline**](mavenguide.md)
-* [**Creating Documentation for the Project**](documentation.md)
+* [**Create Maven Project From Commandline**](maven/mavenguide.md)
+* [**Creating Documentation for the Project**](maven/documentation.md)
 * [**Deployment with Maven on a remote Tomcat Server**](deploymentmaven.md)
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
-* [**POM.XML**](pom.md)
+* [**POM.XML**](maven/pom.md)
 
