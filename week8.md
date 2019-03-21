@@ -84,7 +84,9 @@ The values must secure that the individual is oriented towards the interests of 
  * Requires the tests to run after integration
  
 10. **40-hour week**
-* Real productivity11.On-site customer
+* Real productivity
+
+11. **On-site customer**
 * Real live user on the team to answer questions
 
 12. **Coding standards**
