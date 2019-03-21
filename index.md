@@ -3,9 +3,9 @@
 
 ### [**Group Assignments And Review**](groupreview.md)
 
-[**Group Information**](gruppe.md) -
-[**Choice of technology**](tek.md) -
-[**Dictionary**](dictionary.md)
+[**Group Information**](home/gruppe.md) -
+[**Choice of technology**](home/tek.md) -
+[**Dictionary**](home/dictionary.md)
 
 ____
 
