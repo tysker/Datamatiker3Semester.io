@@ -27,12 +27,12 @@
  ____
  
  
- * [**One to One – Unidirectional**](otou.md)
- * [**One to One – Bidirectional**](otob.md)
- * [**OneToMany – Unidirectional**](otmu.md)
- * [**OneToMany – Bidirectional**](otmb.md)
- * [**Many To One – Bidirectional**](mto.md)
- * [**ManyToMany**](mtmb.md)
+ * [**One to One – Unidirectional**](/otou.md)
+ * [**One to One – Bidirectional**](/otob.md)
+ * [**OneToMany – Unidirectional**](/otmu.md)
+ * [**OneToMany – Bidirectional**](/otmb.md)
+ * [**Many To One – Bidirectional**](/mto.md)
+ * [**ManyToMany**](/mtmb.md)
  
 
  **Requirements for Entity Classes**
