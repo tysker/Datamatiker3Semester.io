@@ -1,4 +1,4 @@
-[**HOME**](index.md) - [**LEAVE DAYS**](attendance.md)
+[**HOME**](index.md)
 
 
 ## Group 3 Yellow
