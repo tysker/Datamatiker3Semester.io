@@ -146,7 +146,22 @@ ____
 * A goal is a "unit of work" in Maven.
 
 For example, here’s a simple configuration of the Maven Failsafe plugin which is responsible for running integration tests:
-![alt text](plugins.jpg "Plugins Goals")
+
+      <plugin>
+          <artifactId>maven-failsafe-plugin</artifactId>
+          <version>2.21.0</version>
+          <executions>
+              <execution>
+                  <goals>
+                      <goal>integration-test</goal>
+                      <goal>verify</goal>
+                  </goals>
+                  <configuration>
+                      ...
+                  </configuration>
+              </execution>
+          </executions>
+      </plugin>
 
 As we can see, the Failsafe plugin has two main goals configured here:
 
