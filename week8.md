@@ -7,7 +7,7 @@
 
 ___
 
-## XP
+### XP
 
 **Know:**
 * The basics of XP as a development method
@@ -24,7 +24,7 @@ ___
 ___
 
 
-## 5 impotent Values
+### 5 impotent Values
 
 The values must secure that the individual is oriented towards the interests of the project (common culture)
 
@@ -43,8 +43,7 @@ The values must secure that the individual is oriented towards the interests of 
   
   ___
   
-  
-  ## XP Practices
+  ### Practise in XP
   
   1. **The Planning Game**
   * The scope of the next release
