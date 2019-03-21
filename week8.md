@@ -44,21 +44,21 @@ The values must secure that the individual is oriented towards the interests of 
   
   ## XP Practices
   
-  1. **The Planning Game
+  1. **The Planning Game**
   * The scope of the next release
   * Prioritized on the basis of business value and technical estimates
   * The costumer: Scope, prioritizing, sub deliveries
   * The developers: Estimates, technical consequences, a detailed plan (based on risk)
   
-  2. **Small releases
+  2. **Small releases**
   * Put simple system into production quickly
   * Small with large value for business
   
-  3. **Metaphor
+  3. **Metaphor**
   * A shared understanding of the idea –substitutes architectures
   * Simple communication tool – naming concept of classes and methods
   
-  4. **Simple Design
+  4. **Simple Design**
   * Use the simplest possible design that gets the job done.
   * The requirements will change tomorrow, so only do what's needed to meet today's requirements
       1. Runs all tests
@@ -66,24 +66,24 @@ The values must secure that the individual is oriented towards the interests of 
       3. Expresses important purposes
       4. Has as few classes and methods as possible
       
-  5. **Test
+  5. **Test**
   * Continuously to reduce uncertainty
   * Programmers codeunittestsCustomers write acceptance/functional tests
   
-  6. **Refactoring
+  6. **Refactoring**
   * Constant restructuring of the system without changing the behavior to improve code – to remove duplication, improve communication,    simplify, add flexibility
   
- 7. **Pair programming
+ 7. **Pair programming**
  * Programming is a pair activity (driver & navigator roles)
  
- 8. **Collective ownership
+ 8. **Collective ownership**
  * Not “no ownership”
  * Not “private” ownership
  * Anybody can change any code9.Continuous integration
  * Integrate and build the system many times a day, every time a task is completed
  * Requires the tests to run after integration
  
-10. **40-hour week
+10. **40-hour week**
 * Real productivity11.On-site customer
 * Real live user on the team to answer questions
 
