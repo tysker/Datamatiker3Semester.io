@@ -1,4 +1,4 @@
-[**HOME**](index.md) | [**JPA**](jpa.md)
+[**HOME**](/index.md) | [**JPA**](/jpa/jpa.md)
 
 
 # One to One – Bidirectional
