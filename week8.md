@@ -42,6 +42,7 @@ The values must secure that the individual is oriented towards the interests of 
   
   ___
   
+  
   ## XP Practices
   
   1. **The Planning Game**
