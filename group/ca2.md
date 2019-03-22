@@ -4,12 +4,6 @@
 
 # Course Assignment 
 
-
-
-<img src="/images/geekLogo.jpg" width="200"/>
-
-
-
 ## Group 3: 
 * Morten
 * Jörg
