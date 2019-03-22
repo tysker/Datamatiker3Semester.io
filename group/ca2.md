@@ -5,6 +5,8 @@
 
 # Course Assignment 2
 
+<img src="images/geekLogo.jpg" width="200">
+
 
 ## Group 3: 
 * Morten
