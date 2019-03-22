@@ -1,7 +1,7 @@
 
 # Welcome Code Geeks
 
-### [**Group Assignments And Review**](groupreview.md)
+### [**Group Assignments And Review**](/group/groupreview.md)
 
 <img src="images/geekLogo.jpg" width="200"/> 
 
