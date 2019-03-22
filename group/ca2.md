@@ -2,10 +2,12 @@
 
 
 
+# Course Assignment 
 
-# Course Assignment 2
 
-<img src="//images/geekLogo.jpg" width="200"/>
+
+<img src="/images/geekLogo.jpg" width="200"/>
+
 
 
 ## Group 3: 
