@@ -1,4 +1,4 @@
-[**HOME**](index.md)
+[**HOME**](/index.md)
 
 ## Exercise Network Tools
 
