@@ -97,11 +97,12 @@ ___
 
 ___
 
-
+testguidelines.md
 **Maven**
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
 * <a href="https://maven.apache.org/guides/getting-started/index.html" target="_blank">**Maven Getting Started Guide**</a>
 * [**Maven Plugins**](maven/mavenplugins.md)
+* [**Maven Test And Travis**](maven/testguidelines.md)
 * [**Maven Phase or life cycle**](maven/lifecycle.md)
 * <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
 * [**Create Maven Project From Commandline**](maven/mavenguide.md)
