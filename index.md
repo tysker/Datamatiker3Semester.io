@@ -3,7 +3,6 @@
 
 ### [**Group Assignments And Review**](/group/groupreview.md)
 
-<img src="images/geekLogo.jpg" width="200"/> 
 
 [**Group Information**](home/gruppe.md) -
 [**Choice of technology**](home/tek.md) -
