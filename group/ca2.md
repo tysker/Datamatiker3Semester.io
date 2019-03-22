@@ -1,4 +1,4 @@
-[**HOME**](/index.md) - [**Group Review**](/group/groupreview.md)
+[**HOME**](/group/index.md) - [**Group Review**](/group/groupreview.md)
 
 
 
