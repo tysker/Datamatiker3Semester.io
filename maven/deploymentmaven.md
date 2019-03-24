@@ -16,7 +16,7 @@
 
         <role rolename="manager-gui"/>
         <role rolename="manager-script"/>
-         <user name="admin" password="XXX" roles="manager-gui,manager-script"/>
+        <user name="admin" password="XXX" roles="manager-gui,manager-script"/>
 
 * Save the file
 * Restart the Tomcat Server:   
