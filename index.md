@@ -1,6 +1,8 @@
 
 # Welcome Code Geeks
 
+<img src="../images/geekLogo.jpg"/> 
+
 ### [**Group Assignments And Review**](/group/groupreview.md)
 
 
