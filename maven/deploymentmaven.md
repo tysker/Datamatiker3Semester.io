@@ -14,8 +14,8 @@
 * Insert the following after line 21 in the file – please use your own password!
 * The manager-gui role will allow you to add war-files using Tomcat’s  “Web Application Manager”. The manager-script role will allow you to upload war-files using Maven
 
-         <role rolename="manager-gui"/>
-         <role rolename="manager-script"/>
+        <role rolename="manager-gui"/>
+        <role rolename="manager-script"/>
          <user name="admin" password="XXX" roles="manager-gui,manager-script"/>
 
 * Save the file
@@ -51,10 +51,11 @@ Insert the profile given below to your pom file and give it the id (can also be 
      </profile>
 
 
+
 * Verify that you can deploy like this: 
 
-**mvn tomcat7:deploy -Pdeployremote**
+         mvn tomcat7:deploy -Pdeployremote
 
 * This does unfortunately not execute our integration test since they are “controlled” by the test-profile. Run both like this: 
 
-**mvn verify -Ptest tomcat7:deploy -Pdeployremote**
+         mvn verify -Ptest tomcat7:deploy -Pdeployremote
