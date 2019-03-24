@@ -371,13 +371,13 @@ Small Device Styles
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 800px) {
   body {
     font-size:14px;
   }
 
   #downloads {
-    display: none;
+    display: block;
   }
 
   .inner {
