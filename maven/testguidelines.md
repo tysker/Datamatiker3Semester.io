@@ -1,4 +1,4 @@
-[**HOME**](/index.md)
+[**HOME**](../index.md)
 
 
 ## Test, Maven and Travis Guidelines
