@@ -2,7 +2,7 @@
 # Welcome Code Geeks
 
 
-<img src="../images/geekLogo.jpg" width="200"/> 
+<img src="../images/geekLogo.jpg" width="100"/> 
 
 
 ### [**Group Assignments And Review**](/group/groupreview.md)
