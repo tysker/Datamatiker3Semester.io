@@ -1,7 +1,9 @@
 
 # Welcome Code Geeks
 
-<img src="../images/geekLogo.jpg"/> 
+
+<img src="../images/geekLogo.jpg" width="200"/> 
+
 
 ### [**Group Assignments And Review**](/group/groupreview.md)
 
