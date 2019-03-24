@@ -1,6 +1,5 @@
 
 
-<img src="images/geekLogo.jpg" width="200" height="150"/> 
 
 
 ### [**Group Assignments And Review**](/group/groupreview.md)
@@ -10,9 +9,10 @@
 [**Choice of technology**](home/tek.md) -
 [**Dictionary**](home/dictionary.md)
 
+
 ____
 
-**Semester Schedule**
+
 
 | Week | Dato | Link |Weekly Questions|
 |:----:|:----:|------|:--------------:|
@@ -116,4 +116,3 @@ _Internal Links_
 * [**Creating Documentation for the Project**](maven/documentation.md)
 * [**Deployment with Maven on a remote Tomcat Server**](maven/deploymentmaven.md)
 * [**POM.XML**](maven/pom.md)
-
