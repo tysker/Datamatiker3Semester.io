@@ -1,6 +1,4 @@
 
-# Welcome Code Geeks
-
 
 <img src="images/geekLogo.jpg" width="200" height="150"/> 
 
