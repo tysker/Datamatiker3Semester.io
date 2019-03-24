@@ -9,7 +9,9 @@
 
 * The POM file in our project is extendet by something called **Super POM**. To see the entire pom file, we can run a command from the command prompt:
 
+
       mvn help:effective-pom
+      
 
 **Minimum requirements:**
 
