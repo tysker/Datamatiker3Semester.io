@@ -107,7 +107,7 @@ ___
 * <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
 * [**Create Maven Project From Commandline**](maven/mavenguide.md)
 * [**Creating Documentation for the Project**](maven/documentation.md)
-* [**Deployment with Maven on a remote Tomcat Server**](deploymentmaven.md)
+* [**Deployment with Maven on a remote Tomcat Server**](maven/deploymentmaven.md)
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
 * [**POM.XML**](maven/pom.md)
 
