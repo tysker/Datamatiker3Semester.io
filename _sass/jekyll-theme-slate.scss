@@ -367,7 +367,7 @@ Small Device Styles
 
 @media screen and (max-width: 992px) {
   img {
-    max-width: 250%;
+    max-width: 100%;
   }
 }
 
@@ -382,7 +382,7 @@ Small Device Styles
 
   .inner {
     min-width: 320px;
-    max-width: 600px;
+    max-width: 480px;
   }
 
   #project_title {
@@ -425,11 +425,11 @@ Small Device Styles
   }
 
   #downloads {
-    display: block;
+    display: none;
   }
 
   .inner {
-    min-width: 300px;
+    min-width: 240px;
     max-width: 320px;
   }
 
