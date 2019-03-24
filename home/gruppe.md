@@ -1,10 +1,10 @@
-[**HOME**](/index.md)
+[**HOME**](../index.md)
 
 
 ## Group 3 Yellow
 
 
-<img src="/images/joerg.jpg" width="100"/> 
+<img src="../images/joerg.jpg" width="100"/> 
 
 **Jörg Oertel**
 
@@ -13,7 +13,7 @@
 **mobil:**  _28123663_
 
 ***
-<img src="/images/nikolai.jpg" width="100"/>
+<img src="../images/nikolai.jpg" width="100"/>
 
 **Nikolai Rojahn**
 
@@ -22,7 +22,7 @@
 **mobil:**  _51880097_
 
 ***
-<img src="/images/rasmus.jpg" width="100"/>
+<img src="../images/rasmus.jpg" width="100"/>
 
 **Rasmus Porse**
 
@@ -31,7 +31,7 @@
 **mobil:**  _20913475_
 
 ***
-<img src="/images/morten.jpg" width="100"/>
+<img src="../images/morten.jpg" width="100"/>
 
 **Morten Feldt**
 
