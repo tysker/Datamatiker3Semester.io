@@ -13,4 +13,4 @@
  * [**Network Exercises**](/networkexercise.md)
  * [**Exercise Network Tools**](/exercisenetworktools.md)
  * [**HTTP Exercise**](/exercisehttp.md)
- * [**Nginx Excercise**]/(nginxexercise.md)
+ * [**Nginx Excercise**](/nginxexercise.md)
