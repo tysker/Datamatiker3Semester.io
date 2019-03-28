@@ -8,7 +8,7 @@
 
 
 
- * [**Network Exercises**](/excercise/networkexercise.md)
- * [**Exercise Network Tools**](/excercise/exercisenetworktools.md)
- * [**HTTP Exercise**](/excercise/exercisehttp.md)
- * [**Nginx Excercise**](/excercise/nginxexercise.md)
+ * [**Network Exercises**](../excercise/networkexercise.md)
+ * [**Exercise Network Tools**](../excercise/exercisenetworktools.md)
+ * [**HTTP Exercise**](../excercise/exercisehttp.md)
+ * [**Nginx Excercise**](../excercise/nginxexercise.md)
