@@ -8,8 +8,6 @@
 
 
 
-
- * [**Test, Maven and Travis Guidelines**](/excercise/testguidelines.md)
  * [**Network Exercises**](/excercise/networkexercise.md)
  * [**Exercise Network Tools**](/excercise/exercisenetworktools.md)
  * [**HTTP Exercise**](/excercise/exercisehttp.md)
