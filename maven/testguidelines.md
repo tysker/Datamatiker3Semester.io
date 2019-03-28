@@ -3,7 +3,7 @@
 
 ## Test, Maven and Travis Guidelines
 
-For specific plug-in information, please go to this page: [Plugins](../maven/mavenplugins.md)
+For specific plug-in information, please go to this page: [Plugins](mavenplugins.md)
 
 
 * **Unit Test all “relevant” public methods via Maven**
