@@ -9,8 +9,8 @@
 
 
 
- * [**Test, Maven and Travis Guidelines**](/testguidelines.md)
- * [**Network Exercises**](/networkexercise.md)
- * [**Exercise Network Tools**](/exercisenetworktools.md)
- * [**HTTP Exercise**](/exercisehttp.md)
- * [**Nginx Excercise**](/nginxexercise.md)
+ * [**Test, Maven and Travis Guidelines**](/excercise/testguidelines.md)
+ * [**Network Exercises**](/excercise/networkexercise.md)
+ * [**Exercise Network Tools**](/excercise/exercisenetworktools.md)
+ * [**HTTP Exercise**](/excercise/exercisehttp.md)
+ * [**Nginx Excercise**](/excercise/nginxexercise.md)
