@@ -41,6 +41,14 @@
 **JSX**
 <a href="https://reactjs.org/docs/introducing-jsx.html" target="_blank">_JavaScript XML_</a>
 
+## N
+
+**NPM**
+<a href="https://www.w3schools.com/nodejs/nodejs_npm.asp" target="_blank">_Node Package Manager_</a>
+
+**NPX**
+<a href="#" target="_blank">_Package Runner For NPM_</a>
+
 ## O
 
 **OSI**
