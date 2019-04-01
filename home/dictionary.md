@@ -38,6 +38,9 @@
 **JPA**
 <a href="https://en.wikibooks.org/wiki/Java_Persistence/What_is_JPA%3F" target="_blank">_Java Persistence_</a>
 
+**JSX**
+<a href="https://reactjs.org/docs/introducing-jsx.html" target="_blank">_JavaScript XML_</a>
+
 ## O
 
 **OSI**
