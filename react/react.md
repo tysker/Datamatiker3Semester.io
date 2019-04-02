@@ -3,7 +3,7 @@
 
 ## React Basics
 
-## New Project
+### New Project
 
       npx create-react-app nameOfTheProject
 
