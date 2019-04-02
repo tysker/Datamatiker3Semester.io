@@ -22,6 +22,7 @@
     
 * **Note: Always start component names with a capital letter.**
 
+
       class Welcome extends React.Component {
           render() {
             return <h1>Hello, {this.props.name}</h1>;
