@@ -3,6 +3,10 @@
 
 ## React Basics
 
+## New Project
+
+      npx create-react-app nameOfTheProject
+
 
 ### Imports
 
@@ -19,8 +23,10 @@
 * **Note: Always start component names with a capital letter.**
 
       class Welcome extends React.Component {
-        render() {
-          return <h1>Hello, {this.props.name}</h1>;
-        }
-      }
+          render() {
+            return <h1>Hello, {this.props.name}</h1>;
+              }
+            }
+
+
 
