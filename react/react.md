@@ -7,7 +7,7 @@
 * **Each React component has to return and render JSX code**
 
     
- This code is jpx and not html, if we would not use jpx we would have to write the code as shown below 
+ This code is JSX and not html, if we would not use JSX we would have to write the code as shown below 
  
        class App extends Component {
           render() {
