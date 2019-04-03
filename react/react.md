@@ -18,7 +18,7 @@
               );
               
               
-This is how jpx is compiled behind the scene:
+This is how JSX is converted to React elements behind the scene:
 
          render() {
            return React.createElement('div', {className: 'App'}, React.createElement('h1',null,'Hi, I\'m a Reacht App!!!'));
