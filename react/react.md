@@ -6,11 +6,10 @@
 * **Note: Always start component names with a capital letter.**
 * **Each React component has to return and render JSX code**
 
-
-      class App extends Component {
     
  This code is jpx and not html, if we would not use jpx we would have to write like the code below 
  
+       class App extends Component {
           render() {
                return (
                   <div className="App">
