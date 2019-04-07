@@ -21,11 +21,11 @@ It is used for mostly only two purposes:
 * **React**
 * **render** = The render() method is the only required method in a class component.
 When called, it should examine this.props and this.state and return one of the following types:
-1. **React elements.** Typically created via JSX. For example, <div /> and <MyComponent /> are React elements that instruct React to render a DOM node, or another user-defined component, respectively.
+1. **React elements.** Typically created via JSX. For example, \<div /\> and \<MyComponent /\> are React elements that instruct React to render a DOM node, or another user-defined component, respectively.
 2. **Arrays and fragments.** Let you return multiple elements from render.
 3. **Portals.** Let you render children into a different DOM subtree.
 4. **String and numbers.** These are rendered as text nodes in the DOM.
-5. **Booleans or null.** Render nothing. (Mostly exists to support return test && <Child /> pattern, where test is boolean.)
+5. **Booleans or null.** Render nothing. (Mostly exists to support return test && \<Child /\> pattern, where test is boolean.)
 
 **S**
 * **state** = Whilst props allow you to pass data down the component tree (and hence trigger an UI update), state is used to change the component, well, state from within. Changes to state also trigger an UI update.Only class-based components can define and use state . You can of course pass the state  down to functional components, but these then can't directly edit it.
