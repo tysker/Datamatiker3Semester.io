@@ -10,15 +10,7 @@
 * **props  and state  are CORE concepts of React. Only changes in props and/or state trigger React to re-render your components and potentially update the DOM in the browser**
 
 
-### When creating components, you have the choice between two different ways:
 
-1. Functional components (also referred to as "presentational", "dumb" or "stateless" components.
-
-        const cmp = () => { return <div>some JSX</div> }
-
-2. class-based components (also referred to as "containers", "smart" or "stateful" components).
-
-        class Cmp extends Component { render () { return <div>some JSX</div> } }
         
     
 **This code is JSX and not html, and if we would not use JSX, we would have to write the code as shown below**
@@ -51,18 +43,6 @@
       import ReactDOM from 'react-dom';
     
     
-### Function and Class Components
 
-      function Welcome(props) {
-        return <h1>Hello, {props.name}</h1>;
-      }
-    
-      class Welcome extends React.Component {
-        render() {
-          return <h1 > Hello, {
-            this.props.name
-          } < /h1>;
-        }
-      }
 
 
