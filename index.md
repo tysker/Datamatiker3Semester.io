@@ -70,7 +70,7 @@ ____
 * <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Mapping**</a>
 * <a href="https://hackerthemes.com/bootstrap-cheatsheet/" target="_blank">**Bootstrap 4**</a>
 * <a href="https://tysker.github.io/Datamatiker3Semester.io/js-cheat-sheet.pdf" target="_blank">**JavaScript Basic**</a>
-
+* <a href="https://devhints.io/react" target="_blank">**REACT**</a>
 ___
 
 
