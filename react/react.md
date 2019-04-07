@@ -23,8 +23,15 @@
 * **props  and state  are CORE concepts of React. Only changes in props and/or state trigger React to re-render your components and potentially update the DOM in the browser**
 
 
+## React Components — Three Basic Principles
 
-        
+
+1. A component should be a pure function which transforms data into a user interface. For a regular React web app, this means that a component takes some data and returns HTML.
+   
+2. Components should be as generic as possible to promote reusability. To achieve this, you don’t want to bind the components which generate your HTML to a specific state management solution. Instead, you divide your components into container (smart) components and presentational (dumb) components. 
+The smart components extract data from your state without directly generating HTML (and thus can be bound to your state management!), while the dumb components transform that data into HTML.
+
+3. A component should be performant. It should only render when its input has changed.  
     
 **This code is JSX and not html, and if we would not use JSX, we would have to write the code as shown below**
  
