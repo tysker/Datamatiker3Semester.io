@@ -1,4 +1,4 @@
-[**HOME**](/index.md) - [**REACT ABC**](reactabc.md)
+[**HOME**](/index.md) - [**REACT ABC**](reactabc.md) - [**Functions And Components**](functions.md)
 
 
 ## React Basics
