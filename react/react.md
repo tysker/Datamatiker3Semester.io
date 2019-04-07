@@ -1,6 +1,16 @@
 [**HOME**](/index.md) - [**REACT ABC**](reactabc.md) - [**Functions And Components**](functions.md)
 
+### New Project
 
+      npx create-react-app nameOfTheProject
+
+
+### Imports
+
+      import React from 'react';
+      import ReactDOM from 'react-dom';
+            
+      
 ## React Basics
 
 * **Note: Always start component names with a capital letter.**
@@ -32,15 +42,7 @@
       }
 
 
-### New Project
 
-      npx create-react-app nameOfTheProject
-
-
-### Imports
-
-      import React from 'react';
-      import ReactDOM from 'react-dom';
     
     
 
