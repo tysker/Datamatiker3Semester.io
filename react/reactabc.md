@@ -2,10 +2,13 @@
 
 ## REACT ABC
 
-
+**J**
+* **JSX**
+(JavaScript XML) JSX is a syntax extension til JavaScript.
 
 **C**
 * **Components**
+Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 
 **R**
 * **React**
