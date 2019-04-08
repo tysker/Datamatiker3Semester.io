@@ -14,6 +14,34 @@ You will set **state** only in your constructor where **setState()** can be used
 * **How is it possible to tell React that you want to the UI to be updated (re-rendered)?
 A re-render can only be triggered if a component's state has changed. The state can change from a **props** change, or from a direct **setState** change. The component will get the update change and will then decide to re-render the DOM.
 
+* **How do you pass in prop values to a Component?**
+Every child components gets its props from the parent. In a function component, props is all it gets passed, and they are available by adding props as the function argument.
+
+      const BlogPostExcerpt = props => {
+        return (
+          <div>
+            <h1>{props.title}</h1>
+            <p>{props.description}</p>
+          </div>
+        )
+      }
+      
+In a class component, props are passed by default. There is no need to add anything special, and they are accessible as this.props in a Component instance.
+
+import React, { Component } from 'react'
+
+      class BlogPostExcerpt extends Component {
+        render() {
+          return (
+            <div>
+              <h1>{this.props.title}</h1>
+              <p>{this.props.description}</p>
+            </div>
+          )
+        }
+      }
+
+
 * **What is the different between state and props?**
 
 _"a component manages its own state, but the properties are given by its predecessor"._
