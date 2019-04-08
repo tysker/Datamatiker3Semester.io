@@ -23,11 +23,13 @@ _Most of the components should simply take some data from props and render it. H
 * **props**
     * are variables passed to it by it's parent component.
     * will be able to use or not the properties given by his "father" but it will not be able to modify them.
+    * **Stateless component:** It only has the props. It is not very interactive, basically it has the function of render () and little else.
 
 
 * **state**
     * are variables directly initialized and managed by the component.
     * a state can be changed
+    * **Stateful component:** It has both the props and the state. These components are those that interact with the server, react to user events, etc.
 
 
 * **In commen**
