@@ -2,7 +2,11 @@
 
 ## Reacts Lifecycle
 
+___
+
 <img src="../images/lifecycle.jpg" width="800"/> 
+
+___
 
 ### What is the purpose of React Components Life Cycle Methods?
 
@@ -48,4 +52,8 @@ This is the last phase in the component’s lifecycle. As the name clearly sugge
 1.  componentWillUnmount()
 This method is called before the unmounting of the component takes place. Before the removal of the component from the DOM, ‘componentWillUnMount’ executes. This method denotes the end of the component’s lifecycle.
 
-<img src="../images/chartlige.png" width="400"/> 
+___
+
+<img src="../images/chartlige.png" width="600"/> 
+
+___
