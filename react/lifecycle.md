@@ -54,6 +54,6 @@ This method is called before the unmounting of the component takes place. Before
 
 ___
 
-<img src="../images/chartlige.png" width="600"/> 
+<img src="../images/chartlige.png" width="400"/> 
 
 ___
