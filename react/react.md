@@ -1,4 +1,4 @@
-[**HOME**](/index.md) - [**REACT ABC**](reactabc.md) - [**FUNCTIONS AND COMPONENTS**](functions.md) - [**STATE AND PROPS**](stateandprops.md) - [**LIFECYCLE**](lifecycle.md)
+[**HOME**](../index.md) - [**REACT ABC**](reactabc.md) - [**FUNCTIONS AND COMPONENTS**](functions.md) - [**STATE AND PROPS**](stateandprops.md) - [**LIFECYCLE**](lifecycle.md)
 
 ### New Project
 
