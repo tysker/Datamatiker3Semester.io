@@ -71,6 +71,7 @@ ____
 * <a href="https://hackerthemes.com/bootstrap-cheatsheet/" target="_blank">**Bootstrap 4**</a>
 * <a href="https://tysker.github.io/Datamatiker3Semester.io/js-cheat-sheet.pdf" target="_blank">**JavaScript Basic**</a>
 * <a href="https://devhints.io/react" target="_blank">**REACT**</a>
+
 ___
 
 
