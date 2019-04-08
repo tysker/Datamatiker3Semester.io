@@ -2,7 +2,7 @@
 
 ## Reacts Lifecycle
 
-<img src="../images/lifecycle.jpg" width="400"/> 
+<img src="../images/lifecycle.jpg" width="800"/> 
 
 ### What is the purpose of React Components Life Cycle Methods?
 
