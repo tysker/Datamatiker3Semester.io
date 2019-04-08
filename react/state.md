@@ -3,7 +3,7 @@
 
 _"The main responsibility of a component is to translate raw data into rich HTML."_
 
-## State
+## State and Props
 
 * **Could you use or change state in an functional component?**
 No, functional components are stateless components. You will not be able to setState in your method.
