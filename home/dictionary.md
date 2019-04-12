@@ -38,6 +38,9 @@
 **Java EE**
 <a href="https://stackoverflow.com/questions/106820/what-is-java-ee" target="_blank">_Java Platform, Enterprise Edition_</a>
 
+**Jersey**
+<a href="https://jersey.github.io/" target="_blank">_Jersey RESTful Web Services framework_</a>
+
 **JPA**
 <a href="https://en.wikibooks.org/wiki/Java_Persistence/What_is_JPA%3F" target="_blank">_Java Persistence_</a>
 
