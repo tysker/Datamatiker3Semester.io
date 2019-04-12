@@ -35,6 +35,9 @@
 **JAR files**
 <a href="https://en.wikipedia.org/wiki/JAR_(file_format)" target="_blank">_Java ARchive_</a>
 
+**Java EE**
+<a href="https://stackoverflow.com/questions/106820/what-is-java-ee" target="_blank">_Java Platform, Enterprise Edition_</a>
+
 **JPA**
 <a href="https://en.wikibooks.org/wiki/Java_Persistence/What_is_JPA%3F" target="_blank">_Java Persistence_</a>
 
