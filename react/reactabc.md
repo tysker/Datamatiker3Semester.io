@@ -2,9 +2,6 @@
 
 ## REACT ABC
 
-**J**
-* **JSX** = (JavaScript XML) JSX is a syntax extension til JavaScript.
-
 **C**
 * **Components** = Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 * **constructor** = The constructor for a React component is called before it is mounted. When implementing the constructor for a React.Component subclass, you should call super(props) before any other statement. Otherwise, this.props will be undefined in the constructor, which can lead to bugs. 
@@ -16,6 +13,12 @@ It is used for mostly only two purposes:
 
 **F**
 * **Fragments** = <a href="https://reactjs.org/docs/fragments.html" target="_blank">React Home</a>
+
+**K**
+* **Keys** = Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.
+
+**J**
+* **JSX** = (JavaScript XML) JSX is a syntax extension til JavaScript.
 
 **R**
 * **React**
