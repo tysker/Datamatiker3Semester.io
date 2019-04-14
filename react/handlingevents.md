@@ -23,6 +23,8 @@ In React:
 * **In a Controlled Component React state is made the "Single source of truth", so how:**
 
      1. do we ensure that input controls like text, textarea or select always presents the value found in the components state?
+     2. Do we ensure that a controls state, always matches the value found in an input control?
+
       
      _In React, mutable state(text,textare and select are mutable states) is typically kept in the state property(Eigenschaften) of              components, and only updated with setState(). An input what is controlled by React is called a "controlled component"._
       
