@@ -33,4 +33,11 @@ In React:
     First effect you will notice is that, once you added value property to it, when you type in, nothing will change. And if you add         onChange method that changes state, it will be fully controllable component that only listens to one source of truth; state,             instead of DOM events.
     
     This is also related to one way data binding. It means that there is only one place which represents state of application, and your UI listens to it. And listening UI will change only if data at this place is changed, never else.
+    
+    <img src="../images/singlesourceoftruth.jpg" width="400"/>
+    
+    
+    
+    
+    
 
