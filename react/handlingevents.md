@@ -40,6 +40,15 @@ In React:
     
     <img src="../images/singlesourceoftruth.jpg" width="400"/>
     
+* **What is the purpose of doing event.preventDefault() in an event handler?**
+
+Calling preventDefault() during any stage of event flow cancels the event, meaning that any default action normally taken by the implementation as a result of the event will not occur.
+
+You can use Event.cancelable to check if the event is cancelable. Calling preventDefault() for a non-cancelable event has no effect.
+
+* **What would be the effect of NOT doing event.preventDefault in a submit handler?**
+
+    
     
     
     
