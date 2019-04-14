@@ -36,7 +36,7 @@ In React:
     
     
     
-    <img src="../images/singlesourceoftruth.png" width="400"/>
+    <img src="../images/singlesourceoftruth.jpg" width="400"/>
     
     
     
