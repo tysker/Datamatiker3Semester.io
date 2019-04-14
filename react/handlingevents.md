@@ -34,7 +34,7 @@ In React:
     
     This is also related to one way data binding. It means that there is only one place which represents state of application, and your UI listens to it. And listening UI will change only if data at this place is changed, never else.
     
-    <img src="../images/singlesourceoftruth.jpg" width="400"/>
+    <img src="../images/singlesourceoftruth.png" width="400"/>
     
     
     
