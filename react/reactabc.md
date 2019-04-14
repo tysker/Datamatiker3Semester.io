@@ -5,7 +5,6 @@
 **C**
 * **Components** = Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 * **constructor** = The constructor for a React component is called before it is mounted. When implementing the constructor for a React.Component subclass, you should call super(props) before any other statement. Otherwise, this.props will be undefined in the constructor, which can lead to bugs. 
-
 Constructor is the only place where you should assign this.state directly. In all other methods, you need to use this.setState() instead.
 It is used for mostly only two purposes:
 1. Initializing local state by assigning an object to this.state.
