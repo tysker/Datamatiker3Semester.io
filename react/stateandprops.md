@@ -8,10 +8,10 @@ _"The main responsibility of a component is to translate raw data into rich HTML
 * **Could you use or change state in an functional component?**
 No, functional components are stateless components. You will not be able to setState in your method.
 
-* **Where do you use setState and state?
+* **Where do you use setState and state?**
 You will set **state** only in your constructor where **setState()** can be used in any functions but not in the constructor.
 
-* **How is it possible to tell React that you want to the UI to be updated (re-rendered)?
+* **How is it possible to tell React that you want to the UI to be updated (re-rendered)?**
 A re-render can only be triggered if a component's state has changed. The state can change from a **props** change, or from a direct **setState** change. The component will get the update change and will then decide to re-render the DOM.
 
 * **How do you pass in prop values to a Component?**
@@ -26,9 +26,9 @@ Every child components gets its props from the parent. In a function component, 
         )
       }
       
-In a class component, props are passed by default. There is no need to add anything special, and they are accessible as this.props in a Component instance.
+**In a class component, props are passed by default. There is no need to add anything special, and they are accessible as this.props in a Component instance.**
 
-import React, { Component } from 'react'
+      import React, { Component } from 'react'
 
       class BlogPostExcerpt extends Component {
         render() {
