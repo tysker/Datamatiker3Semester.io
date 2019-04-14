@@ -48,6 +48,18 @@ You can use Event.cancelable to check if the event is cancelable. Calling preven
 
 * **What would be the effect of NOT doing event.preventDefault in a submit handler?**
 
+If we would take the example of a "form" what would normally redirect us to another url, but exactly that can we provent from happening if we use event.preventDefault. We preventing it from his "main purpose".
+
+* **Why don't we want to submit the traditional way, in a single page application?**
+
+We wont to make the users Input controllable. That means we want to be able to check or adjust the input we get from the user. 
+
+* **What are the two different ways, we can use, to make this work as expected for our event handlers?**
+
+     1. Add a changeHandler who can change the state and therefor has controll indstead of the DOM event.
+     2. One Way Binding
+
+
     
     
     
