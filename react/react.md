@@ -86,7 +86,7 @@ A single-page-application are webb aps that loads a single html page and dynamic
 * SPA can cache any data localy on your computer, so you application could even work offline.
 
 **The "recommended" React way of passing data into Components.**
-The recommend way to pass data in React is from top til bottom.
+The recommend way to pass data in React is from top til bottom. It is also commen that Parent components pass data down to nested Child components with props.
 
 * **What is the Observer pattern?**
 
