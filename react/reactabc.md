@@ -13,6 +13,9 @@ It is used for mostly only two purposes:
 **F**
 * **Fragments** = <a href="https://reactjs.org/docs/fragments.html" target="_blank">React Home</a>
 
+**I**
+* [**Id**](https://www.npmjs.com/package/uuid) = To regnerate an Id import:  _import uuid from 'uuid';_ and implement it like that: _id=uuid.c4()_
+
 **K**
 * **Keys** = Keys help React identify which items have changed, added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.
 
