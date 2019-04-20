@@ -22,7 +22,7 @@
 * **A typical React app therefore could be depicted as a component tree - having one root component ("App") and then an potentially infinite amount of nested child components.**
 * **props  and state  are CORE concepts of React. Only changes in props and/or state trigger React to re-render your components and potentially update the DOM in the browser**
 * **Parent to Child use prop**
-* **Child to arent use a callback and states**
+* **Child to Parent use a callback and states**
 
 
 ## React Components — Three Basic Principles
@@ -81,7 +81,11 @@ A single-page-application are webb aps that loads a single html page and dynamic
 * It is easier to make mobile apps.
 * SPA can cache any data localy on your computer, so you application could even work offline.
 
-**The "recommended" React way of passing data into Components.
+**The "recommended" React way of passing data into Components.**
+The recommend way to pass data in React is from top til bottom.
+
+* **What is the Observer pattern?**
+
 
 <img src="../images/spa.png" width="400"/>
 
