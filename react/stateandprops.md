@@ -25,7 +25,10 @@ Every child components gets its props from the parent. In a function component, 
           </div>
         )
       }
-      
+
+<img src=../images/defaultvalue.png width=250/>
+
+
 **In a class component, props are passed by default. There is no need to add anything special, and they are accessible as this.props in a Component instance.**
 
       import React, { Component } from 'react'
