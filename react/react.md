@@ -56,7 +56,7 @@ The smart components extract data from your state without directly generating HT
 
 A single-page-application are webb aps that loads a single html page and dynamically update as the user interacts with the app. SPA's use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads.. This means much of the work happens on the clients side, in JavaScript. 
 
-<image src=("../images/spa.png") width="200"/>
+<img src=("../images/spa.png") width="200"/>
 
 
     
