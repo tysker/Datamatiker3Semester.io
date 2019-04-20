@@ -55,7 +55,7 @@ The smart components extract data from your state without directly generating HT
       
 ---
 
-## TypeChecking with Prop Types**
+## TypeChecking with Prop Types
 You can define default values for your props by assigning to the special defaultProps property.
 
       //Component using props
