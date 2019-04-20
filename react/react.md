@@ -54,7 +54,16 @@ The smart components extract data from your state without directly generating HT
 
 * **Describe the term Single Page Application and why it has become so popular for modern web-applications**
 
-A single-page-application are webb aps that loads a single html page and dynamically update as the user interacts with the app. SPA's use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads.. This means much of the work happens on the clients side, in JavaScript. 
+A single-page-application are webb aps that loads a single html page and dynamically update as the user interacts with the app. SPA's use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads. This means much of the work happens on the clients side, in JavaScript. 
+
+**Why they are so popular?**
+
+' SPA's are fast, as most ressourcess (HTML+CSS+Scripts) are only loaded once throughout the lifespan of the application. Only data is transmitted back and forward. 
+* Development for SPA's are simplified and much easier to deploy. There is no need to write code to render pages on the server. 
+* SPA's are easy to debug with Chrome, as you can monitor network operations, investigate page elements and data associated with it. If you use React for develop your application, you can also use Google's Chrome React extendsion to investigate your React/JSX code iven further.
+* It is easier to make mobile apps.
+* SPA can cache any data localy on your computer, so you application could even work offline.
+
 
 <img src="../images/spa.png" width="400"/>
 
