@@ -50,11 +50,12 @@ The Router takes 2 parameter:
            component= { components Name }
            
 **Importent**
-Remember to write **exact** in your Home Route!!
+
+Remember to write the command **exact** in your Home Route!!
 
       <Route path="/" component={Home} exact/>
 
-**exact** means that only if the path is the exact same, it will bring us there.
+**exact** just means that it only will render his component if the given url is exactly the same.
 
 ---
 
