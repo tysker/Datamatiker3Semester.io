@@ -1,10 +1,10 @@
 [**REACT**](react.md)
 
 
-### React Router
+## React Router
 
 
-## Setup Tutorial For Spa Router.
+### Setup Tutorial For Spa Router.
 
 * **Step 1. Use that snippet for your Controller**
 
