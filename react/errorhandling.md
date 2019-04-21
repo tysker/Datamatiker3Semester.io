@@ -2,10 +2,10 @@
 
 
 
-### Error Handling In React
+## Error Handling In React
 
 
-## Simple error function to catch errors.
+### Simple error function to catch errors.
 
 That will return the status of the error and the error message body. If the Promise is given, the function will return the fetched data.
 
