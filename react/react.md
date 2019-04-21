@@ -1,6 +1,11 @@
-[**HOME**](../index.md)****[**REACT ABC**](reactabc.md)****[**FUNCTIONS AND COMPONENTS**](functions.md)****[**STATE AND PROPS**](stateandprops.md)****[**LIFECYCLE**](lifecycle.md)****[**REACT ROUTER**](reactrouter.md) 
-
-[**HANDLING EVENTS**](handlingevents.md)****[**ERROR HANDLING IN REACT FETCH**](errorhandling.md)
+* [**HOME**](../index.md)
+* [**REACT ABC**](reactabc.md)  
+* [**FUNCTIONS AND COMPONENTS**](functions.md)
+* [**STATE AND PROPS**](stateandprops.md)
+* [**LIFECYCLE**](lifecycle.md)
+* [**REACT ROUTER**](reactrouter.md) 
+* [**HANDLING EVENTS**](handlingevents.md)
+* [**ERROR HANDLING IN REACT FETCH**](errorhandling.md)
 
 ### New Project
 
