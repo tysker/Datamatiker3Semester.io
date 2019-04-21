@@ -37,9 +37,13 @@ When called, it should examine this.props and this.state and return one of the f
 **Avoid copying props into state!**
 * **super()** = to call the constructor function that is inherit from React.Component
 
+**L**
+* **Linebreak in tabels JSX** = <th>{country.timezones.map( (zones,index) => <span>{zones}<br/></span>)}</th>
 
 **M**
 * **mounting** = 
+
+**N**
 
 **P**
 * **probs** = allow you to pass data from a parent(wrapping) component to a child (embedded) component.
