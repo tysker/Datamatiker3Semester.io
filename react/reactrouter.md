@@ -8,21 +8,21 @@
 
 * **Step 1. Use that snippet for your Controller**
 
-    class App extends Component {
-      render() {
-        return (
-          <BrowserRouter>
-          <div>
-          <Navigation />
-            <Switch>
-            //Hera are gonna be our Routes
-            <Route path='' component={}/>
-            </Switch>
-          </div>
-          </BrowserRouter>
-        );
-      }
-    }
+        class App extends Component {
+          render() {
+            return (
+              <BrowserRouter>
+              <div>
+              <Navigation />
+                <Switch>
+                //Hera are gonna be our Routes
+                <Route path='' component={}/>
+                </Switch>
+              </div>
+              </BrowserRouter>
+            );
+          }
+        }
 
 --- 
 
