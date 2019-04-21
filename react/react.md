@@ -93,6 +93,8 @@ The recommend way to pass data in React is from top til bottom. It is also comme
 * **What is the Observer pattern?**
 
 
+/ answer is missing /
+
 <img src="../images/spa.png" width="400"/>
 
 
