@@ -4,9 +4,9 @@
 ### React Router
 
 
-##Setup Tutorial For Spa Router.
+## Setup Tutorial For Spa Router.
 
-* **Step 1. Use that snippet for your Controller
+* **Step 1. Use that snippet for your Controller**
 
     class App extends Component {
       render() {
