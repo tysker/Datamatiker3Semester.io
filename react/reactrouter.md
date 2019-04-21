@@ -24,18 +24,19 @@
           }
         }
 
+**Create a component folder, where you can add all your component.js files.**
 --- 
 
 * **Step 2. Go to the terminel and add the react router dom, with follwing command:**
 
         npm add react-router-dom
 
-Check in your project folder under package.json, if the router dependencie is installed.
+Check in your project folder under package.json, if the router dependencies is installed.
 
 ---
 
 * **Step 3.**
-Import on top of you App.js file and create a component folder where you can add all your component.js files.
+Import the following snippet to the top of your App.js file.
 
       import { BrowserRouter, Router, Switch } from 'react-router-dom';
 
