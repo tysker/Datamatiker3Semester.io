@@ -25,6 +25,7 @@
         }
 
 **Create a component folder, where you can add all your component.js files.**
+
 --- 
 
 * **Step 2. Go to the terminel and add the react router dom, with follwing command:**
