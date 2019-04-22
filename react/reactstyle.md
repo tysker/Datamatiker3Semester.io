@@ -16,7 +16,7 @@
 
 3. In a seperate css file.
 
-        . {
+        .{
           background-color: '';
         }
         
