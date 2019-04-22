@@ -6,6 +6,8 @@
 * [**REACT ROUTER**](reactrouter.md) 
 * [**HANDLING EVENTS**](handlingevents.md)
 * [**ERROR HANDLING IN REACT FETCH**](errorhandling.md)
+* [**REACT STYLES**](reactstyle.md)
+
 
 ### New Project
 
