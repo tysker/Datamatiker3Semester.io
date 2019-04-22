@@ -32,6 +32,8 @@
 * **props  and state  are CORE concepts of React. Only changes in props and/or state trigger React to re-render your components and potentially update the DOM in the browser**
 * **Parent to Child use prop**
 * **Child to Parent use a callback and states**
+* **The key word "super" refers to the parent class constructor. You will not be able to use "this" in a constructor until you've called the parent constructor.**
+* **We have to pass props in both the constructor og in super, so that the base React.Component constructor can initalize this.props**
 
 
 ## React Components — Three Basic Principles
