@@ -10,5 +10,5 @@ Install react-js-pagination with npm:
 
 # Params
 
-<img src="./images/proms1.png" width=200/>
-<img src="./images/proms2.png" width=200/>
+<img src="../images/proms1.png" width=200/>
+<img src="../images/proms2.png" width=200/>
