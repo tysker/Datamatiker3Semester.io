@@ -7,6 +7,7 @@
 * [**HANDLING EVENTS**](handlingevents.md)
 * [**ERROR HANDLING IN REACT FETCH**](errorhandling.md)
 * [**REACT STYLES**](reactstyle.md)
+* [**PAGINATION**](pagination.md)
 
 
 ### New Project
