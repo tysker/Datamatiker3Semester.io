@@ -1,7 +1,7 @@
 [**HOME**](../index.md)
 
 ## A
-**AJAX** = **A**SYNCHROUNOUS **J**AVASCRIPT **A**ND **X**ML 
+**AJAX** = **A**SYNCHROUNOUS **J**AVASCRIPT **A**ND **X**ML. 
 **API** = **A**PPLICATION **P**ROGRAMMING **I**NTERFACE
 
 ## C
