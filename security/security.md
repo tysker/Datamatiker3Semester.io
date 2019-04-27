@@ -28,7 +28,8 @@ ___
 **JWT has 3 sections.**
 The section are divided with a dot in beetwen them:
 
-**eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9**.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.**SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c**
+        **eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9**.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.**SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c**
+
 
 1. the HEADER
 2. the PAYLOAD
