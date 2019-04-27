@@ -79,12 +79,14 @@ _____
 1. **Client** = Request tokken by providing authentic credentials.
 
 2. **Server** = 
+
        *  check credential 
        *  create JWT tokken
        
 3. **Server** = Send JWT to client or error if not authorized.
 
 4. **Client** = 
+
        *  verify  token (optional)
        *  extract information for App usage (optional)
        *  persist tokken at client side.
