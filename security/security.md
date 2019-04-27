@@ -8,8 +8,8 @@
 ###  Basics:
 
 * It is a Json object
-* self contained. Carries all the information neccesary within itself.
-* Mainly used in Web application
+* It is self contained. Carries all the information neccesary within itself.
+* It is mainly used in Web application
 
 ___
 
@@ -26,6 +26,9 @@ ___
 ### JWT Structure
 
 **JWT has 3 sections.**
+The section are divided with a dot in beetwen them:
+
+**eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9**.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.**SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c**
 
 1. the HEADER
 2. the PAYLOAD
@@ -33,7 +36,7 @@ ___
 
 They are all base64 encoded. (encoded and not encrypted!!!!)
 
-**JSON Header:**
+**Header:**
 
     {
     "typ": "JWT"
@@ -53,7 +56,25 @@ Payload is a JSON Object:
     "admin": "false"
     and a lot more can be added.........
     }
+_(iss = issuer)_
 
 **contains:** 
 * the information which are needed to transmit
 * the information related to token itself
+
+
+**Signature**
+
+* It's basically the two parts from the token, header and payload hashed.
+* A hash of header and payload using a secret!
+* If you temper with either of the header or payload, the signature will not match, so the tokken would be invalid.
+
+
+
+
+
+
+
+
+
+
