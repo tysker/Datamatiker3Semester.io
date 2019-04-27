@@ -6,7 +6,7 @@
 **API** = **A**PPLICATION **P**ROGRAMMING **I**NTERFACE
 
 ## C
-**CROS**
+**CORS**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">_Cross-Origin Resource Sharing_</a>
 
 ## D
