@@ -52,6 +52,9 @@
 **JSX**
 <a href="https://reactjs.org/docs/introducing-jsx.html" target="_blank">_JavaScript XML_</a>
 
+**JWT**
+<a href="https://reactjs.org/docs/introducing-jsx.html" target="_blank">**J**ason **W**eb **T**okens</a>
+
 ## N
 
 **NPM**
