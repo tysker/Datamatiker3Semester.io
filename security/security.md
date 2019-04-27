@@ -17,9 +17,9 @@ ___
 **Can be passed as...**
 
 * a part of an URL (query string)
-* form body parameter
-* cookie
-* HTTP Header (x-access-token)
+* a form, body parameter
+* a cookie
+* a HTTP Header (x-access-token)
 
 ___
 
