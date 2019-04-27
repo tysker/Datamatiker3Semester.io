@@ -1,5 +1,9 @@
 [**HOME**](../index.md)
 
+## A
+**AJAX**
+**A**SYNCHROUNOUS **J**AVASCRIPT **A**ND **X**ML 
+
 ## C
 **CROS**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">_Cross-Origin Resource Sharing_</a>
