@@ -76,24 +76,24 @@ _____
 
 ## Tokkens LifeCycle example
 
-1. **Client** = Request tokken by providing atuthentic credential.
+1. **Client** = Request tokken by providing authentic credentials.
 
 2. **Server** = 
-       * 1) check credential 
-       * 2) create tokkenJWT
+       * check credential 
+       * create JWT tokken
        
 3. **Server** = Send JWT to client or error if not authorized.
 
 4. **Client** = 
-       * 1) verify  token (optional)
-       * 2) Extract information for App usage (optional)
-       * 3) Persist tokken at client side.
+       * verify  token (optional)
+       * extract information for App usage (optional)
+       * persist tokken at client side.
 
 5. **Client** = Use same persisted tokken for subsequent calls to serve.
 
 6. Verify tokken for all subsequent request. The same tokken will be used for all subsequent request.
 
-7. If the tokken is vald, respond or return error.
+7. If the tokken is valid, respond or return error.
 
 
 
