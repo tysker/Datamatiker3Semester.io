@@ -28,7 +28,7 @@ ___
 **JWT has 3 sections.**
 The section are divided with a dot in beetwen them:
 
-        **eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9**.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.**SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c**
+        eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
 
 
 1. the HEADER
@@ -57,6 +57,7 @@ Payload is a JSON Object:
     "admin": "false"
     and a lot more can be added.........
     }
+    
 _(iss = issuer)_
 
 **contains:** 
@@ -71,7 +72,28 @@ _(iss = issuer)_
 * If you temper with either of the header or payload, the signature will not match, so the tokken would be invalid.
 
 
+_____
 
+## Tokkens LifeCycle example
+
+1. **Client** = Request tokken by providing atuthentic credential.
+
+2. **Server** = 
+       * 1) check credential 
+       * 2) create tokkenJWT
+       
+3. **Server** = Send JWT to client or error if not authorized.
+
+4. **Client** = 
+       * 1) verify  token (optional)
+       * 2) Extract information for App usage (optional)
+       * 3) Persist tokken at client side.
+
+5. **Client** = Use same persisted tokken for subsequent calls to serve.
+
+6. Verify tokken for all subsequent request. The same tokken will be used for all subsequent request.
+
+7. If the tokken is vald, respond or return error.
 
 
 
