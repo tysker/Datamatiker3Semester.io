@@ -1,9 +1,7 @@
 [**HOME**](../index.md)
 
 ## A
-**AJAX**
-
-**A**SYNCHROUNOUS **J**AVASCRIPT **A**ND **X**ML 
+**AJAX** = **A**SYNCHROUNOUS **J**AVASCRIPT **A**ND **X**ML 
 
 ## C
 **CROS**
