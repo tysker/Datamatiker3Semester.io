@@ -8,11 +8,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">_Cross-Origin Resource Sharing_</a>
 
 ## D
-**DTO** _Data Transfer Object_
+**DTO** = **D**ata **T**ransfer **O**bject
 
 
 **DNS** 
-<a href="https://computer.howstuffworks.com/dns.htm" target="_blank">_Domain Name Server_</a>
+<a href="https://computer.howstuffworks.com/dns.htm" target="_blank">**D**omain **N**ame **S**erver</a>
 
 **DOM**
 <a href="https://www.w3schools.com/js/js_htmldom.asp" target="_blank">_Document Object Model_</a>
@@ -29,7 +29,7 @@
 **IDE**
 <a href="https://searchsoftwarequality.techtarget.com/definition/integrated-development-environment" target="_blank">_Integrated Development Environment_</a>
 
-**ISP** _Internet Service Provider_
+**ISP** = **I**nternet **S**ervice **P**rovider_
 
 **ISO**
 <a href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization" target="_blank">_International Organization for Standardization_</a>
