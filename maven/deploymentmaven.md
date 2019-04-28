@@ -41,6 +41,7 @@ ___
                     <!--  <password>${env.TOMCAT_PASSWORD}</password>-->
                     <update>true</update>    
                 </configuration>
+               </plugin>
    
    and
    
