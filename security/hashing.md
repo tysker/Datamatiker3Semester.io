@@ -4,12 +4,12 @@
 
 # Hasing And Salt
 
-## When using jBcrypt algorithm:
+### When using jBcrypt algorithm:
 
 Links:
 * [**jBCrypt**](https://www.mindrot.org/projects/jBCrypt/)
 
-## Dependencies
+### Dependencies
 
       <dependency>
           <groupId>org.mindrot</groupId>
