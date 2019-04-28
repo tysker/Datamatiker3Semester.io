@@ -42,7 +42,9 @@ ___
                     <update>true</update>    
                 </configuration>
 
+Deploy like this:
 
+         mvn -Dremote.user=Tomcat-Username -Dremote.password=Tomcat-Password tomcat7:deploy
 ___
 
 
