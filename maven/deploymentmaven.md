@@ -41,6 +41,18 @@ ___
                     <!--  <password>${env.TOMCAT_PASSWORD}</password>-->
                     <update>true</update>    
                 </configuration>
+   
+   and
+   
+            <properties>
+                 <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
+                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+                 <remote.server>https://www.YOUR_DOMAIN_NAME.com/manager/text</remote.server>
+
+                 <!--<tomcat.version>7.0.93</tomcat.version>-->
+                 <tomcat.version>8.5.40</tomcat.version>
+             </properties>
 
 Deploy like this:
 
