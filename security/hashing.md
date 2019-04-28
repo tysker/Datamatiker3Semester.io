@@ -17,10 +17,17 @@ Links:
           <version>0.4</version>
        </dependency>
        
+### Hash and Salt
+
+      String salt = BCrypt.gensalt();
+      this.userPass = BCrypt.hashpw(userPass, salt);
 
 
+verify
 
-
+      public boolean verifyPassword(String pw) {
+              return (BCrypt.checkpw(pw, userPass));
+          }
 
 
 
