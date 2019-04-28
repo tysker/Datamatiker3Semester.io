@@ -7,7 +7,7 @@
 ## When using jBcrypt algorithm:
 
 Links:
-* [**jBCrypt](https://www.mindrot.org/projects/jBCrypt/)
+* [**jBCrypt**](https://www.mindrot.org/projects/jBCrypt/)
 
 ## Dependencies
 
