@@ -47,7 +47,7 @@ They are all base64 encoded. (encoded and not encrypted!!!!)
     
 alg = Algorithem => HS256 or RS256 or ES384 or ....  
 
-**Payload:** _can also be called "claims"_
+**Payload:** 
 
 Payload is a JSON Object:
 
@@ -62,9 +62,12 @@ Payload is a JSON Object:
 _(iss = issuer)_
 
 **contains:** 
-* the information which are needed to transmit
-* the information related to token itself
+* Who this person is (sub, short for subject)
+* What this person can access with this token (scope)
+* When the token expires (exp)
+* Who issued the token (iss, short for issuer)
 
+These declarations are called ‘claims’ because the token creator claims a set of assertions that can be used to ‘know’ things about the subject.
 
 **Signature**
 
@@ -72,8 +75,18 @@ _(iss = issuer)_
 * A hash of header and payload using a secret!
 * If you temper with either of the header or payload, the signature will not match, so the token would be invalid.
 
-
 _____
+
+## Where to store JWT's
+
+* HTML5 Web Storage (localStorage or sessionStorage)
+* Cookies
+
+Link:
+[**WHERE TO STORE!**](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
+
+____
+
 
 ## Tokens LifeCycle example
 
