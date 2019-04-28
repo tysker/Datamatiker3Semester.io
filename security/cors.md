@@ -1,7 +1,14 @@
 [**SECURITY**](security.md)
 
 
-# CORS = Cross-Origi-Resource-Sharing
+# CORS = Cross-Origin-Resource-Sharing
+
+Links:
+* [**CORS on MDN**](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+
+___
+
 
 ### CorsRequestFilter.java
 
