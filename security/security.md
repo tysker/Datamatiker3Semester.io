@@ -1,6 +1,7 @@
 
 * [**HOME**](../index.md)
 * [**HASHING AND SALT**](hashing.md)
+* [**CORS**](cors.md)
 * [**5 Easy Steps to Understanding JSON Web Tokens**](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 
 
