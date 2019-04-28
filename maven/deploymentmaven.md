@@ -89,6 +89,6 @@ Insert the profile given below to your pom file and give it an id (can also be d
 
 * Deploy like this: 
 
-         mvn tomcat7:deploy -Pdeployremote
+         mvn tomcat7:deploy -P(THE GIVEN ID WITHOUT THE PARANTHESE)
 
 
