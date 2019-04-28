@@ -22,15 +22,36 @@
 * Restart the Tomcat Server:   
 
         service tomcat8 restart
+   
+___
 
 
+## 2. Deploy to a remote Tomcat Server in a Secure way.
 
-## 2. Deploy to a remote Tomcat Server
+                <plugin>
+                <groupId>org.apache.tomcat.maven</groupId>
+                <artifactId>tomcat7-maven-plugin</artifactId>
+                <version>2.2</version>
+                <configuration>
+                    <server>TomcatServer</server>
+                    <url>${remote.server}</url>
+                    <username>${remote.user}</username>
+                    <password>${remote.password}</password>
+                    <!-- <username>${env.TOMCAT_USER} </username>-->
+                    <!--  <password>${env.TOMCAT_PASSWORD}</password>-->
+                    <update>true</update>    
+                </configuration>
 
-Insert the profile given below to your pom file and give it the id (can also be different)deployremote, and fill in the details for your remote server.
+
+___
+
+
+## 3. Deploy to a remote Tomcat Server if you include password and username in the pom file.
+
+Insert the profile given below to your pom file and give it an id (can also be different then the one below), and fill in the details for your remote server.
 
      <profile>
-       <id>deploylocal</id>
+       <id>deployremote</id>
        <build>
          <plugins>
            <plugin>  
@@ -52,10 +73,8 @@ Insert the profile given below to your pom file and give it the id (can also be 
 
 
 
-* Verify that you can deploy like this: 
+* Deploy like this: 
 
          mvn tomcat7:deploy -Pdeployremote
 
-* This does unfortunately not execute our integration test since they are “controlled” by the test-profile. Run both like this: 
 
-         mvn verify -Ptest tomcat7:deploy -Pdeployremote
