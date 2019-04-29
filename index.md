@@ -4,7 +4,7 @@
 
 ### [**Group Assignments And Review**](/group/groupreview.md)
 
-[**Calender**](https://docs.google.com/spreadsheets/d/1UI0gRhmaN-nB2GlaOC0NpoZ4fyWwdtKsl9JXjbPi9vU/edit?usp=sharing)
+[**Calender**](https://docs.google.com/spreadsheets/d/1UI0gRhmaN-nB2GlaOC0NpoZ4fyWwdtKsl9JXjbPi9vU/edit?usp=sharing) - 
 [**Group Information**](home/gruppe.md) -
 [**Choice of technology**](home/tek.md) -
 [**Dictionary**](home/dictionary.md)
