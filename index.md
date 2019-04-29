@@ -29,7 +29,7 @@ ____
 | 11 | 08/04 - 12/04 |<a href="https://github.com/cphdat3sem2019spring/Week-11_ReactRouter_Security_Apps" target="_blank">**React routing, Security and React Native (TBD)**</a>|<a href="" target="_blank">**Questions**</a>|
 | 12 | 15/04 - 19/04 |<a href="" target="_blank">**Easter Holiday**</a>||
 | 13 | 22/04 - 26/04 |<a href="https://docs.google.com/document/d/1GZvVK-dGHjyP30BULhtRz9EFYd9MOzdtChoV6X_mRnQ/edit" target="_blank">**CA3 (TBD)**</a>|<a href="https://docs.google.com/document/d/1Rex_LJk0-G13vuS-fb3r7XYNyQghmSirFFJaQKOuV1s/edit?usp=sharing" target="_blank">**Questions**</a>|
-| 14 | 29/04 - 26/05 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul5/" target="_blank">**Semester Project**</a>|<a href="#" </a>|
+| 14 | 29/04 - 26/05 |<a href="https://datsoftlyngby.github.io/dat3sem2019Spring/Modul5/" target="_blank">**Semester Project**</a>|    <a href="#"> </a>|
 
 
 _____
