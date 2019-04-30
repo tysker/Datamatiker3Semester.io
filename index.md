@@ -45,10 +45,21 @@ _____
 ___
 
 
-## Importent Links
-* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
-* [**serge.sh**](./serge/serge.md)
+## Nginx
 * [**Nginx**](./nginx/nginx.md)
+
+___
+
+
+## Travis
+* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
+
+___
+
+
+## serge.sh
+* [**serge.sh**](./serge/serge.md)
+
 
 ____
 
@@ -71,6 +82,11 @@ ____
 * <a href="https://hackerthemes.com/bootstrap-cheatsheet/" target="_blank">**Bootstrap 4**</a>
 * <a href="https://tysker.github.io/Datamatiker3Semester.io/js-cheat-sheet.pdf" target="_blank">**JavaScript Basic**</a>
 * <a href="https://devhints.io/react" target="_blank">**REACT**</a>
+
+___
+
+## Domain Setup on Digital Ocean and Cerbot certificate
+* [**Ocean**](digitalocean.md)
 
 ___
 
