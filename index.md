@@ -48,7 +48,7 @@ ___
 ## Importent Links
 * <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
 * [**serge.sh**](./serge/serge.md)
-* [**Nginx**](nginx.md)
+* [**Nginx**](./nginx/nginx.md)
 
 ____
 
