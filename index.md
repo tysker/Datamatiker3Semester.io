@@ -35,7 +35,7 @@ ____
 _____
 
 
-**School Links**
+## School Links
 * <a href="https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit#gid=0" target="_blank">**Learning Objectives**</a>
 * <a href="https://studypoints.info/#/view1" target="_blank">**StudyPoints**</a>
 * <a href="https://datsoftlyngby.github.io/dat3sem2019Spring/" target="_blank">**3 Semester**</a>
@@ -45,14 +45,14 @@ _____
 ___
 
 
-**Importent Links**
+## Importent Links
 * <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
 * [**serge.sh**](serge.md)
 * [**Nginx**](nginx.md)
 
 ____
 
-**Courses**
+## Courses
 * <a href="https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html" target="_blank">**Maven Course1 Lynda.com**</a>
 * <a href="https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html" target="_blank">**Maven Course2 Lynda.com**</a>
 * <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">**JavaScript Eventloop**</a>
@@ -61,7 +61,7 @@ ____
  ____
  
 
-**Cheat sheet**
+## Cheat sheet
 * <a href="http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf?fbclid=IwAR0ReiR51-OSKcx33GWa7ztZ_FqAxs8MCg4pfRaj1lNCIDqaUk2mLyVLNxw" target="_blank">**Maven**</a>
 * <a href="https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf" target="_blank">**Netbeans**</a>
 * <a href="https://files.fosswire.com/2007/08/fwunixref.pdf" target="_blank">**Linux**</a>
@@ -75,13 +75,13 @@ ____
 ___
 
 
-**React**
+## React
 
 * [**React**](react/react.md)
 
 ___
 
-**Security**
+## Security
 
 * [**Security**](security/security.md)
 
@@ -89,33 +89,33 @@ ___
 ___
 
 
-**JPA**
+## JPA
  * [**JPA Page - ORM**](jpa/jpa.md)
 
 ___
 
 
-**JSON**
+## JSON
 * <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank">**w3schools**</a>
 
 ___
 
 
-**JavaScript**
+## JavaScript
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">**JavaScript Guide MDN**</a>
 * <a href="https://javascript.info/" target="_blank">**JavaScript Tutorial**</a>
 * <a href="https://www.w3schools.com/js/default.asp" target="_blank">**w3schools**</a>
 
 ___
 
-**Tomcat**
+## Tomcat
 * <a href="https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?fbclid=IwAR1JoRwDW3Wcfu2HWRSSqfdewZt3usNrOAEYbHXxOcM1yo6kfwdOy8GfCZs#heading=h.6arfkivd01by" target="_blank">**Install Tomcat on your server**</a>
 * <a href="http://tomcat.apache.org/" target="_blank">**Tomcat Homepage**</a>
 
 ___
 
 
-**Maven**
+## Maven
 
 _Web Links_
 * <a href="https://maven.apache.org/" target="_blank">**Maven Homepage**</a>
@@ -131,3 +131,5 @@ _Internal Links_
 * [**Creating Documentation for the Project**](maven/documentation.md)
 * [**Deployment with Maven on a remote Tomcat Server**](maven/deploymentmaven.md)
 * [**POM.XML**](maven/pom.md)
+
+
