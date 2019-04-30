@@ -1,5 +1,5 @@
 * [**REACT**](react.md)
-* [**REACT-STYLES](https://reactjs.org/docs/faq-styling.html) (React's Homepage)
+* [**REACT-STYLES**](https://reactjs.org/docs/faq-styling.html) (React's Homepage)
 
 
 ## React Style
