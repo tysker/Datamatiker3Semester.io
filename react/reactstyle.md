@@ -1,5 +1,5 @@
 * [**REACT**](react.md)
-* <a href="https://reactjs.org/docs/faq-styling.html" target:"_blank">**REACT STYLES**</a>
+* <a href="https://reactjs.org/docs/faq-styling.html" target="_blank">**REACT STYLES**</a>
 
 
 ## React Style
