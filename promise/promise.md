@@ -3,9 +3,9 @@
 
 # Promise - then - await - async - fetch
 
-<img src="../images/ajax-api.png" width=100%/>
+<img src="../images/ajax-api.png" />
 
-
+ 
 **new Promise**
 
         const getNewProm = new promise((resolve, reject) => {
@@ -19,6 +19,17 @@
         .then( (IDs) => {console.log(IDs)}) 
         .catch( (error) => {console.log(error);
         });
+      
+      
+**await Permission**      
+
+        _getLocationAsync = async () => {
+           let { status } = await Permissions.askAsync(Permissions.LOCATION);
+           if (status !== 'granted') {
+             this.setState({
+               errorMessage: 'Permission to access location was denied',
+             });
+           }
 
 
 **await and async**
