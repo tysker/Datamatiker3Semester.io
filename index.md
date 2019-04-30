@@ -86,7 +86,7 @@ ____
 ___
 
 ## Domain Setup on Digital Ocean and Cerbot certificate
-* [**Ocean**](digitalocean.md)
+* [**Ocean**](./digitalocean/digitalocean.md)
 
 ___
 
