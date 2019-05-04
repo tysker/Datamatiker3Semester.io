@@ -8,19 +8,24 @@
  
 **new Promise**
 
-        const getNewProm = new promise((resolve, reject) => {
-          setTimeout( () =>
-          resolve([453, 852, 951, 746])
-          },1500);
-        });
+     var promise1 = new Promise(function(resolve, reject) {
+      setTimeout(function() {
+        resolve('foo');
+      }, 300);
+    });
 
+    promise1.then(function(value) {
+      console.log(value);
+      // expected output: "foo"
+    });
 
-       getIDs
-        .then( (IDs) => {console.log(IDs)}) 
-        .catch( (error) => {console.log(error);
-        });
-      
-      
+    console.log(promise1);
+    // expected output: [object Promise]
+     
+     
+<img src="../images/promise.png" />     
+     
+     
 **await Permission**      
 
         _getLocationAsync = async () => {
@@ -34,34 +39,28 @@
 
 **await and async**
 
-       async function getRecipesAW() {
-              const IDs = await getIDs;
-              console.log(IDs);
-              const recipe = await getRecipe(IDs[2]);
-              console.log(recipe);
-              const related = await getRelated('Jonas Schmedtmann');
-              console.log(related);
+     function resolveAfter2Seconds(x) { 
+       return new Promise(resolve => {
+         setTimeout(() => {
+           resolve(x);
+         }, 2000);
+       });
+     }
 
-              return recipe;
-          }
-       
-       getRecipesAW().then(result => console.log(`${result} is the best ever!`));
+     async function f1() {
+       var x = await resolveAfter2Seconds(10);
+       console.log(x); // 10
+     }
+     f1();
   
   
   **fetch**
   
-      function getWeather(woeid) {
-                fetch(`https://crossorigin.me/https://www.metaweather.com/api/location/${woeid}/`)
-                .then(result => {
-                    // console.log(result);
-                    return result.json();
-                })
-                .then(data => {
-                    // console.log(data);
-                    const today = data.consolidated_weather[0];
-                    console.log(`Temperatures today in ${data.title} stay between ${today.min_temp} and ${today.max_temp}.`);
-                })
-                .catch(error => console.log(error));
-            }
-            getWeather(2487956);
-            getWeather(44418);
+     function fetchUser() {
+         fetch(urlString + id.value)
+             .then(res => res.json())
+             .then(data => { data.name })
+             };
+               
+             
+     
