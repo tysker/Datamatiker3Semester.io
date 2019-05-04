@@ -9,7 +9,7 @@
 * [**REACT STYLES**](reactstyle.md)
 * [**PAGINATION**](pagination.md)
 * [**REACT NATIVE**](reactnative.md)
-* [**Fetch - Await - Async**](../javascript/promise.md)
+* [**Fetch - Await - Async**](../javascript/promises.md)
 
 
 ### New Project
