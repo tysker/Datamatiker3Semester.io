@@ -77,7 +77,7 @@
 <a href="https://maven.apache.org/guides/introduction/introduction-to-the-pom.html" target="_blank">_Project Object Model_</a>
 
 **PROMISES**
-[Fetch - Await - Async](../javascript/promise.md)
+[Fetch - Await - Async](../javascript/promises.md)
 
 ## R
 **Rest API**
