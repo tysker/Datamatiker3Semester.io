@@ -10,7 +10,7 @@
 * [**PAGINATION**](pagination.md)
 * [**REACT NATIVE**](reactnative.md)
 * [**Fetch - Await - Async**](../javascript/promises.md)
-* [**AXIOS.js**](../axios.md)
+* [**AXIOS.js**](axios.md)
 
 
 ### New Project
