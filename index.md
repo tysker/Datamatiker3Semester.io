@@ -145,7 +145,7 @@ _Web Links_
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
 
 _Tutorials_
-* [**Maven Getting Started**](./images/mavengettingstarted.pdf)
+* [**Maven Getting Started**](./images/mavengettingstartet.pdf)
 
 _Internal Links_
 * [**Maven Plugins**](maven/mavenplugins.md)
