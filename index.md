@@ -56,7 +56,8 @@ ___
 
 
 ### Travis
-* <a href="https://docs.google.com/document/d/1lbDDwoPFQVkogopt1Wmn92FoLP6vUpCvt2TqTgDCMPM/edit" target="_blank">**Travis-CI-Maven**</a>
+* [**TRAVIS TEST AND MAVEN**](./images/maventravis.pdf)
+* [**CI AND TRAVIS**](./images/citravis.pdf)
 
 ___
 
