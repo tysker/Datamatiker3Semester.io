@@ -143,6 +143,9 @@ _Web Links_
 * <a href="http://maven.apache.org/guides/introduction/introduction-to-profiles.html" target="_blank">**Introduction to build Profiles**</a>
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
 
+_Tutorials_
+* [**TRAVIS**](../images/travismaven.pdf)
+
 _Internal Links_
 * [**Maven Plugins**](maven/mavenplugins.md)
 * [**Maven Test And Travis**](maven/testguidelines.md)
