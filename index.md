@@ -144,7 +144,7 @@ _Web Links_
 * <a href="https://search.maven.org/" target="_blank">**The Central Repository**</a>
 
 _Tutorials_
-* [**TRAVIS**](../images/travismaven.pdf)
+* [**TRAVIS**](./images/maventravis.pdf)
 
 _Internal Links_
 * [**Maven Plugins**](maven/mavenplugins.md)
