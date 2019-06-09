@@ -158,4 +158,4 @@ _Internal Links_
 
 ### ORM WITH JPA
 
-[**ORM JPA**](../ormjpa)
+[**ORM JPA**]ormjpa/ormjpa.md)
