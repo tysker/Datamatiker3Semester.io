@@ -156,4 +156,6 @@ _Internal Links_
 * [**Deployment with Maven on a remote Tomcat Server**](maven/deploymentmaven.md)
 * [**POM.XML**](maven/pom.md)
 
+### ORM WITH JPA
 
+[**ORM JPA**](../ormjpa)
