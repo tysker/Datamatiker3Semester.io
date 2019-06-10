@@ -2,16 +2,35 @@
 
 # Java Persistance Aplication
 
+**Questions**
+
+* Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM
+
+* Explain the JPA strategy for handling Object Relational Mapping and important classes/annotations involved.
+
+* Outline some of the fundamental differences in Database handling using plain JDBC versus JPA.
+
+* Explain some of the problems which occur when you write tests that involves database operations.
+
+* Explain ways (one strategy is enough) to mock away the database when writing unit tests.
+
+* Explain ways to run integration tests on Travis using a “real” MySQL server.
+
+
 **Slides**
+
  * [**Object Relationel Mapping**](../files/ORM-intro.pdf)
        
 **gitignore**
+
 * /src/main/resources/META-INF/persistence.xml
 
 **Create New Project**
-[**New Project**](ormjpa.md)
+
+* [**New Project**](ormjpa.md)
 
 **Cheat sheet**
+
 * <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Cheatsheet**</a>
 
 
@@ -28,15 +47,6 @@
  * <a href="https://www.tutorialspoint.com/jpa/" target="_blank">**JPA Tutorial Points**</a>
  
  ____
- 
- 
- * [**One to One – Unidirectional**](/jpa/otou.md)
- * [**One to One – Bidirectional**](/jpa/otob.md)
- * [**OneToMany – Unidirectional**](/jpa/otmu.md)
- * [**OneToMany – Bidirectional**](/jpa/otmb.md)
- * [**Many To One – Bidirectional**](/jpa/mto.md)
- * [**ManyToMany**](/jpa/mtmb.md)
- 
 
  **Requirements for Entity Classes**
 * The class must be annotated with the @Entity annotation.
@@ -46,7 +56,7 @@
 * Entities may extend both entity and non-entity classes, and non-entity classes may extend entity classes.
 * Persistent instance variables must be declared private, protected, or package-private and can be accessed directly only by the entity class's methods. Clients must access the entity's state through accessor or business methods.
 
-
+____
 
 **Notes**
 
@@ -56,11 +66,13 @@
 * The **EntityManager.remove()** operation is used to delete an object from the database. remove does not directly delete the object from the database, it marks the object to be deleted in the persistence context (transaction). When the transaction is committed, or if the persistence context is flushed, then the object will be deleted from the database.
 * **NEVER** commit your persistence.xml file. Add persistence.xml to your .gitignore file
 
+____
 
 **Mapping**
 
 * The first thing that you need to do to persist something in Java is define how it is to be persisted. This is called the mapping process 
 
+____
 
 **Persisting**
 
@@ -72,4 +84,13 @@
   4. find (SELECT)
 * The EntityManager is an object-oriented API, so does not map directly onto database SQL or DML operations. For example to update an object, you just need to read the object and change its state through its set methods, and then call commit on the transaction. The EntityManager figures out which objects you changed and performs the correct updates to the database, there is no explicit update operation in JPA.
 
+___
 
+
+ * [**One to One – Unidirectional**](/jpa/otou.md)
+ * [**One to One – Bidirectional**](/jpa/otob.md)
+ * [**OneToMany – Unidirectional**](/jpa/otmu.md)
+ * [**OneToMany – Bidirectional**](/jpa/otmb.md)
+ * [**Many To One – Bidirectional**](/jpa/mto.md)
+ * [**ManyToMany**](/jpa/mtmb.md)
+ 
