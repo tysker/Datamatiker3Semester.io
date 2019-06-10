@@ -2,6 +2,8 @@
 
 # Java Persistance Aplication
 
+___
+
 **Questions**
 
 * Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM
@@ -16,22 +18,35 @@
 
 * Explain ways to run integration tests on Travis using a “real” MySQL server.
 
+___
+
 
 **Slides**
 
  * [**Object Relationel Mapping**](../files/ORM-intro.pdf)
        
+___
+
+
 **gitignore**
 
 * /src/main/resources/META-INF/persistence.xml
+
+____
+
 
 **Create New Project**
 
 * [**New Project**](ormjpa.md)
 
+____
+
+
 **Cheat sheet**
 
 * <a href="https://docs.google.com/document/d/1C3BNKSonlCVUhdRyXkHS5Spp1hIKMRgxuqAD9lh0ak0/edit?usp=sharing" target="_blank">**Implementing Relations Cheatsheet**</a>
+
+____
 
 
 **Importen Links**
