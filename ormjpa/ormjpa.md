@@ -3,8 +3,8 @@
 ## Create New JPA Project
 
 	1. create a new Database in workbench
-	2. create new project in netbeans
-	3. use persistance new entity class to create new entyties (classes)
+	2. create new Maven project in netbeans
+	3. create new entyties (classes)
 		a. remember to change long to Integer at primary key
 		b. change if not said otherwise, GenerationType.Auto to GenerationType.IDENTITY
 		c. add new private variable to your classes
@@ -42,11 +42,5 @@
 		a. mysql-connector
 
   
- * If you have a List in one of your entity classes, add this annotation on top of them.
  
- 		@ElementCollection()
-		
-* The Same counts for ENUMS
-
-		@Enumerated(EnumType.STRING)
 
