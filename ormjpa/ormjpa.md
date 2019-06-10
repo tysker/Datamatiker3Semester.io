@@ -42,5 +42,11 @@
 		a. mysql-connector
 
   
-  
+ * If you have a List in one of your entity classes, add this annotation on top of them.
+ 
+ 		@ElementCollection()
+		
+* The Same counts for ENUMS
+
+		@Enumerated(EnumType.STRING)
 
