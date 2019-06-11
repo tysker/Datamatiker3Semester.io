@@ -37,6 +37,9 @@
 <a href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization" target="_blank">_International Organization for Standardization_</a>
 
 ## J
+**JDBC**
+<a href="https://www.javatpoint.com/java-jdbc" target="_blank">_Java Database Connectivity_</a>
+
 **JAR files**
 <a href="https://en.wikipedia.org/wiki/JAR_(file_format)" target="_blank">_Java ARchive_</a>
 
