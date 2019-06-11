@@ -36,7 +36,7 @@
 
         }
 
-### Geberator Eksample
+### Generator Eksample
 
     public class Generator {
 
