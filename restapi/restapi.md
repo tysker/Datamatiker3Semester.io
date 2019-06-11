@@ -35,6 +35,25 @@
             }
 
         }
+        
+        
+### Test
+
+    @Before
+    public void setUp() {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("pu");
+        EntityManager em = emf.createEntityManager();
+        try {
+            System.out.println("delete");
+            em.getTransaction().begin();
+            em.createQuery("DELETE FROM Customer").executeUpdate();
+            em.getTransaction().commit();
+        } finally {
+            em.close();
+        }
+
+    }
+
 
 ### Generator Eksample
 
