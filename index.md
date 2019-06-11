@@ -156,6 +156,8 @@ _Internal Links_
 * [**Deployment with Maven on a remote Tomcat Server**](maven/deploymentmaven.md)
 * [**POM.XML**](maven/pom.md)
 
-### ORM WITH JPA
+___
 
-[**ORM JPA**](ormjpa/ormjpa.md)
+
+### Rest API Endpoint
+* [**Rest Api**](restapi/restapi.md)
