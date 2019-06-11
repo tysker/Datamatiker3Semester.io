@@ -7,14 +7,17 @@ ___
 **Questions**
 
 * **Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM**
+
        * Tecnique for converting data between  tables in relational databases to objects in an object oriented language and vice versa.
        * Creates in effect a "virtual" object database.
+       
   **Pros**
          * ORM typically reduces the amount of code that needs to be written.
          * Avoids low level JDBC and SQL code.
          * Provides database and schema independence.
          * It allows us to use the OO-paradgrim.
          * Often protects against SQL Injection, but still: always validate inputs.
+         
   **Cons**
          * The high level of abstraction can obscure what is actually happening in the implementation code. 
          * Be aware of JPA’s Convention-Over-Configuration Strategy.
@@ -28,11 +31,11 @@ ___
        * JDBC is a standard for Database Access
        * JPA is a standard for ORM
        
-**JDBC** is a standard for connecting to a DB directly and running SQL against it - e.g SELECT * FROM USERS, etc. Data sets can be returned which you can handle in your app, and you can do all the usual things like INSERT, DELETE, run stored procedures, etc. It is one of the underlying technologies behind most Java database access (including JPA providers).
+      **JDBC** is a standard for connecting to a DB directly and running SQL against it - e.g SELECT * FROM USERS, etc. Data sets can be       returned which you can handle in your app, and you can do all the usual things like INSERT, DELETE, run stored procedures, etc.         It is one of the underlying technologies behind most Java database access (including JPA providers).
 
-One of the issues with traditional JDBC apps is that you can often have some crappy code where lots of mapping between data sets and objects occur, logic is mixed in with SQL, etc.
+      One of the issues with traditional JDBC apps is that you can often have some crappy code where lots of mapping between data sets         and objects occur, logic is mixed in with SQL, etc.
 
-**JPA** is a standard for Object Relational Mapping. This is a technology which allows you to map between objects in code and database tables. This can "hide" the SQL from the developer so that all they deal with are Java classes, and the provider allows you to save them and load them magically. Mostly, XML mapping files or annotations on getters and setters can be used to tell the JPA provider which fields on your object map to which fields in the DB
+      **JPA** is a standard for Object Relational Mapping. This is a technology which allows you to map between objects in code and           database tables. This can "hide" the SQL from the developer so that all they deal with are Java classes, and the provider allows         you to save them and load them magically. Mostly, XML mapping files or annotations on getters and setters can be used to tell the       JPA provider which fields on your object map to which fields in the DB
 
 * **Explain some of the problems which occur when you write tests that involves database operations.**
 
