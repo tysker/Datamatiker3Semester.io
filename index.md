@@ -110,8 +110,9 @@ ___
 ___
 
 
-### JPA
+### Rest Api Endpoint
  * [**JPA Page - ORM**](jpa/jpa.md)
+ * [**Rest Api**](restapi/restapi.md)
 
 ___
 
@@ -159,5 +160,4 @@ _Internal Links_
 ___
 
 
-### Rest API Endpoint
-* [**Rest Api**](restapi/restapi.md)
+
