@@ -8,20 +8,20 @@ ___
 
 * **Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM**
 
-       * Tecnique for converting data between  tables in relational databases to objects in an object oriented language and vice versa.
-       * Creates in effect a "virtual" object database.
+     * Tecnique for converting data between  tables in relational databases to objects in an object oriented language and vice versa.
+     * Creates in effect a "virtual" object database.
        
-  **Pros**
-         * ORM typically reduces the amount of code that needs to be written.
-         * Avoids low level JDBC and SQL code.
-         * Provides database and schema independence.
-         * It allows us to use the OO-paradgrim.
-         * Often protects against SQL Injection, but still: always validate inputs.
+ * **Pros**
+     * ORM typically reduces the amount of code that needs to be written.
+     * Avoids low level JDBC and SQL code.
+     * Provides database and schema independence.
+     * It allows us to use the OO-paradgrim.
+     * Often protects against SQL Injection, but still: always validate inputs.
          
-  **Cons**
-         * The high level of abstraction can obscure what is actually happening in the implementation code. 
-         * Be aware of JPA’s Convention-Over-Configuration Strategy.
-         * Heavy reliance on ORM software has been cited as a major factor in producing poorly designed databases.
+ * **Cons**
+      * The high level of abstraction can obscure what is actually happening in the implementation code. 
+      * Be aware of JPA’s Convention-Over-Configuration Strategy.
+      * Heavy reliance on ORM software has been cited as a major factor in producing poorly designed databases.
 
 * **Explain the JPA strategy for handling Object Relational Mapping and important classes/annotations involved.**
 
