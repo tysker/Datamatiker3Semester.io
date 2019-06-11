@@ -111,7 +111,7 @@ ___
 
 
 ### Rest Api Endpoint
- * [**JPA Page - ORM**](jpa/jpa.md)
+ * [**Java Persistance Aplication(JPA) and Object Relational Mapping(ORM)**](jpa/jpa.md)
  * [**Rest Api**](restapi/restapi.md)
 
 ___
