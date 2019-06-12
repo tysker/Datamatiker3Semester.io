@@ -40,6 +40,9 @@
 **JDBC**
 <a href="https://www.javatpoint.com/java-jdbc" target="_blank">_Java Database Connectivity_</a>
 
+**JPQL**
+<a href="https://www.javatpoint.com/jpa-jpql-introduction" target="_blank">_Java Persistence Query Language_</a>
+
 **JAR files**
 <a href="https://en.wikipedia.org/wiki/JAR_(file_format)" target="_blank">_Java ARchive_</a>
 
