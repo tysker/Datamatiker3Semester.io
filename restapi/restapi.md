@@ -4,7 +4,7 @@
 
 	1. Maven Web application
 	2. Install jersey-bundle dependency and com.google.gson
-	3. create new package
+	3. create new packages = dto, entity, facade, rest, utils
 	4. choose Restfull Web Services from Patterns
 		a. simple root ressource
 		b. Path: for eksample Customer
