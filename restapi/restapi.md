@@ -1,5 +1,22 @@
 [**HOME**](../index.md)
 
+## SET UP Blank Maven Project
+
+	1. Maven Web application
+	2. Install jersey-bundle dependency and com.google.gson
+	3. create new package
+	4. choose Restfull Web Services from Patterns
+		a. simple root ressource
+		b. Path: for eksample Customer
+		c. application/json
+	5. change "webesources" til "api" I ApplicationConfig.java
+	6. change path in the other class to lower case
+	7. add Path to Get method @Path("/all") (indstead of all you can anything else)
+	8. Gson gson = new GsonBuilder().setPrettyPrinting().create(); i entity classen.
+	9. Clean and Build
+	10. Response.ok().entity(gson.toJson(List eller Object)).build();      
+		a. ok() = 200 Code
+		b. entity() =  http Responds Body
 
 
 ### @Path
