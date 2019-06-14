@@ -18,6 +18,89 @@
 		a. ok() = 200 Code
 		b. entity() =  http Responds Body
 
+### Setup Response Headers
+
+	1. New package called filter
+	2. New Java class called ResponseFilter
+	3. Insert this code below
+	4. Remember those two annotaions
+		@PreMatching
+		@Provider
+		
+		
+	@PreMatching
+	@Provider
+	public class ResponseFilter implements ContainerResponseFilter {
+	
+	    @Override
+	    public void filter(ContainerRequestContext requestCtx, ContainerResponseContext res)
+	            throws IOException {
+	        res.getHeaders().add("Access-Control-Allow-Origin", "*");
+	        res.getHeaders().add("Access-Control-Allow-Credentials", "true");
+	        res.getHeaders().add("Access-Control-Allow-Methods", "GET, POST, DELETE, PUT");
+	        res.getHeaders().add("Access-Control-Allow-Headers", "Origin, Accept, Content-Type, Authorization,x-access-token");
+	    }
+	}
+	
+	5. Rememeber to delete jersey-bundel from your pom file!!
+	
+	6. add those to dependencies to your pom file:
+	
+	<dependency>
+	    <groupId>org.glassfish.jersey.containers</groupId>
+	    <artifactId>jersey-container-servlet</artifactId>
+	    <version>2.26</version>
+	</dependency>
+	<dependency>
+	    <groupId>org.glassfish.jersey.inject</groupId>
+	    <artifactId>jersey-hk2</artifactId>
+	    <version>2.26</version>
+	</dependency>
+	
+	7. Alternative you can use this in your Ressource class
+	
+	@GET
+	    @Produces(MediaType.APPLICATION_JSON)
+	    public Response getPersons() {
+	        //TODO return proper representation object
+	        return Response.ok()
+	                .header("Access-Control-Allow-Origin", "*")
+	                .header("Access-Control-Allow-Credentials", "true")
+	                .header("Access-Control-Allow-Headers","origin, content-type, accept, authorization")
+	                .header("Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS, HEAD")
+	                .entity(gson.toJson(df.getAllPersons())).build();
+	    }
+	8. Add a Request Filter
+	
+	package filter;
+	
+	import java.io.IOException;
+	import java.util.logging.Logger;
+	import javax.ws.rs.container.ContainerRequestContext;
+	import javax.ws.rs.container.ContainerRequestFilter;
+	import javax.ws.rs.container.PreMatching;
+	import javax.ws.rs.core.Response;
+	import javax.ws.rs.ext.Provider;
+	
+	@Provider  //This will ensure that the filter is used "automatically"
+	@PreMatching
+	public class RequestFilter implements ContainerRequestFilter {
+	
+	    private final static Logger log = Logger.getLogger(RequestFilter.class.getName());
+	
+	    @Override
+	    public void filter(ContainerRequestContext requestCtx) throws IOException {
+	        // When HttpMethod comes as OPTIONS, just acknowledge that it accepts...
+	        if (requestCtx.getRequest().getMethod().equals("OPTIONS")) {
+	            log.info("HTTP Method (OPTIONS) - Detected!");
+	            // Just send a OK response back to the browser.
+	            // The response goes through the chain of applicable response filters.
+	            requestCtx.abortWith(Response.status(Response.Status.OK).build());
+	        }
+	    }
+	}
+	
+	
 
 ### @Path
 
