@@ -78,7 +78,7 @@ ____
 
 **Importen Links**
 
-* <a href="https://thoughts-on-java.org/jpql/" target="_blank">**JPAQL Queries**</a>
+* <a href="https://en.wikibooks.org/wiki/Java_Persistence/JPQL" target="_blank">**JPAQL Queries**</a>
 * <a href="https://en.wikibooks.org/wiki/Java_Persistence" target="_blank">**Java Persistence**</a>
 * <a href="https://www.objectdb.com/api/java/jpa/annotations" target="_blank">**List of ALL JPA-annotations**</a>
 * <a href="https://docs.oracle.com/javaee/5/api/javax/persistence/EntityManager.html" target="_blank">**EntityManager - Method Summary**</a>
