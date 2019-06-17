@@ -24,6 +24,12 @@ ___
       * Heavy reliance on ORM software has been cited as a major factor in producing poorly designed databases.
 
 * **Explain the JPA strategy for handling Object Relational Mapping and important classes/annotations involved.**
+The strategy is to automate the mapping of objects into or from relational database tables . Each object relates to a tuple of a table. (tuble: linje i Databasen). 
+    Some important classes/annotations:
+            i. @Entity - makes a class an entity class that will be persisted in a corresponding database    table.
+            ii. @Transient - a transient property of an entity class will not be mapped to the database.
+            iii. @OneToMany - annotates a relationship with a different entity.
+            iv. @ManyToMany - another relationship resulting in an intermediate table, aka lookup table.
 
 
 * **Outline some of the fundamental differences in Database handling using plain JDBC versus JPA.**
