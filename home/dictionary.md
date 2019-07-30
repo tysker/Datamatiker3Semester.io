@@ -67,6 +67,12 @@
 The kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system.
 <a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)" target="_blank">_Kernel_</a>
 
+## M
+
+**Middelware**
+Middleware is computer software that provides services to software applications beyond those available from the operating system. It can be described as "software glue".
+<a href="https://en.wikipedia.org/wiki/Middleware" target="_blank">_Middelware_</a>
+
 ## N
 
 **NPM**
