@@ -65,7 +65,7 @@
 
 **Kernel**
 The kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system.
-<a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)" target="_blank">_Java Persistence_</a>
+<a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)" target="_blank">_Kernel_</a>
 
 ## N
 
